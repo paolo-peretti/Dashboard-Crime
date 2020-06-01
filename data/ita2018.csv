@@ -1,0 +1,2333 @@
+Pos,Provincia,NumeroReati,Ogni100milaAbitanti,Tipologia,latitude,longitude
+1,Milano,234116,"7237,7",ranking of crimes 2018,45.466797,9.190498
+2,Rimini,23448,"6951,2",ranking of crimes 2018,44.059145,12.563105
+3,Bologna,64393,"6367,4",ranking of crimes 2018,44.493671,11.343035
+4,Firenze,57762,"5700,6",ranking of crimes 2018,43.769871,11.255576
+5,Torino,128186,"5649,2",ranking of crimes 2018,45.07092,7.685972
+6,Prato,13696,"5348,5",ranking of crimes 2018,44.265834,11.558058
+7,Roma,231889,"5323,8",ranking of crimes 2018,41.893344,12.483072
+8,Livorno,17310,"5148,5",ranking of crimes 2018,43.542631,10.31603
+9,Genova,42873,5074,ranking of crimes 2018,44.40726,8.933862
+10,Savona,14061,"5061,4",ranking of crimes 2018,44.308025,8.481032
+11,Pisa,21288,"5059,5",ranking of crimes 2018,43.715925,10.401898
+12,Parma,22678,"5036,7",ranking of crimes 2018,44.801123,10.328508
+13,Lucca,18876,"4848,8",ranking of crimes 2018,43.84283,10.50287
+14,Venezia,40438,"4737,6",ranking of crimes 2018,45.437191,12.33459
+15,Ravenna,18351,"4689,2",ranking of crimes 2018,44.416141,12.201762
+16,Imperia,9991,4662,ranking of crimes 2018,43.958375,7.866743
+17,Modena,31736,"4521,5",ranking of crimes 2018,44.645889,10.925571
+18,Pistoia,12710,"4354,4",ranking of crimes 2018,43.973933,10.868352
+19,L’Aquila,9452,"4298,1",ranking of crimes 2018,42.137961,13.612241
+20,Reggio Emilia,22758,"4273,2",ranking of crimes 2018,44.697845,10.630496
+21,Ferrara,14714,"4240,7",ranking of crimes 2018,44.836797,11.619811
+22,Pescara,13469,"4217,1",ranking of crimes 2018,42.464378,14.213943
+23,Napoli,130765,"4216,9",ranking of crimes 2018,40.844116,14.2423
+24,Pavia,22935,4202,ranking of crimes 2018,45.186004,9.154638
+25,Foggia,25905,"4142,7",ranking of crimes 2018,41.462373,15.543051
+26,Bari,51616,"4104,6",ranking of crimes 2018,41.125784,16.862029
+27,Trieste,9558,"4073,5",ranking of crimes 2018,45.650034,13.770656
+28,Grosseto,9020,"4059,9",ranking of crimes 2018,42.76844,11.11376
+29,Forlì Cesena,15828,"4015,4",ranking of crimes 2018,44.03625,12.038441
+30,Massa Carrara,7763,"3963,8",ranking of crimes 2018,44.221258,10.046272
+31,Catania,43190,"3891,4",ranking of crimes 2018,37.502608,15.087111
+32,Siracusa,15513,"3869,7",ranking of crimes 2018,37.071438,15.283007
+33,Padova,34688,"3703,1",ranking of crimes 2018,45.407717,11.873446
+34,Bergamo,40926,"3683,6",ranking of crimes 2018,45.694512,9.669839
+35,Brescia,46201,"3659,8",ranking of crimes 2018,45.539835,10.219534
+36,Alessandria,15327,"3613,4",ranking of crimes 2018,44.835262,8.744949
+37,Perugia,23693,"3601,9",ranking of crimes 2018,43.111961,12.38901
+38,Asti,7666,3551,ranking of crimes 2018,44.900576,8.206883
+39,Piacenza,10177,"3548,7",ranking of crimes 2018,45.053475,9.694746
+40,Palermo,44422,3525,ranking of crimes 2018,38.11127,13.353442
+41,Latina,20217,"3512,5",ranking of crimes 2018,41.467259,12.903574
+42,Verona,32165,"3485,5",ranking of crimes 2018,45.438496,10.992412
+43,Trapani,15055,"3481,7",ranking of crimes 2018,38.016054,12.543748
+44,Novara,12774,"3456,2",ranking of crimes 2018,45.446404,8.619655
+45,Salerno,37977,"3446,9",ranking of crimes 2018,40.677978,14.765755
+46,Teramo,10507,"3408,2",ranking of crimes 2018,42.658118,13.699625
+47,Varese,30287,3401,ranking of crimes 2018,45.839713,8.754158
+48,Brindisi,13238,"3351,6",ranking of crimes 2018,40.641067,17.948711
+49,Caserta,30604,"3314,1",ranking of crimes 2018,41.083215,14.334929
+50,Vibo Valentia,5272,"3276,8",ranking of crimes 2018,38.679275,16.088142
+51,Terni,7403,"3263,3",ranking of crimes 2018,42.564142,12.640547
+52,Lecco,11053,"3256,8",ranking of crimes 2018,45.900549,9.412025
+53,Barletta-Andria-Trani,12675,"3239,8",ranking of crimes 2018,41.170896,16.139466
+54,Catanzaro,11608,"3217,1",ranking of crimes 2018,38.907635,16.596047
+55,Macerata,10132,"3203,2",ranking of crimes 2018,41.066667,14.266667
+56,Ascoli Piceno,6649,"3190,9",ranking of crimes 2018,42.88342,13.539593
+57,Ragusa,10116,"3147,8",ranking of crimes 2018,36.922009,14.721335
+58,Mantova,12925,"3138,9",ranking of crimes 2018,45.156668,10.791719
+59,Lecce,25050,"3135,6",ranking of crimes 2018,40.357037,18.171848
+60,Gorizia,4358,"3125,4",ranking of crimes 2018,45.862488,13.497925
+61,Sassari,15344,"3114,6",ranking of crimes 2018,40.723264,8.561007
+62,Taranto,17991,"3100,2",ranking of crimes 2018,40.471243,17.243228
+63,Caltanissetta,8215,"3083,4",ranking of crimes 2018,37.489829,14.063292
+64,Ancona,14548,"3078,3",ranking of crimes 2018,43.617014,13.517098
+65,Biella,5434,"3068,9",ranking of crimes 2018,45.566456,8.054277
+66,Monza Brianza,26535,"3044,1",ranking of crimes 2018,45.59802,9.2703
+67,Bolzano,15985,"3028,9",ranking of crimes 2018,46.498113,11.35478
+68,Reggio Calabria,16657,"3021,9",ranking of crimes 2018,38.103539,15.639756
+69,Cremona,10825,"3019,4",ranking of crimes 2018,38.17832,15.54803
+70,Vercelli,5166,"2998,1",ranking of crimes 2018,45.555383,8.346284
+71,Trento,16166,"2994,3",ranking of crimes 2018,46.066423,11.12576
+72,Arezzo,10202,"2970,5",ranking of crimes 2018,43.462896,11.878168
+73,Siena,7942,"2963,3",ranking of crimes 2018,43.318554,11.331653
+74,Aosta,3721,"2948,4",ranking of crimes 2018,45.737089,7.319665
+75,Viterbo,9382,"2948,4",ranking of crimes 2018,42.41666,12.103834
+76,Chieti,11335,2928,ranking of crimes 2018,42.102718,14.415935
+77,Crotone,5051,"2885,3",ranking of crimes 2018,39.080622,17.127196
+78,Fermo,4978,"2855,4",ranking of crimes 2018,43.092249,13.638768
+79,Nuoro,6010,"2854,7",ranking of crimes 2018,40.32106,9.329734
+80,Cagliari,22388,"2842,3",ranking of crimes 2018,39.216953,9.112851
+81,Pesaro Urbino,10235,"2842,1",ranking of crimes 2018,43.90901,12.89598
+82,Cosenza,20073,"2832,4",ranking of crimes 2018,39.597269,16.334274
+83,Isernia,2411,"2828,6",ranking of crimes 2018,41.649468,14.208148
+84,Udine,14878,"2810,5",ranking of crimes 2018,46.064698,13.235749
+85,Messina,17740,"2810,1",ranking of crimes 2018,38.193757,15.554208
+86,Lodi,6403,"2786,8",ranking of crimes 2018,38.17943,15.54907
+87,Como,16643,"2777,1",ranking of crimes 2018,45.810681,9.086303
+88,Rovigo,6528,"2761,4",ranking of crimes 2018,44.977199,12.27721
+89,Avellino,11627,"2758,3",ranking of crimes 2018,40.996545,15.140569
+90,Rieti,4238,"2707,1",ranking of crimes 2018,42.416366,12.885067
+91,Frosinone,13192,"2688,8",ranking of crimes 2018,41.628259,13.576332
+92,Vicenza,23202,"2687,9",ranking of crimes 2018,45.548755,11.549747
+93,Campobasso,5979,"2678,1",ranking of crimes 2018,41.559794,14.660273
+94,Matera,5231,"2630,4",ranking of crimes 2018,40.668523,16.601585
+95,Agrigento,11394,"2599,7",ranking of crimes 2018,37.312299,13.57465
+96,Verbano Cusio Ossola,4103,"2577,9",ranking of crimes 2018,46.115576,8.383597
+97,Cuneo,14986,"2546,2",ranking of crimes 2018,44.389562,7.54787
+98,La Spezia,7459,2483,ranking of crimes 2018,44.107033,9.828226
+99,Enna,4020,"2417,9",ranking of crimes 2018,37.565962,14.282404
+100,Sondrio,4336,"2390,3",ranking of crimes 2018,46.323362,10.258414
+101,Benevento,6649,"2382,1",ranking of crimes 2018,41.129559,14.782464
+102,Treviso,20493,"2309,3",ranking of crimes 2018,45.665851,12.245541
+103,Potenza,8419,"2286,2",ranking of crimes 2018,40.638405,15.802208
+104,Belluno,4655,"2271,8",ranking of crimes 2018,46.137519,12.218171
+105,Pordenone,6835,"2190,1",ranking of crimes 2018,46.101737,12.703903
+106,Oristano,2565,1611,ranking of crimes 2018,39.90595,8.591611
+1,Vibo Valentia,25,"15,54",homicides,38.679275,16.088142
+2,Nuoro,20,"9,5",homicides,40.32106,9.329734
+3,Foggia,40,"6,4",homicides,41.462373,15.543051
+4,Crotone,11,"6,28",homicides,39.080622,17.127196
+5,Livorno,18,"5,35",homicides,43.542631,10.31603
+6,Reggio Calabria,27,"4,9",homicides,38.103539,15.639756
+7,Napoli,143,"4,61",homicides,40.844116,14.2423
+8,Caltanissetta,12,"4,5",homicides,37.489829,14.063292
+9,Agrigento,19,"4,34",homicides,37.312299,13.57465
+10,Trapani,18,"4,16",homicides,38.016054,12.543748
+11,Catanzaro,15,"4,16",homicides,38.907635,16.596047
+12,Siracusa,16,"3,99",homicides,37.071438,15.283007
+13,Taranto,23,"3,96",homicides,40.471243,17.243228
+14,Ragusa,12,"3,73",homicides,36.922009,14.721335
+15,Enna,6,"3,61",homicides,37.565962,14.282404
+16,Barletta-Andria-Trani,14,"3,58",homicides,41.170896,16.139466
+17,Bari,45,"3,58",homicides,41.125784,16.862029
+18,Ravenna,14,"3,58",homicides,44.416141,12.201762
+19,Potenza,13,"3,53",homicides,40.638405,15.802208
+20,Isernia,3,"3,52",homicides,41.649468,14.208148
+21,Novara,13,"3,52",homicides,45.446404,8.619655
+22,Vercelli,6,"3,48",homicides,45.555383,8.346284
+23,Imperia,7,"3,27",homicides,43.958375,7.866743
+24,Caserta,30,"3,25",homicides,41.083215,14.334929
+25,Sassari,16,"3,25",homicides,40.723264,8.561007
+26,Oristano,5,"3,14",homicides,39.90595,8.591611
+27,Campobasso,7,"3,14",homicides,41.559794,14.660273
+28,Chieti,11,"2,84",homicides,42.102718,14.415935
+29,L’Aquila,6,"2,73",homicides,42.137961,13.612241
+30,Catania,30,"2,7",homicides,37.502608,15.087111
+31,Grosseto,6,"2,7",homicides,42.76844,11.11376
+32,Como,16,"2,67",homicides,45.810681,9.086303
+33,Milano,85,"2,63",homicides,45.466797,9.190498
+34,Pisa,11,"2,61",homicides,43.715925,10.401898
+35,Avellino,11,"2,61",homicides,40.996545,15.140569
+36,Latina,15,"2,61",homicides,41.467259,12.903574
+37,Genova,22,"2,6",homicides,44.40726,8.933862
+38,Pordenone,8,"2,56",homicides,46.101737,12.703903
+39,Massa Carrara,5,"2,55",homicides,44.221258,10.046272
+40,Brindisi,10,"2,53",homicides,40.641067,17.948711
+41,Matera,5,"2,51",homicides,40.668523,16.601585
+42,Roma,107,"2,46",homicides,41.893344,12.483072
+43,Cagliari,19,"2,41",homicides,39.216953,9.112851
+44,Palermo,30,"2,38",homicides,38.11127,13.353442
+45,Torino,54,"2,38",homicides,45.07092,7.685972
+46,Messina,15,"2,38",homicides,38.193757,15.554208
+47,Asti,5,"2,32",homicides,44.900576,8.206883
+48,Bolzano,12,"2,27",homicides,46.498113,11.35478
+49,Bergamo,25,"2,25",homicides,45.694512,9.669839
+50,Siena,6,"2,24",homicides,43.318554,11.331653
+51,Pesaro Urbino,8,"2,22",homicides,43.90901,12.89598
+52,Sondrio,4,"2,21",homicides,46.323362,10.258414
+53,Viterbo,7,"2,2",homicides,42.41666,12.103834
+54,Padova,19,"2,03",homicides,45.407717,11.873446
+55,Varese,18,"2,02",homicides,45.839713,8.754158
+56,Ferrara,7,"2,02",homicides,44.836797,11.619811
+57,Pavia,11,"2,02",homicides,45.186004,9.154638
+58,Salerno,22,2,homicides,40.677978,14.765755
+59,Venezia,17,"1,99",homicides,45.437191,12.33459
+60,Monza Brianza,17,"1,95",homicides,45.59802,9.2703
+61,Teramo,6,"1,95",homicides,42.658118,13.699625
+62,Rimini,6,"1,78",homicides,44.059145,12.563105
+63,Terni,4,"1,76",homicides,42.564142,12.640547
+64,Rovigo,4,"1,69",homicides,44.977199,12.27721
+65,Trento,9,"1,67",homicides,46.066423,11.12576
+66,Alessandria,7,"1,65",homicides,44.835262,8.744949
+67,Frosinone,8,"1,63",homicides,41.628259,13.576332
+68,Aosta,2,"1,58",homicides,45.737089,7.319665
+69,Firenze,16,"1,58",homicides,43.769871,11.255576
+70,Pescara,5,"1,57",homicides,42.464378,14.213943
+71,Prato,4,"1,56",homicides,44.265834,11.558058
+72,Parma,7,"1,55",homicides,44.801123,10.328508
+73,Savona,4,"1,44",homicides,44.308025,8.481032
+74,Benevento,4,"1,43",homicides,41.129559,14.782464
+75,Cosenza,10,"1,41",homicides,39.597269,16.334274
+76,Perugia,9,"1,37",homicides,43.111961,12.38901
+77,Verona,12,"1,3",homicides,45.438496,10.992412
+78,Bologna,13,"1,29",homicides,44.493671,11.343035
+79,Lucca,5,"1,28",homicides,43.84283,10.50287
+80,Trieste,3,"1,28",homicides,45.650034,13.770656
+81,Rieti,2,"1,28",homicides,42.416366,12.885067
+82,Forlì Cesena,5,"1,27",homicides,44.03625,12.038441
+83,Macerata,4,"1,26",homicides,41.066667,14.266667
+84,Lecce,10,"1,25",homicides,40.357037,18.171848
+85,Mantova,5,"1,21",homicides,45.156668,10.791719
+86,Cuneo,7,"1,19",homicides,44.389562,7.54787
+87,Brescia,15,"1,19",homicides,45.539835,10.219534
+88,Arezzo,4,"1,16",homicides,43.462896,11.878168
+89,Fermo,2,"1,15",homicides,43.092249,13.638768
+90,Modena,8,"1,14",homicides,44.645889,10.925571
+91,Biella,2,"1,13",homicides,45.566456,8.054277
+92,Piacenza,3,"1,05",homicides,45.053475,9.694746
+93,Pistoia,3,"1,03",homicides,43.973933,10.868352
+94,Belluno,2,"0,98",homicides,46.137519,12.218171
+95,Ascoli Piceno,2,"0,96",homicides,42.88342,13.539593
+96,Reggio Emilia,5,"0,94",homicides,44.697845,10.630496
+97,Treviso,8,"0,9",homicides,45.665851,12.245541
+98,Lodi,2,"0,87",homicides,38.17943,15.54907
+99,Ancona,4,"0,85",homicides,43.617014,13.517098
+100,Cremona,3,"0,84",homicides,38.17832,15.54803
+101,Gorizia,1,"0,72",homicides,45.862488,13.497925
+102,Vicenza,6,"0,7",homicides,45.548755,11.549747
+103,La Spezia,2,"0,67",homicides,44.107033,9.828226
+104,Udine,2,"0,38",homicides,46.064698,13.235749
+105,Lecco,1,"0,29",homicides,45.900549,9.412025
+106,Verbano Cusio Ossola,0,0,homicides,46.115576,8.383597
+1,Rimini,14814,"4391,61",theft,44.059145,12.563105
+2,Milano,140662,"4348,59",theft,45.466797,9.190498
+3,Bologna,37552,"3713,27",theft,44.493671,11.343035
+4,Firenze,33190,"3275,57",theft,43.769871,11.255576
+5,Roma,141727,"3253,81",theft,41.893344,12.483072
+6,Pisa,13408,"3186,68",theft,43.715925,10.401898
+7,Lucca,11585,"2975,89",theft,43.84283,10.50287
+8,Venezia,24881,2915,theft,45.437191,12.33459
+9,Livorno,9653,"2871,08",theft,43.542631,10.31603
+10,Torino,64196,"2829,11",theft,45.07092,7.685972
+11,Parma,12314,"2734,89",theft,44.801123,10.328508
+12,Ravenna,10197,"2605,63",theft,44.416141,12.201762
+13,Modena,17971,"2560,35",theft,44.645889,10.925571
+14,Savona,7092,"2552,82",theft,44.308025,8.481032
+15,Prato,6515,"2544,22",theft,44.265834,11.558058
+16,Reggio Emilia,13443,"2524,15",theft,44.697845,10.630496
+17,Bari,29811,"2370,62",theft,41.125784,16.862029
+18,Genova,19877,"2352,43",theft,44.40726,8.933862
+19,Catania,25742,"2319,33",theft,37.502608,15.087111
+20,Ferrara,8016,"2310,25",theft,44.836797,11.619811
+21,Pistoia,6630,"2271,39",theft,43.973933,10.868352
+22,Forlì Cesena,8702,"2207,59",theft,44.03625,12.038441
+23,Napoli,66991,"2160,3",theft,40.844116,14.2423
+24,Pavia,11536,"2113,56",theft,45.186004,9.154638
+25,Imperia,4466,"2083,95",theft,43.958375,7.866743
+26,L’Aquila,4552,"2069,95",theft,42.137961,13.612241
+27,Monza Brianza,17966,"2061,03",theft,45.59802,9.2703
+28,Massa Carrara,3964,"2024,01",theft,44.221258,10.046272
+29,Foggia,12557,"2008,12",theft,41.462373,15.543051
+30,Bergamo,21619,"1945,84",theft,45.694512,9.669839
+31,Grosseto,4276,"1924,61",theft,42.76844,11.11376
+32,Padova,17979,"1919,32",theft,45.407717,11.873446
+33,Pescara,6098,"1909,28",theft,42.464378,14.213943
+34,Verona,17179,"1861,57",theft,45.438496,10.992412
+35,Palermo,23281,"1847,42",theft,38.11127,13.353442
+36,Piacenza,5213,"1817,76",theft,45.053475,9.694746
+37,Barletta-Andria-Trani,7056,"1803,57",theft,41.170896,16.139466
+38,Siracusa,7215,"1799,79",theft,37.071438,15.283007
+39,Alessandria,7596,"1790,77",theft,44.835262,8.744949
+40,Trieste,4185,"1783,6",theft,45.650034,13.770656
+41,Caserta,16470,"1783,54",theft,41.083215,14.334929
+42,Brescia,22511,"1783,19",theft,45.539835,10.219534
+43,Perugia,11424,"1736,74",theft,43.111961,12.38901
+44,Latina,9848,"1710,98",theft,41.467259,12.903574
+45,Teramo,5241,"1700,06",theft,42.658118,13.699625
+46,Trapani,7152,"1654,03",theft,38.016054,12.543748
+47,Brindisi,6531,"1653,51",theft,40.641067,17.948711
+48,Fermo,2869,"1645,65",theft,43.092249,13.638768
+49,Asti,3543,"1641,16",theft,44.900576,8.206883
+50,Taranto,9262,"1596,02",theft,40.471243,17.243228
+51,Salerno,17426,"1581,65",theft,40.677978,14.765755
+52,Novara,5751,"1556,03",theft,45.446404,8.619655
+53,Macerata,4882,"1543,42",theft,41.066667,14.266667
+54,Lecco,5189,"1528,95",theft,45.900549,9.412025
+55,Mantova,6271,"1522,97",theft,45.156668,10.791719
+56,Lecce,12091,"1513,47",theft,40.357037,18.171848
+57,Varese,13442,"1509,44",theft,45.839713,8.754158
+58,Bolzano,7882,"1493,51",theft,46.498113,11.35478
+59,Pesaro Urbino,5335,"1481,43",theft,43.90901,12.89598
+60,Terni,3304,"1456,44",theft,42.564142,12.640547
+61,Ragusa,4661,"1450,35",theft,36.922009,14.721335
+62,Vicenza,12369,"1432,92",theft,45.548755,11.549747
+63,Ascoli Piceno,2941,"1411,38",theft,42.88342,13.539593
+64,Chieti,5463,"1411,19",theft,42.102718,14.415935
+65,Ancona,6651,"1407,31",theft,43.617014,13.517098
+66,Lodi,3223,"1402,74",theft,38.17943,15.54907
+67,Cremona,5020,"1400,23",theft,38.17832,15.54803
+68,Rovigo,3293,"1392,98",theft,44.977199,12.27721
+69,Udine,7340,"1386,53",theft,46.064698,13.235749
+70,Trento,7470,"1383,59",theft,46.066423,11.12576
+71,Como,8236,"1374,27",theft,45.810681,9.086303
+72,Arezzo,4551,"1325,09",theft,43.462896,11.878168
+73,Siena,3498,"1305,18",theft,43.318554,11.331653
+74,Gorizia,1806,"1295,19",theft,45.862488,13.497925
+75,Campobasso,2790,"1249,69",theft,41.559794,14.660273
+76,Sassari,6137,"1245,73",theft,40.723264,8.561007
+77,Viterbo,3938,"1237,57",theft,42.41666,12.103834
+78,Caltanissetta,3212,"1205,58",theft,37.489829,14.063292
+79,Treviso,10554,"1189,29",theft,45.665851,12.245541
+80,Cuneo,6952,"1181,19",theft,44.389562,7.54787
+81,Vercelli,2010,"1166,52",theft,45.555383,8.346284
+82,Cosenza,8201,"1157,19",theft,39.597269,16.334274
+83,Catanzaro,4130,"1144,61",theft,38.907635,16.596047
+84,Aosta,1444,"1144,2",theft,45.737089,7.319665
+85,Cagliari,8962,"1137,78",theft,39.216953,9.112851
+86,Biella,1998,"1128,39",theft,45.566456,8.054277
+87,Reggio Calabria,6119,"1110,1",theft,38.103539,15.639756
+88,La Spezia,3045,"1013,63",theft,44.107033,9.828226
+89,Frosinone,4827,"983,83",theft,41.628259,13.576332
+90,Rieti,1534,"979,85",theft,42.416366,12.885067
+91,Pordenone,3051,"977,63",theft,46.101737,12.703903
+92,Matera,1918,"964,46",theft,40.668523,16.601585
+93,Messina,6072,"961,83",theft,38.193757,15.554208
+94,Vibo Valentia,1527,"949,1",theft,38.679275,16.088142
+95,Benevento,2531,"906,76",theft,41.129559,14.782464
+96,Verbano Cusio Ossola,1429,"897,84",theft,46.115576,8.383597
+97,Agrigento,3907,"891,45",theft,37.312299,13.57465
+98,Avellino,3573,"847,64",theft,40.996545,15.140569
+99,Nuoro,1769,"840,26",theft,40.32106,9.329734
+100,Sondrio,1428,"787,2",theft,46.323362,10.258414
+101,Crotone,1267,"723,75",theft,39.080622,17.127196
+102,Enna,1173,"705,53",theft,37.565962,14.282404
+103,Isernia,584,"685,15",theft,41.649468,14.208148
+104,Belluno,1303,"635,92",theft,46.137519,12.218171
+105,Potenza,2226,"604,48",theft,40.638405,15.802208
+106,Oristano,917,"575,94",theft,39.90595,8.591611
+1,Agrigento,1243,"283,6",other crimes,37.312299,13.57465
+2,Alessandria,1268,"298,9",other crimes,44.835262,8.744949
+3,Ancona,1311,"277,4",other crimes,43.617014,13.517098
+4,Aosta,377,"298,7",other crimes,45.737089,7.319665
+5,Arezzo,1023,"297,9",other crimes,43.462896,11.878168
+6,Ascoli Piceno,674,"323,5",other crimes,42.88342,13.539593
+7,Asti,792,"366,9",other crimes,44.900576,8.206883
+8,Avellino,1460,"346,4",other crimes,40.996545,15.140569
+9,Bari,3585,"285,1",other crimes,41.125784,16.862029
+10,Barletta-Andria-Trani,639,"163,3",other crimes,41.170896,16.139466
+11,Belluno,798,"389,5",other crimes,46.137519,12.218171
+12,Benevento,700,"250,8",other crimes,41.129559,14.782464
+13,Bergamo,3673,"330,6",other crimes,45.694512,9.669839
+14,Biella,573,"323,6",other crimes,45.566456,8.054277
+15,Bologna,4548,"449,7",other crimes,44.493671,11.343035
+16,Bolzano,1327,"251,4",other crimes,46.498113,11.35478
+17,Brescia,4066,"322,1",other crimes,45.539835,10.219534
+18,Brindisi,1095,"277,2",other crimes,40.641067,17.948711
+19,Cagliari,2110,"267,9",other crimes,39.216953,9.112851
+20,Caltanissetta,686,"257,5",other crimes,37.489829,14.063292
+21,Campobasso,713,"319,4",other crimes,41.559794,14.660273
+22,Caserta,3757,"406,8",other crimes,41.083215,14.334929
+23,Catania,3020,"272,1",other crimes,37.502608,15.087111
+24,Catanzaro,1123,"311,2",other crimes,38.907635,16.596047
+25,Chieti,1010,"260,9",other crimes,42.102718,14.415935
+26,Como,1351,"225,4",other crimes,45.810681,9.086303
+27,Cosenza,1756,"247,8",other crimes,39.597269,16.334274
+28,Cremona,1183,330,other crimes,38.17832,15.54803
+29,Crotone,549,"313,6",other crimes,39.080622,17.127196
+30,Cuneo,1218,"206,9",other crimes,44.389562,7.54787
+31,Enna,419,252,other crimes,37.565962,14.282404
+32,Fermo,256,"146,8",other crimes,43.092249,13.638768
+33,Ferrara,966,"278,4",other crimes,44.836797,11.619811
+34,Firenze,3495,"344,9",other crimes,43.769871,11.255576
+35,Foggia,2066,"330,4",other crimes,41.462373,15.543051
+36,Forlì Cesena,1035,"262,6",other crimes,44.03625,12.038441
+37,Frosinone,1430,"291,5",other crimes,41.628259,13.576332
+38,Genova,3427,"405,6",other crimes,44.40726,8.933862
+39,Gorizia,617,"442,5",other crimes,45.862488,13.497925
+40,Grosseto,746,"335,8",other crimes,42.76844,11.11376
+41,Imperia,951,"443,8",other crimes,43.958375,7.866743
+42,Isernia,315,"369,6",other crimes,41.649468,14.208148
+43,La Spezia,853,"387,9",other crimes,44.107033,9.828226
+44,L’Aquila,785,"261,3",other crimes,42.137961,13.612241
+45,Latina,1699,"295,2",other crimes,41.467259,12.903574
+46,Lecce,2226,"278,6",other crimes,40.357037,18.171848
+47,Lecco,988,"291,1",other crimes,45.900549,9.412025
+48,Livorno,1059,315,other crimes,43.542631,10.31603
+49,Lodi,569,"247,6",other crimes,38.17943,15.54907
+50,Lucca,1323,"339,8",other crimes,43.84283,10.50287
+51,Macerata,923,"291,8",other crimes,41.066667,14.266667
+52,Mantova,1335,"324,2",other crimes,45.156668,10.791719
+53,Massa Carrara,451,"230,3",other crimes,44.221258,10.046272
+54,Matera,455,"228,8",other crimes,40.668523,16.601585
+55,Messina,1989,"315,1",other crimes,38.193757,15.554208
+56,Milano,18744,"579,5",other crimes,45.466797,9.190498
+57,Modena,1943,"276,8",other crimes,44.645889,10.925571
+58,Monza Brianza,1151,132,other crimes,45.59802,9.2703
+59,Napoli,17642,"568,9",other crimes,40.844116,14.2423
+60,Novara,1385,"374,7",other crimes,45.446404,8.619655
+61,Nuoro,705,"334,9",other crimes,40.32106,9.329734
+62,Oristano,264,"165,8",other crimes,39.90595,8.591611
+63,Padova,2746,"293,1",other crimes,45.407717,11.873446
+64,Palermo,4237,"336,2",other crimes,38.11127,13.353442
+65,Parma,1581,"351,1",other crimes,44.801123,10.328508
+66,Pavia,1278,"234,1",other crimes,45.186004,9.154638
+67,Perugia,2267,"344,6",other crimes,43.111961,12.38901
+68,Pesaro Urbino,851,"236,3",other crimes,43.90901,12.89598
+69,Pescara,1244,"389,5",other crimes,42.464378,14.213943
+70,Piacenza,821,"286,3",other crimes,45.053475,9.694746
+71,Pisa,1334,"317,1",other crimes,43.715925,10.401898
+72,Pistoia,901,"308,7",other crimes,43.973933,10.868352
+73,Pordenone,883,"282,9",other crimes,46.101737,12.703903
+74,Potenza,950,258,other crimes,40.638405,15.802208
+75,Prato,879,"343,3",other crimes,44.265834,11.558058
+76,Ragusa,727,"226,2",other crimes,36.922009,14.721335
+77,Ravenna,1315,336,other crimes,44.416141,12.201762
+78,Reggio Calabria,1733,"314,4",other crimes,38.103539,15.639756
+79,Reggio Emilia,1410,"264,8",other crimes,44.697845,10.630496
+80,Rieti,446,"284,9",other crimes,42.416366,12.885067
+81,Rimini,1478,"438,2",other crimes,44.059145,12.563105
+82,Roma,16323,"374,7",other crimes,41.893344,12.483072
+83,Rovigo,579,"244,9",other crimes,44.977199,12.27721
+84,Salerno,3657,"331,9",other crimes,40.677978,14.765755
+85,Sassari,1258,"255,4",other crimes,40.723264,8.561007
+86,Savona,1199,"431,6",other crimes,44.308025,8.481032
+87,Siena,1110,"414,2",other crimes,43.318554,11.331653
+88,Siracusa,1207,"301,1",other crimes,37.071438,15.283007
+89,Sondrio,557,"307,1",other crimes,46.323362,10.258414
+90,Taranto,1457,"251,1",other crimes,40.471243,17.243228
+91,Teramo,880,"285,5",other crimes,42.658118,13.699625
+92,Terni,711,"313,4",other crimes,42.564142,12.640547
+93,Torino,10350,"456,1",other crimes,45.07092,7.685972
+94,Trapani,1091,"252,3",other crimes,38.016054,12.543748
+95,Trento,1572,"291,2",other crimes,46.066423,11.12576
+96,Treviso,1725,"194,4",other crimes,45.665851,12.245541
+97,Trieste,1261,"537,4",other crimes,45.650034,13.770656
+98,Udine,1797,"339,5",other crimes,46.064698,13.235749
+99,Varese,2533,"284,4",other crimes,45.839713,8.754158
+100,Venezia,2579,"302,1",other crimes,45.437191,12.33459
+101,Verbano Cusio Ossola,625,"392,7",other crimes,46.115576,8.383597
+102,Vercelli,478,"277,4",other crimes,45.555383,8.346284
+103,Verona,2442,"264,6",other crimes,45.438496,10.992412
+104,Vibo Valentia,542,"336,9",other crimes,38.679275,16.088142
+105,Vicenza,2220,"257,2",other crimes,45.548755,11.549747
+106,Viterbo,919,"288,8",other crimes,42.41666,12.103834
+1,Trieste,1,"0,43",infanticide,45.650034,13.770656
+2,Napoli,1,"0,03",infanticide,40.844116,14.2423
+3,Agrigento,,0,infanticide,37.312299,13.57465
+4,Alessandria,,0,infanticide,44.835262,8.744949
+5,Ancona,,0,infanticide,43.617014,13.517098
+6,Aosta,,0,infanticide,45.737089,7.319665
+7,Arezzo,,0,infanticide,43.462896,11.878168
+8,Ascoli Piceno,,0,infanticide,42.88342,13.539593
+9,Asti,,0,infanticide,44.900576,8.206883
+10,Avellino,,0,infanticide,40.996545,15.140569
+11,Bari,,0,infanticide,41.125784,16.862029
+12,Barletta-Andria-Trani,,0,infanticide,41.170896,16.139466
+13,Belluno,,0,infanticide,46.137519,12.218171
+14,Benevento,,0,infanticide,41.129559,14.782464
+15,Bergamo,,0,infanticide,45.694512,9.669839
+16,Biella,,0,infanticide,45.566456,8.054277
+17,Bologna,,0,infanticide,44.493671,11.343035
+18,Bolzano,,0,infanticide,46.498113,11.35478
+19,Brescia,,0,infanticide,45.539835,10.219534
+20,Brindisi,,0,infanticide,40.641067,17.948711
+21,Cagliari,,0,infanticide,39.216953,9.112851
+22,Caltanissetta,,0,infanticide,37.489829,14.063292
+23,Campobasso,,0,infanticide,41.559794,14.660273
+24,Caserta,,0,infanticide,41.083215,14.334929
+25,Catania,,0,infanticide,37.502608,15.087111
+26,Catanzaro,,0,infanticide,38.907635,16.596047
+27,Chieti,,0,infanticide,42.102718,14.415935
+28,Como,,0,infanticide,45.810681,9.086303
+29,Cosenza,,0,infanticide,39.597269,16.334274
+30,Cremona,,0,infanticide,38.17832,15.54803
+31,Crotone,,0,infanticide,39.080622,17.127196
+32,Cuneo,,0,infanticide,44.389562,7.54787
+33,Enna,,0,infanticide,37.565962,14.282404
+34,Fermo,,0,infanticide,43.092249,13.638768
+35,Ferrara,,0,infanticide,44.836797,11.619811
+36,Firenze,,0,infanticide,43.769871,11.255576
+37,Foggia,,0,infanticide,41.462373,15.543051
+38,Forlì Cesena,,0,infanticide,44.03625,12.038441
+39,Frosinone,,0,infanticide,41.628259,13.576332
+40,Genova,,0,infanticide,44.40726,8.933862
+41,Gorizia,,0,infanticide,45.862488,13.497925
+42,Grosseto,,0,infanticide,42.76844,11.11376
+43,Imperia,,0,infanticide,43.958375,7.866743
+44,Isernia,,0,infanticide,41.649468,14.208148
+45,L’Aquila,,0,infanticide,42.137961,13.612241
+46,La Spezia,,0,infanticide,44.107033,9.828226
+47,Latina,,0,infanticide,41.467259,12.903574
+48,Lecce,,0,infanticide,40.357037,18.171848
+49,Lecco,,0,infanticide,45.900549,9.412025
+50,Livorno,,0,infanticide,43.542631,10.31603
+51,Lodi,,0,infanticide,38.17943,15.54907
+52,Lucca,,0,infanticide,43.84283,10.50287
+53,Macerata,,0,infanticide,41.066667,14.266667
+54,Mantova,,0,infanticide,45.156668,10.791719
+55,Massa Carrara,,0,infanticide,44.221258,10.046272
+56,Matera,,0,infanticide,40.668523,16.601585
+57,Messina,,0,infanticide,38.193757,15.554208
+58,Milano,,0,infanticide,45.466797,9.190498
+59,Modena,,0,infanticide,44.645889,10.925571
+60,Monza Brianza,,0,infanticide,45.59802,9.2703
+61,Novara,,0,infanticide,45.446404,8.619655
+62,Nuoro,,0,infanticide,40.32106,9.329734
+63,Oristano,,0,infanticide,39.90595,8.591611
+64,Padova,,0,infanticide,45.407717,11.873446
+65,Palermo,,0,infanticide,38.11127,13.353442
+66,Parma,,0,infanticide,44.801123,10.328508
+67,Pavia,,0,infanticide,45.186004,9.154638
+68,Perugia,,0,infanticide,43.111961,12.38901
+69,Pesaro Urbino,,0,infanticide,43.90901,12.89598
+70,Pescara,,0,infanticide,42.464378,14.213943
+71,Piacenza,,0,infanticide,45.053475,9.694746
+72,Pisa,,0,infanticide,43.715925,10.401898
+73,Pistoia,,0,infanticide,43.973933,10.868352
+74,Pordenone,,0,infanticide,46.101737,12.703903
+75,Potenza,,0,infanticide,40.638405,15.802208
+76,Prato,,0,infanticide,44.265834,11.558058
+77,Ragusa,,0,infanticide,36.922009,14.721335
+78,Ravenna,,0,infanticide,44.416141,12.201762
+79,Reggio Calabria,,0,infanticide,38.103539,15.639756
+80,Reggio Emilia,,0,infanticide,44.697845,10.630496
+81,Rieti,,0,infanticide,42.416366,12.885067
+82,Rimini,,0,infanticide,44.059145,12.563105
+83,Roma,,0,infanticide,41.893344,12.483072
+84,Rovigo,,0,infanticide,44.977199,12.27721
+85,Salerno,,0,infanticide,40.677978,14.765755
+86,Sassari,,0,infanticide,40.723264,8.561007
+87,Savona,,0,infanticide,44.308025,8.481032
+88,Siena,,0,infanticide,43.318554,11.331653
+89,Siracusa,,0,infanticide,37.071438,15.283007
+90,Sondrio,,0,infanticide,46.323362,10.258414
+91,Taranto,,0,infanticide,40.471243,17.243228
+92,Teramo,,0,infanticide,42.658118,13.699625
+93,Terni,,0,infanticide,42.564142,12.640547
+94,Torino,,0,infanticide,45.07092,7.685972
+95,Trapani,,0,infanticide,38.016054,12.543748
+96,Trento,,0,infanticide,46.066423,11.12576
+97,Treviso,,0,infanticide,45.665851,12.245541
+98,Udine,,0,infanticide,46.064698,13.235749
+99,Varese,,0,infanticide,45.839713,8.754158
+100,Venezia,,0,infanticide,45.437191,12.33459
+101,Verbano Cusio Ossola,,0,infanticide,46.115576,8.383597
+102,Vercelli,,0,infanticide,45.555383,8.346284
+103,Verona,,0,infanticide,45.438496,10.992412
+104,Vibo Valentia,,0,infanticide,38.679275,16.088142
+105,Vicenza,,0,infanticide,45.548755,11.549747
+106,Viterbo,,0,infanticide,42.41666,12.103834
+1,Vibo Valentia,18,"11,19",attempted murders,38.679275,16.088142
+2,Nuoro,13,"6,17",attempted murders,40.32106,9.329734
+3,Crotone,10,"5,71",attempted murders,39.080622,17.127196
+4,Livorno,17,"5,06",attempted murders,43.542631,10.31603
+5,Reggio Calabria,21,"3,81",attempted murders,38.103539,15.639756
+6,Caltanissetta,10,"3,75",attempted murders,37.489829,14.063292
+7,Siracusa,15,"3,74",attempted murders,37.071438,15.283007
+8,Ravenna,14,"3,58",attempted murders,44.416141,12.201762
+9,Isernia,3,"3,52",attempted murders,41.649468,14.208148
+10,Trapani,15,"3,47",attempted murders,38.016054,12.543748
+11,Napoli,107,"3,45",attempted murders,40.844116,14.2423
+12,Ragusa,11,"3,42",attempted murders,36.922009,14.721335
+13,Imperia,7,"3,27",attempted murders,43.958375,7.866743
+14,Novara,12,"3,25",attempted murders,45.446404,8.619655
+15,Foggia,20,"3,2",attempted murders,41.462373,15.543051
+16,Agrigento,14,"3,19",attempted murders,37.312299,13.57465
+17,Campobasso,7,"3,14",attempted murders,41.559794,14.660273
+18,Catanzaro,11,"3,05",attempted murders,38.907635,16.596047
+19,Sassari,15,"3,04",attempted murders,40.723264,8.561007
+20,Potenza,11,"2,99",attempted murders,40.638405,15.802208
+21,Vercelli,5,"2,9",attempted murders,45.555383,8.346284
+22,Barletta-Andria-Trani,11,"2,81",attempted murders,41.170896,16.139466
+23,Taranto,16,"2,76",attempted murders,40.471243,17.243228
+24,Bari,32,"2,54",attempted murders,41.125784,16.862029
+25,Enna,4,"2,41",attempted murders,37.565962,14.282404
+26,Avellino,10,"2,37",attempted murders,40.996545,15.140569
+27,Caserta,21,"2,27",attempted murders,41.083215,14.334929
+28,Pesaro Urbino,8,"2,22",attempted murders,43.90901,12.89598
+29,Sondrio,4,"2,21",attempted murders,46.323362,10.258414
+30,Latina,12,"2,08",attempted murders,41.467259,12.903574
+31,Bolzano,11,"2,08",attempted murders,46.498113,11.35478
+32,Catania,23,"2,07",attempted murders,37.502608,15.087111
+33,Roma,89,"2,04",attempted murders,41.893344,12.483072
+34,Massa Carrara,4,"2,04",attempted murders,44.221258,10.046272
+35,Genova,17,"2,01",attempted murders,44.40726,8.933862
+36,Milano,65,"2,01",attempted murders,45.466797,9.190498
+37,Torino,44,"1,94",attempted murders,45.07092,7.685972
+38,Pisa,8,"1,9",attempted murders,43.715925,10.401898
+39,Messina,12,"1,9",attempted murders,38.193757,15.554208
+40,Asti,4,"1,85",attempted murders,44.900576,8.206883
+41,L’Aquila,4,"1,82",attempted murders,42.137961,13.612241
+42,Chieti,7,"1,81",attempted murders,42.102718,14.415935
+43,Bergamo,20,"1,8",attempted murders,45.694512,9.669839
+44,Rimini,6,"1,78",attempted murders,44.059145,12.563105
+45,Palermo,22,"1,75",attempted murders,38.11127,13.353442
+46,Cagliari,13,"1,65",attempted murders,39.216953,9.112851
+47,Aosta,2,"1,58",attempted murders,45.737089,7.319665
+48,Firenze,16,"1,58",attempted murders,43.769871,11.255576
+49,Viterbo,5,"1,57",attempted murders,42.41666,12.103834
+50,Brindisi,6,"1,52",attempted murders,40.641067,17.948711
+51,Matera,3,"1,51",attempted murders,40.668523,16.601585
+52,Padova,14,"1,49",attempted murders,45.407717,11.873446
+53,Siena,4,"1,49",attempted murders,43.318554,11.331653
+54,Varese,13,"1,46",attempted murders,45.839713,8.754158
+55,Benevento,4,"1,43",attempted murders,41.129559,14.782464
+56,Venezia,12,"1,41",attempted murders,45.437191,12.33459
+57,Perugia,9,"1,37",attempted murders,43.111961,12.38901
+58,Grosseto,3,"1,35",attempted murders,42.76844,11.11376
+59,Terni,3,"1,32",attempted murders,42.564142,12.640547
+60,Lucca,5,"1,28",attempted murders,43.84283,10.50287
+61,Pavia,7,"1,28",attempted murders,45.186004,9.154638
+62,Pordenone,4,"1,28",attempted murders,46.101737,12.703903
+63,Salerno,14,"1,27",attempted murders,40.677978,14.765755
+64,Forlì Cesena,5,"1,27",attempted murders,44.03625,12.038441
+65,Macerata,4,"1,26",attempted murders,41.066667,14.266667
+66,Monza Brianza,11,"1,26",attempted murders,45.59802,9.2703
+67,Oristano,2,"1,26",attempted murders,39.90595,8.591611
+68,Prato,3,"1,17",attempted murders,44.265834,11.558058
+69,Como,7,"1,17",attempted murders,45.810681,9.086303
+70,Fermo,2,"1,15",attempted murders,43.092249,13.638768
+71,Lecce,9,"1,13",attempted murders,40.357037,18.171848
+72,Parma,5,"1,11",attempted murders,44.801123,10.328508
+73,Savona,3,"1,08",attempted murders,44.308025,8.481032
+74,Pistoia,3,"1,03",attempted murders,43.973933,10.868352
+75,Cosenza,7,"0,99",attempted murders,39.597269,16.334274
+76,Belluno,2,"0,98",attempted murders,46.137519,12.218171
+77,Teramo,3,"0,97",attempted murders,42.658118,13.699625
+78,Mantova,4,"0,97",attempted murders,45.156668,10.791719
+79,Alessandria,4,"0,94",attempted murders,44.835262,8.744949
+80,Pescara,3,"0,94",attempted murders,42.464378,14.213943
+81,Trento,5,"0,93",attempted murders,46.066423,11.12576
+82,Bologna,9,"0,89",attempted murders,44.493671,11.343035
+83,Brescia,11,"0,87",attempted murders,45.539835,10.219534
+84,Verona,8,"0,87",attempted murders,45.438496,10.992412
+85,Ferrara,3,"0,86",attempted murders,44.836797,11.619811
+86,Rovigo,2,"0,85",attempted murders,44.977199,12.27721
+87,Cremona,3,"0,84",attempted murders,38.17832,15.54803
+88,Frosinone,4,"0,82",attempted murders,41.628259,13.576332
+89,Piacenza,2,"0,7",attempted murders,45.053475,9.694746
+90,Rieti,1,"0,64",attempted murders,42.416366,12.885067
+91,Arezzo,2,"0,58",attempted murders,43.462896,11.878168
+92,Modena,4,"0,57",attempted murders,44.645889,10.925571
+93,Biella,1,"0,56",attempted murders,45.566456,8.054277
+94,Cuneo,3,"0,51",attempted murders,44.389562,7.54787
+95,Ascoli Piceno,1,"0,48",attempted murders,42.88342,13.539593
+96,Vicenza,4,"0,46",attempted murders,45.548755,11.549747
+97,Treviso,4,"0,45",attempted murders,45.665851,12.245541
+98,Trieste,1,"0,43",attempted murders,45.650034,13.770656
+99,Reggio Emilia,2,"0,38",attempted murders,44.697845,10.630496
+100,La Spezia,1,"0,33",attempted murders,44.107033,9.828226
+101,Lecco,1,"0,29",attempted murders,45.900549,9.412025
+102,Ancona,1,"0,21",attempted murders,43.617014,13.517098
+103,Udine,1,"0,19",attempted murders,46.064698,13.235749
+104,Gorizia,,0,attempted murders,45.862488,13.497925
+105,Lodi,,0,attempted murders,38.17943,15.54907
+106,Verbano Cusio Ossola,,0,attempted murders,46.115576,8.383597
+1,Vibo Valentia,7,"4,35",voluntary manslaughter,38.679275,16.088142
+2,Nuoro,7,"3,32",voluntary manslaughter,40.32106,9.329734
+3,Foggia,20,"3,2",voluntary manslaughter,41.462373,15.543051
+4,Oristano,3,"1,88",voluntary manslaughter,39.90595,8.591611
+5,Como,9,"1,5",voluntary manslaughter,45.810681,9.086303
+6,Grosseto,3,"1,35",voluntary manslaughter,42.76844,11.11376
+7,Pordenone,4,"1,28",voluntary manslaughter,46.101737,12.703903
+8,Taranto,7,"1,21",voluntary manslaughter,40.471243,17.243228
+9,Enna,2,"1,2",voluntary manslaughter,37.565962,14.282404
+10,Ferrara,4,"1,15",voluntary manslaughter,44.836797,11.619811
+11,Agrigento,5,"1,14",voluntary manslaughter,37.312299,13.57465
+12,Napoli,35,"1,13",voluntary manslaughter,40.844116,14.2423
+13,Catanzaro,4,"1,11",voluntary manslaughter,38.907635,16.596047
+14,Reggio Calabria,6,"1,09",voluntary manslaughter,38.103539,15.639756
+15,Bari,13,"1,03",voluntary manslaughter,41.125784,16.862029
+16,Chieti,4,"1,03",voluntary manslaughter,42.102718,14.415935
+17,Brindisi,4,"1,01",voluntary manslaughter,40.641067,17.948711
+18,Matera,2,"1,01",voluntary manslaughter,40.668523,16.601585
+19,Caserta,9,"0,97",voluntary manslaughter,41.083215,14.334929
+20,Teramo,3,"0,97",voluntary manslaughter,42.658118,13.699625
+21,L’Aquila,2,"0,91",voluntary manslaughter,42.137961,13.612241
+22,Lodi,2,"0,87",voluntary manslaughter,38.17943,15.54907
+23,Rovigo,2,"0,85",voluntary manslaughter,44.977199,12.27721
+24,Frosinone,4,"0,82",voluntary manslaughter,41.628259,13.576332
+25,Barletta-Andria-Trani,3,"0,77",voluntary manslaughter,41.170896,16.139466
+26,Cagliari,6,"0,76",voluntary manslaughter,39.216953,9.112851
+27,Caltanissetta,2,"0,75",voluntary manslaughter,37.489829,14.063292
+28,Siena,2,"0,75",voluntary manslaughter,43.318554,11.331653
+29,Trento,4,"0,74",voluntary manslaughter,46.066423,11.12576
+30,Pavia,4,"0,73",voluntary manslaughter,45.186004,9.154638
+31,Salerno,8,"0,73",voluntary manslaughter,40.677978,14.765755
+32,Gorizia,1,"0,72",voluntary manslaughter,45.862488,13.497925
+33,Pisa,3,"0,71",voluntary manslaughter,43.715925,10.401898
+34,Alessandria,3,"0,71",voluntary manslaughter,44.835262,8.744949
+35,Trapani,3,"0,69",voluntary manslaughter,38.016054,12.543748
+36,Monza Brianza,6,"0,69",voluntary manslaughter,45.59802,9.2703
+37,Cuneo,4,"0,68",voluntary manslaughter,44.389562,7.54787
+38,Rieti,1,"0,64",voluntary manslaughter,42.416366,12.885067
+39,Palermo,8,"0,63",voluntary manslaughter,38.11127,13.353442
+40,Ancona,3,"0,63",voluntary manslaughter,43.617014,13.517098
+41,Catania,7,"0,63",voluntary manslaughter,37.502608,15.087111
+42,Viterbo,2,"0,63",voluntary manslaughter,42.41666,12.103834
+43,Pescara,2,"0,63",voluntary manslaughter,42.464378,14.213943
+44,Milano,20,"0,62",voluntary manslaughter,45.466797,9.190498
+45,Genova,5,"0,59",voluntary manslaughter,44.40726,8.933862
+46,Venezia,5,"0,59",voluntary manslaughter,45.437191,12.33459
+47,Arezzo,2,"0,58",voluntary manslaughter,43.462896,11.878168
+48,Vercelli,1,"0,58",voluntary manslaughter,45.555383,8.346284
+49,Crotone,1,"0,57",voluntary manslaughter,39.080622,17.127196
+50,Modena,4,"0,57",voluntary manslaughter,44.645889,10.925571
+51,Biella,1,"0,56",voluntary manslaughter,45.566456,8.054277
+52,Reggio Emilia,3,"0,56",voluntary manslaughter,44.697845,10.630496
+53,Varese,5,"0,56",voluntary manslaughter,45.839713,8.754158
+54,Potenza,2,"0,54",voluntary manslaughter,40.638405,15.802208
+55,Padova,5,"0,53",voluntary manslaughter,45.407717,11.873446
+56,Latina,3,"0,52",voluntary manslaughter,41.467259,12.903574
+57,Massa Carrara,1,"0,51",voluntary manslaughter,44.221258,10.046272
+58,Ascoli Piceno,1,"0,48",voluntary manslaughter,42.88342,13.539593
+59,Messina,3,"0,48",voluntary manslaughter,38.193757,15.554208
+60,Asti,1,"0,46",voluntary manslaughter,44.900576,8.206883
+61,Treviso,4,"0,45",voluntary manslaughter,45.665851,12.245541
+62,Bergamo,5,"0,45",voluntary manslaughter,45.694512,9.669839
+63,Parma,2,"0,44",voluntary manslaughter,44.801123,10.328508
+64,Terni,1,"0,44",voluntary manslaughter,42.564142,12.640547
+65,Torino,10,"0,44",voluntary manslaughter,45.07092,7.685972
+66,Verona,4,"0,43",voluntary manslaughter,45.438496,10.992412
+67,Trieste,1,"0,43",voluntary manslaughter,45.650034,13.770656
+68,Cosenza,3,"0,42",voluntary manslaughter,39.597269,16.334274
+69,Roma,18,"0,41",voluntary manslaughter,41.893344,12.483072
+70,Bologna,4,"0,4",voluntary manslaughter,44.493671,11.343035
+71,Prato,1,"0,39",voluntary manslaughter,44.265834,11.558058
+72,Savona,1,"0,36",voluntary manslaughter,44.308025,8.481032
+73,Piacenza,1,"0,35",voluntary manslaughter,45.053475,9.694746
+74,La Spezia,1,"0,33",voluntary manslaughter,44.107033,9.828226
+75,Brescia,4,"0,32",voluntary manslaughter,45.539835,10.219534
+76,Ragusa,1,"0,31",voluntary manslaughter,36.922009,14.721335
+77,Livorno,1,"0,3",voluntary manslaughter,43.542631,10.31603
+78,Novara,1,"0,27",voluntary manslaughter,45.446404,8.619655
+79,Siracusa,1,"0,25",voluntary manslaughter,37.071438,15.283007
+80,Mantova,1,"0,24",voluntary manslaughter,45.156668,10.791719
+81,Avellino,1,"0,24",voluntary manslaughter,40.996545,15.140569
+82,Vicenza,2,"0,23",voluntary manslaughter,45.548755,11.549747
+83,Sassari,1,"0,2",voluntary manslaughter,40.723264,8.561007
+84,Bolzano,1,"0,19",voluntary manslaughter,46.498113,11.35478
+85,Udine,1,"0,19",voluntary manslaughter,46.064698,13.235749
+86,Lecce,1,"0,13",voluntary manslaughter,40.357037,18.171848
+87,Aosta,,0,voluntary manslaughter,45.737089,7.319665
+88,Belluno,,0,voluntary manslaughter,46.137519,12.218171
+89,Benevento,,0,voluntary manslaughter,41.129559,14.782464
+90,Campobasso,,0,voluntary manslaughter,41.559794,14.660273
+91,Cremona,,0,voluntary manslaughter,38.17832,15.54803
+92,Fermo,,0,voluntary manslaughter,43.092249,13.638768
+93,Firenze,,0,voluntary manslaughter,43.769871,11.255576
+94,Forlì Cesena,,0,voluntary manslaughter,44.03625,12.038441
+95,Imperia,,0,voluntary manslaughter,43.958375,7.866743
+96,Isernia,,0,voluntary manslaughter,41.649468,14.208148
+97,Lecco,,0,voluntary manslaughter,45.900549,9.412025
+98,Lucca,,0,voluntary manslaughter,43.84283,10.50287
+99,Macerata,,0,voluntary manslaughter,41.066667,14.266667
+100,Perugia,,0,voluntary manslaughter,43.111961,12.38901
+101,Pesaro Urbino,,0,voluntary manslaughter,43.90901,12.89598
+102,Pistoia,,0,voluntary manslaughter,43.973933,10.868352
+103,Ravenna,,0,voluntary manslaughter,44.416141,12.201762
+104,Rimini,,0,voluntary manslaughter,44.059145,12.563105
+105,Sondrio,,0,voluntary manslaughter,46.323362,10.258414
+106,Verbano Cusio Ossola,,0,voluntary manslaughter,46.115576,8.383597
+1,Napoli,2418,"77,97",theft with tearing,40.844116,14.2423
+2,Rimini,226,67,theft with tearing,44.059145,12.563105
+3,Milano,2029,"62,73",theft with tearing,45.466797,9.190498
+4,Torino,1300,"57,29",theft with tearing,45.07092,7.685972
+5,Catania,591,"53,25",theft with tearing,37.502608,15.087111
+6,Bari,650,"51,69",theft with tearing,41.125784,16.862029
+7,Roma,1896,"43,53",theft with tearing,41.893344,12.483072
+8,Prato,111,"43,35",theft with tearing,44.265834,11.558058
+9,Bologna,434,"42,92",theft with tearing,44.493671,11.343035
+10,Modena,298,"42,46",theft with tearing,44.645889,10.925571
+11,Firenze,391,"38,59",theft with tearing,43.769871,11.255576
+12,Pisa,161,"38,26",theft with tearing,43.715925,10.401898
+13,Imperia,72,"33,6",theft with tearing,43.958375,7.866743
+14,Palermo,403,"31,98",theft with tearing,38.11127,13.353442
+15,Foggia,187,"29,91",theft with tearing,41.462373,15.543051
+16,Lucca,112,"28,77",theft with tearing,43.84283,10.50287
+17,Ravenna,111,"28,36",theft with tearing,44.416141,12.201762
+18,Genova,216,"25,56",theft with tearing,44.40726,8.933862
+19,Trapani,108,"24,98",theft with tearing,38.016054,12.543748
+20,Caserta,217,"23,5",theft with tearing,41.083215,14.334929
+21,Savona,62,"22,32",theft with tearing,44.308025,8.481032
+22,Pavia,119,"21,8",theft with tearing,45.186004,9.154638
+23,Venezia,177,"20,74",theft with tearing,45.437191,12.33459
+24,Barletta-Andria-Trani,80,"20,45",theft with tearing,41.170896,16.139466
+25,Perugia,132,"20,07",theft with tearing,43.111961,12.38901
+26,Reggio Emilia,101,"18,96",theft with tearing,44.697845,10.630496
+27,Siracusa,73,"18,21",theft with tearing,37.071438,15.283007
+28,Pescara,58,"18,16",theft with tearing,42.464378,14.213943
+29,Massa Carrara,35,"17,87",theft with tearing,44.221258,10.046272
+30,Salerno,194,"17,61",theft with tearing,40.677978,14.765755
+31,Monza Brianza,150,"17,21",theft with tearing,45.59802,9.2703
+32,Grosseto,38,"17,1",theft with tearing,42.76844,11.11376
+33,Macerata,52,"16,44",theft with tearing,41.066667,14.266667
+34,Livorno,55,"16,36",theft with tearing,43.542631,10.31603
+35,Reggio Calabria,89,"16,15",theft with tearing,38.103539,15.639756
+36,Bergamo,173,"15,57",theft with tearing,45.694512,9.669839
+37,Parma,70,"15,55",theft with tearing,44.801123,10.328508
+38,Terni,34,"14,99",theft with tearing,42.564142,12.640547
+39,Ferrara,51,"14,7",theft with tearing,44.836797,11.619811
+40,Latina,81,"14,07",theft with tearing,41.467259,12.903574
+41,Arezzo,47,"13,68",theft with tearing,43.462896,11.878168
+42,Alessandria,58,"13,67",theft with tearing,44.835262,8.744949
+43,Forlì Cesena,53,"13,45",theft with tearing,44.03625,12.038441
+44,Ascoli Piceno,28,"13,44",theft with tearing,42.88342,13.539593
+45,Asti,29,"13,43",theft with tearing,44.900576,8.206883
+46,Brescia,165,"13,07",theft with tearing,45.539835,10.219534
+47,Bolzano,67,"12,7",theft with tearing,46.498113,11.35478
+48,Varese,111,"12,46",theft with tearing,45.839713,8.754158
+49,Teramo,38,"12,33",theft with tearing,42.658118,13.699625
+50,Padova,115,"12,28",theft with tearing,45.407717,11.873446
+51,Taranto,70,"12,06",theft with tearing,40.471243,17.243228
+52,Cagliari,95,"12,06",theft with tearing,39.216953,9.112851
+53,Verona,110,"11,92",theft with tearing,45.438496,10.992412
+54,Agrigento,52,"11,86",theft with tearing,37.312299,13.57465
+55,Piacenza,34,"11,86",theft with tearing,45.053475,9.694746
+56,L’Aquila,26,"11,82",theft with tearing,42.137961,13.612241
+57,Vibo Valentia,19,"11,81",theft with tearing,38.679275,16.088142
+58,Ancona,54,"11,43",theft with tearing,43.617014,13.517098
+59,Chieti,44,"11,37",theft with tearing,42.102718,14.415935
+60,Mantova,45,"10,93",theft with tearing,45.156668,10.791719
+61,Como,63,"10,51",theft with tearing,45.810681,9.086303
+62,Messina,62,"9,82",theft with tearing,38.193757,15.554208
+63,Trieste,23,"9,8",theft with tearing,45.650034,13.770656
+64,Cremona,34,"9,48",theft with tearing,38.17832,15.54803
+65,Novara,35,"9,47",theft with tearing,45.446404,8.619655
+66,Biella,16,"9,04",theft with tearing,45.566456,8.054277
+67,Ragusa,29,"9,02",theft with tearing,36.922009,14.721335
+68,Lecce,69,"8,64",theft with tearing,40.357037,18.171848
+69,Fermo,15,"8,6",theft with tearing,43.092249,13.638768
+70,Pistoia,25,"8,56",theft with tearing,43.973933,10.868352
+71,Viterbo,27,"8,49",theft with tearing,42.41666,12.103834
+72,Treviso,74,"8,34",theft with tearing,45.665851,12.245541
+73,Campobasso,18,"8,06",theft with tearing,41.559794,14.660273
+74,Lecco,27,"7,96",theft with tearing,45.900549,9.412025
+75,Trento,42,"7,78",theft with tearing,46.066423,11.12576
+76,Vercelli,13,"7,54",theft with tearing,45.555383,8.346284
+77,Vicenza,63,"7,3",theft with tearing,45.548755,11.549747
+78,Cosenza,51,"7,2",theft with tearing,39.597269,16.334274
+79,Udine,38,"7,18",theft with tearing,46.064698,13.235749
+80,Caltanissetta,18,"6,76",theft with tearing,37.489829,14.063292
+81,Frosinone,33,"6,73",theft with tearing,41.628259,13.576332
+82,La Spezia,20,"6,66",theft with tearing,44.107033,9.828226
+83,Catanzaro,21,"5,82",theft with tearing,38.907635,16.596047
+84,Sassari,26,"5,28",theft with tearing,40.723264,8.561007
+85,Cuneo,30,"5,1",theft with tearing,44.389562,7.54787
+86,Gorizia,7,"5,02",theft with tearing,45.862488,13.497925
+87,Siena,13,"4,85",theft with tearing,43.318554,11.331653
+88,Brindisi,19,"4,81",theft with tearing,40.641067,17.948711
+89,Rovigo,11,"4,65",theft with tearing,44.977199,12.27721
+90,Crotone,8,"4,57",theft with tearing,39.080622,17.127196
+91,Potenza,15,"4,07",theft with tearing,40.638405,15.802208
+92,Matera,8,"4,02",theft with tearing,40.668523,16.601585
+93,Aosta,5,"3,96",theft with tearing,45.737089,7.319665
+94,Lodi,9,"3,92",theft with tearing,38.17943,15.54907
+95,Pesaro Urbino,14,"3,89",theft with tearing,43.90901,12.89598
+96,Rieti,6,"3,83",theft with tearing,42.416366,12.885067
+97,Enna,5,"3,01",theft with tearing,37.565962,14.282404
+98,Belluno,6,"2,93",theft with tearing,46.137519,12.218171
+99,Pordenone,9,"2,88",theft with tearing,46.101737,12.703903
+100,Benevento,8,"2,87",theft with tearing,41.129559,14.782464
+101,Avellino,12,"2,85",theft with tearing,40.996545,15.140569
+102,Nuoro,5,"2,37",theft with tearing,40.32106,9.329734
+103,Isernia,2,"2,35",theft with tearing,41.649468,14.208148
+104,Verbano Cusio Ossola,2,"1,26",theft with tearing,46.115576,8.383597
+105,Oristano,1,"0,63",theft with tearing,39.90595,8.591611
+106,Sondrio,1,"0,55",theft with tearing,46.323362,10.258414
+1,Rimini,3393,"1005,85",pickpocketing,44.059145,12.563105
+2,Bologna,8292,"819,94",pickpocketing,44.493671,11.343035
+3,Milano,26439,"817,37",pickpocketing,45.466797,9.190498
+4,Venezia,6719,"787,18",pickpocketing,45.437191,12.33459
+5,Firenze,6963,"687,19",pickpocketing,43.769871,11.255576
+6,Torino,13937,"614,2",pickpocketing,45.07092,7.685972
+7,Genova,4874,"576,83",pickpocketing,44.40726,8.933862
+8,Roma,24863,"570,81",pickpocketing,41.893344,12.483072
+9,Trieste,1104,"470,51",pickpocketing,45.650034,13.770656
+10,Parma,2090,"464,18",pickpocketing,44.801123,10.328508
+11,Pisa,1907,"453,24",pickpocketing,43.715925,10.401898
+12,Lucca,1536,"394,56",pickpocketing,43.84283,10.50287
+13,Savona,1070,"385,16",pickpocketing,44.308025,8.481032
+14,Ravenna,1166,"297,95",pickpocketing,44.416141,12.201762
+15,Modena,1817,"258,87",pickpocketing,44.645889,10.925571
+16,Padova,2251,"240,3",pickpocketing,45.407717,11.873446
+17,L’Aquila,523,"237,83",pickpocketing,42.137961,13.612241
+18,Prato,596,"232,75",pickpocketing,44.265834,11.558058
+19,Pistoia,666,"228,17",pickpocketing,43.973933,10.868352
+20,Piacenza,642,"223,86",pickpocketing,45.053475,9.694746
+21,Forlì Cesena,880,"223,25",pickpocketing,44.03625,12.038441
+22,Livorno,749,"222,77",pickpocketing,43.542631,10.31603
+23,Ferrara,760,"219,04",pickpocketing,44.836797,11.619811
+24,Massa Carrara,425,217,pickpocketing,44.221258,10.046272
+25,Napoli,6347,"204,68",pickpocketing,40.844116,14.2423
+26,Reggio Emilia,1057,"198,47",pickpocketing,44.697845,10.630496
+27,Verona,1829,"198,2",pickpocketing,45.438496,10.992412
+28,Bolzano,998,"189,1",pickpocketing,46.498113,11.35478
+29,Vercelli,324,"188,04",pickpocketing,45.555383,8.346284
+30,Perugia,1213,"184,41",pickpocketing,43.111961,12.38901
+31,Brescia,2289,"181,32",pickpocketing,45.539835,10.219534
+32,Palermo,2198,"174,42",pickpocketing,38.11127,13.353442
+33,Novara,643,"173,97",pickpocketing,45.446404,8.619655
+34,Siena,463,"172,75",pickpocketing,43.318554,11.331653
+35,Monza Brianza,1413,"162,1",pickpocketing,45.59802,9.2703
+36,Alessandria,642,"151,35",pickpocketing,44.835262,8.744949
+37,Pavia,806,"147,67",pickpocketing,45.186004,9.154638
+38,Imperia,312,"145,59",pickpocketing,43.958375,7.866743
+39,Varese,1293,"145,19",pickpocketing,45.839713,8.754158
+40,Mantova,583,"141,59",pickpocketing,45.156668,10.791719
+41,Bergamo,1548,"139,33",pickpocketing,45.694512,9.669839
+42,Asti,300,"138,96",pickpocketing,44.900576,8.206883
+43,Biella,240,"135,54",pickpocketing,45.566456,8.054277
+44,Bari,1699,"135,11",pickpocketing,41.125784,16.862029
+45,Salerno,1472,"133,6",pickpocketing,40.677978,14.765755
+46,Ancona,594,"125,69",pickpocketing,43.617014,13.517098
+47,Pesaro Urbino,443,"123,01",pickpocketing,43.90901,12.89598
+48,Cremona,441,"123,01",pickpocketing,38.17832,15.54803
+49,Latina,708,"123,01",pickpocketing,41.467259,12.903574
+50,Terni,276,"121,66",pickpocketing,42.564142,12.640547
+51,Arezzo,416,"121,12",pickpocketing,43.462896,11.878168
+52,Trento,638,"118,17",pickpocketing,46.066423,11.12576
+53,Pescara,368,"115,22",pickpocketing,42.464378,14.213943
+54,Teramo,329,"106,72",pickpocketing,42.658118,13.699625
+55,Vicenza,905,"104,84",pickpocketing,45.548755,11.549747
+56,Catania,1146,"103,25",pickpocketing,37.502608,15.087111
+57,Grosseto,229,"103,07",pickpocketing,42.76844,11.11376
+58,Treviso,903,"101,76",pickpocketing,45.665851,12.245541
+59,Lodi,233,"101,41",pickpocketing,38.17943,15.54907
+60,Udine,531,"100,31",pickpocketing,46.064698,13.235749
+61,Como,599,"99,95",pickpocketing,45.810681,9.086303
+62,Ascoli Piceno,196,"94,06",pickpocketing,42.88342,13.539593
+63,Macerata,284,"89,79",pickpocketing,41.066667,14.266667
+64,Caserta,823,"89,12",pickpocketing,41.083215,14.334929
+65,Cuneo,514,"87,33",pickpocketing,44.389562,7.54787
+66,Lecco,293,"86,33",pickpocketing,45.900549,9.412025
+67,Pordenone,269,"86,2",pickpocketing,46.101737,12.703903
+68,Fermo,148,"84,89",pickpocketing,43.092249,13.638768
+69,Gorizia,116,"83,19",pickpocketing,45.862488,13.497925
+70,Frosinone,397,"80,92",pickpocketing,41.628259,13.576332
+71,Foggia,479,"76,6",pickpocketing,41.462373,15.543051
+72,Brindisi,302,"76,46",pickpocketing,40.641067,17.948711
+73,Rovigo,180,"76,14",pickpocketing,44.977199,12.27721
+74,Rieti,111,"70,9",pickpocketing,42.416366,12.885067
+75,Campobasso,157,"70,32",pickpocketing,41.559794,14.660273
+76,Verbano Cusio Ossola,108,"67,86",pickpocketing,46.115576,8.383597
+77,Siracusa,266,"66,35",pickpocketing,37.071438,15.283007
+78,Viterbo,204,"64,11",pickpocketing,42.41666,12.103834
+79,Trapani,272,"62,91",pickpocketing,38.016054,12.543748
+80,La Spezia,183,"60,92",pickpocketing,44.107033,9.828226
+81,Barletta-Andria-Trani,238,"60,83",pickpocketing,41.170896,16.139466
+82,Chieti,225,"58,12",pickpocketing,42.102718,14.415935
+83,Avellino,238,"56,46",pickpocketing,40.996545,15.140569
+84,Taranto,321,"55,31",pickpocketing,40.471243,17.243228
+85,Benevento,150,"53,74",pickpocketing,41.129559,14.782464
+86,Reggio Calabria,282,"51,16",pickpocketing,38.103539,15.639756
+87,Aosta,62,"49,13",pickpocketing,45.737089,7.319665
+88,Sassari,229,"46,48",pickpocketing,40.723264,8.561007
+89,Belluno,87,"42,46",pickpocketing,46.137519,12.218171
+90,Cagliari,318,"40,37",pickpocketing,39.216953,9.112851
+91,Catanzaro,139,"38,52",pickpocketing,38.907635,16.596047
+92,Lecce,307,"38,43",pickpocketing,40.357037,18.171848
+93,Caltanissetta,100,"37,53",pickpocketing,37.489829,14.063292
+94,Matera,74,"37,21",pickpocketing,40.668523,16.601585
+95,Cosenza,258,"36,4",pickpocketing,39.597269,16.334274
+96,Messina,229,"36,27",pickpocketing,38.193757,15.554208
+97,Ragusa,115,"35,78",pickpocketing,36.922009,14.721335
+98,Isernia,29,"34,02",pickpocketing,41.649468,14.208148
+99,Agrigento,148,"33,77",pickpocketing,37.312299,13.57465
+100,Sondrio,61,"33,63",pickpocketing,46.323362,10.258414
+101,Potenza,100,"27,16",pickpocketing,40.638405,15.802208
+102,Enna,43,"25,86",pickpocketing,37.565962,14.282404
+103,Vibo Valentia,37,23,pickpocketing,38.679275,16.088142
+104,Nuoro,41,"19,47",pickpocketing,40.32106,9.329734
+105,Crotone,23,"13,14",pickpocketing,39.080622,17.127196
+106,Oristano,14,"8,79",pickpocketing,39.90595,8.591611
+1,Savona,1839,"661,96",theft in homes,44.308025,8.481032
+2,Lucca,2524,"648,35",theft in homes,43.84283,10.50287
+3,Modena,4409,"628,16",theft in homes,44.645889,10.925571
+4,Asti,1293,"598,93",theft in homes,44.900576,8.206883
+5,Pisa,2477,"588,71",theft in homes,43.715925,10.401898
+6,Pavia,3057,"560,09",theft in homes,45.186004,9.154638
+7,Massa Carrara,1062,"542,25",theft in homes,44.221258,10.046272
+8,Bologna,5325,"526,55",theft in homes,44.493671,11.343035
+9,Ravenna,2036,"520,26",theft in homes,44.416141,12.201762
+10,Pistoia,1502,"514,57",theft in homes,43.973933,10.868352
+11,Reggio Emilia,2714,"509,6",theft in homes,44.697845,10.630496
+12,Alessandria,2110,"497,44",theft in homes,44.835262,8.744949
+13,Firenze,4927,"486,25",theft in homes,43.769871,11.255576
+14,Lecco,1645,"484,7",theft in homes,45.900549,9.412025
+15,Monza Brianza,4174,"478,84",theft in homes,45.59802,9.2703
+16,Milano,15386,"475,66",theft in homes,45.466797,9.190498
+17,Forlì Cesena,1858,"471,35",theft in homes,44.03625,12.038441
+18,Imperia,986,"460,09",theft in homes,43.958375,7.866743
+19,Parma,1991,"442,19",theft in homes,44.801123,10.328508
+20,Torino,9754,"429,86",theft in homes,45.07092,7.685972
+21,Venezia,3664,"429,27",theft in homes,45.437191,12.33459
+22,Cuneo,2518,"427,82",theft in homes,44.389562,7.54787
+23,Como,2548,"425,16",theft in homes,45.810681,9.086303
+24,Grosseto,937,"421,74",theft in homes,42.76844,11.11376
+25,Rimini,1408,"417,4",theft in homes,44.059145,12.563105
+26,Perugia,2743,417,theft in homes,43.111961,12.38901
+27,Bergamo,4629,"416,64",theft in homes,45.694512,9.669839
+28,La Spezia,911,"414,26",theft in homes,44.107033,9.828226
+29,Fermo,691,"396,36",theft in homes,43.092249,13.638768
+30,Cremona,1405,"391,9",theft in homes,38.17832,15.54803
+31,Prato,971,"379,19",theft in homes,44.265834,11.558058
+32,Piacenza,1081,"376,94",theft in homes,45.053475,9.694746
+33,Trapani,1626,"376,04",theft in homes,38.016054,12.543748
+34,Terni,846,"372,93",theft in homes,42.564142,12.640547
+35,Padova,3430,"366,16",theft in homes,45.407717,11.873446
+36,Biella,638,"360,32",theft in homes,45.566456,8.054277
+37,Ragusa,1140,"354,73",theft in homes,36.922009,14.721335
+38,Varese,3060,"343,62",theft in homes,45.839713,8.754158
+39,Brescia,4336,"343,47",theft in homes,45.539835,10.219534
+40,Udine,1812,"342,29",theft in homes,46.064698,13.235749
+41,Latina,1938,"336,71",theft in homes,41.467259,12.903574
+42,Livorno,1125,"334,61",theft in homes,43.542631,10.31603
+43,Brindisi,1318,"333,69",theft in homes,40.641067,17.948711
+44,Siracusa,1326,"330,77",theft in homes,37.071438,15.283007
+45,Verona,3029,"328,23",theft in homes,45.438496,10.992412
+46,Ferrara,1126,"324,52",theft in homes,44.836797,11.619811
+47,Genova,2715,"321,32",theft in homes,44.40726,8.933862
+48,Lecce,2562,"320,69",theft in homes,40.357037,18.171848
+49,Siena,857,"319,76",theft in homes,43.318554,11.331653
+50,Bari,4020,"319,68",theft in homes,41.125784,16.862029
+51,Mantova,1291,"313,53",theft in homes,45.156668,10.791719
+52,Pesaro Urbino,1122,"311,56",theft in homes,43.90901,12.89598
+53,Arezzo,1058,"308,05",theft in homes,43.462896,11.878168
+54,Vicenza,2648,"306,76",theft in homes,45.548755,11.549747
+55,Pescara,948,"296,82",theft in homes,42.464378,14.213943
+56,Trento,1600,"296,35",theft in homes,46.066423,11.12576
+57,Novara,1093,"295,73",theft in homes,45.446404,8.619655
+58,Ancona,1334,"282,27",theft in homes,43.617014,13.517098
+59,Treviso,2501,"281,83",theft in homes,45.665851,12.245541
+60,Taranto,1622,"279,5",theft in homes,40.471243,17.243228
+61,Aosta,346,"274,16",theft in homes,45.737089,7.319665
+62,Rovigo,639,"270,3",theft in homes,44.977199,12.27721
+63,Macerata,850,"268,72",theft in homes,41.066667,14.266667
+64,Roma,11687,"268,31",theft in homes,41.893344,12.483072
+65,Lodi,606,"263,75",theft in homes,38.17943,15.54907
+66,Benevento,736,"263,68",theft in homes,41.129559,14.782464
+67,Rieti,411,"262,53",theft in homes,42.416366,12.885067
+68,Trieste,604,"257,42",theft in homes,45.650034,13.770656
+69,Teramo,777,"252,04",theft in homes,42.658118,13.699625
+70,Vercelli,430,"249,55",theft in homes,45.555383,8.346284
+71,Caltanissetta,659,"247,35",theft in homes,37.489829,14.063292
+72,Viterbo,783,"246,07",theft in homes,42.41666,12.103834
+73,Campobasso,536,"240,08",theft in homes,41.559794,14.660273
+74,Catania,2651,"238,85",theft in homes,37.502608,15.087111
+75,Avellino,1000,"237,23",theft in homes,40.996545,15.140569
+76,Pordenone,732,"234,56",theft in homes,46.101737,12.703903
+77,L’Aquila,699,"232,69",theft in homes,42.137961,13.612241
+78,Caserta,2105,"227,95",theft in homes,41.083215,14.334929
+79,Chieti,858,"221,64",theft in homes,42.102718,14.415935
+80,Ascoli Piceno,448,"214,99",theft in homes,42.88342,13.539593
+81,Frosinone,1053,"214,62",theft in homes,41.628259,13.576332
+82,Gorizia,294,"210,84",theft in homes,45.862488,13.497925
+83,Salerno,2232,"202,58",theft in homes,40.677978,14.765755
+84,Sassari,996,"202,18",theft in homes,40.723264,8.561007
+85,Bolzano,1058,"200,47",theft in homes,46.498113,11.35478
+86,Matera,388,"195,11",theft in homes,40.668523,16.601585
+87,Agrigento,850,"193,94",theft in homes,37.312299,13.57465
+88,Foggia,1203,"192,38",theft in homes,41.462373,15.543051
+89,Palermo,2258,"179,18",theft in homes,38.11127,13.353442
+90,Cosenza,1259,"177,65",theft in homes,39.597269,16.334274
+91,Isernia,145,"170,11",theft in homes,41.649468,14.208148
+92,Sondrio,305,"168,13",theft in homes,46.323362,10.258414
+93,Belluno,329,"160,57",theft in homes,46.137519,12.218171
+94,Cagliari,1247,"158,31",theft in homes,39.216953,9.112851
+95,Barletta-Andria-Trani,603,"154,13",theft in homes,41.170896,16.139466
+96,Verbano Cusio Ossola,243,"152,68",theft in homes,46.115576,8.383597
+97,Reggio Calabria,815,"147,86",theft in homes,38.103539,15.639756
+98,Vibo Valentia,225,"139,85",theft in homes,38.679275,16.088142
+99,Enna,232,"139,54",theft in homes,37.565962,14.282404
+100,Potenza,487,"132,25",theft in homes,40.638405,15.802208
+101,Nuoro,276,"131,1",theft in homes,40.32106,9.329734
+102,Catanzaro,459,"127,21",theft in homes,38.907635,16.596047
+103,Messina,725,"114,84",theft in homes,38.193757,15.554208
+104,Crotone,198,"113,1",theft in homes,39.080622,17.127196
+105,Napoli,3507,"113,09",theft in homes,40.844116,14.2423
+106,Oristano,178,"111,8",theft in homes,39.90595,8.591611
+1,Milano,10969,"339,11",theft in commercial establishments,45.466797,9.190498
+2,Firenze,3196,"315,42",theft in commercial establishments,43.769871,11.255576
+3,Bologna,3132,"309,7",theft in commercial establishments,44.493671,11.343035
+4,Rimini,1030,"305,34",theft in commercial establishments,44.059145,12.563105
+5,Trieste,635,"270,63",theft in commercial establishments,45.650034,13.770656
+6,Pisa,1079,"256,45",theft in commercial establishments,43.715925,10.401898
+7,Parma,1152,"255,85",theft in commercial establishments,44.801123,10.328508
+8,Forlì Cesena,936,"237,45",theft in commercial establishments,44.03625,12.038441
+9,Ravenna,919,"234,83",theft in commercial establishments,44.416141,12.201762
+10,Venezia,2003,"234,67",theft in commercial establishments,45.437191,12.33459
+11,Livorno,752,"223,67",theft in commercial establishments,43.542631,10.31603
+12,Genova,1860,"220,13",theft in commercial establishments,44.40726,8.933862
+13,Savona,588,"211,66",theft in commercial establishments,44.308025,8.481032
+14,Lucca,779,"200,11",theft in commercial establishments,43.84283,10.50287
+15,Prato,508,"198,38",theft in commercial establishments,44.265834,11.558058
+16,Ferrara,686,"197,71",theft in commercial establishments,44.836797,11.619811
+17,Torino,4448,"196,02",theft in commercial establishments,45.07092,7.685972
+18,Modena,1354,"192,91",theft in commercial establishments,44.645889,10.925571
+19,Pescara,595,"186,29",theft in commercial establishments,42.464378,14.213943
+20,Roma,7953,"182,59",theft in commercial establishments,41.893344,12.483072
+21,Alessandria,773,"182,24",theft in commercial establishments,44.835262,8.744949
+22,Novara,672,"181,82",theft in commercial establishments,45.446404,8.619655
+23,Padova,1702,"181,69",theft in commercial establishments,45.407717,11.873446
+24,Imperia,385,"179,65",theft in commercial establishments,43.958375,7.866743
+25,L’Aquila,390,"177,35",theft in commercial establishments,42.137961,13.612241
+26,Verona,1609,"174,36",theft in commercial establishments,45.438496,10.992412
+27,Bolzano,906,"171,67",theft in commercial establishments,46.498113,11.35478
+28,Pistoia,466,"159,65",theft in commercial establishments,43.973933,10.868352
+29,Brescia,1974,"156,37",theft in commercial establishments,45.539835,10.219534
+30,Piacenza,428,"149,24",theft in commercial establishments,45.053475,9.694746
+31,Biella,263,"148,53",theft in commercial establishments,45.566456,8.054277
+32,Mantova,610,"148,14",theft in commercial establishments,45.156668,10.791719
+33,Perugia,966,"146,86",theft in commercial establishments,43.111961,12.38901
+34,Reggio Emilia,774,"145,33",theft in commercial establishments,44.697845,10.630496
+35,Vercelli,248,"143,93",theft in commercial establishments,45.555383,8.346284
+36,Monza Brianza,1222,"140,19",theft in commercial establishments,45.59802,9.2703
+37,Grosseto,310,"139,53",theft in commercial establishments,42.76844,11.11376
+38,Fermo,243,"139,38",theft in commercial establishments,43.092249,13.638768
+39,Varese,1239,"139,13",theft in commercial establishments,45.839713,8.754158
+40,Bergamo,1529,"137,62",theft in commercial establishments,45.694512,9.669839
+41,Pavia,750,"137,41",theft in commercial establishments,45.186004,9.154638
+42,Ancona,645,"136,48",theft in commercial establishments,43.617014,13.517098
+43,Massa Carrara,267,"136,33",theft in commercial establishments,44.221258,10.046272
+44,Lodi,311,"135,36",theft in commercial establishments,38.17943,15.54907
+45,Teramo,416,"134,94",theft in commercial establishments,42.658118,13.699625
+46,Gorizia,188,"134,83",theft in commercial establishments,45.862488,13.497925
+47,Latina,761,"132,22",theft in commercial establishments,41.467259,12.903574
+48,Pesaro Urbino,474,"131,62",theft in commercial establishments,43.90901,12.89598
+49,Bari,1564,"124,37",theft in commercial establishments,41.125784,16.862029
+50,Como,728,"121,47",theft in commercial establishments,45.810681,9.086303
+51,Udine,626,"118,25",theft in commercial establishments,46.064698,13.235749
+52,Siena,310,"115,67",theft in commercial establishments,43.318554,11.331653
+53,Arezzo,383,"111,52",theft in commercial establishments,43.462896,11.878168
+54,Rovigo,263,"111,25",theft in commercial establishments,44.977199,12.27721
+55,Caserta,1025,111,theft in commercial establishments,41.083215,14.334929
+56,Terni,251,"110,64",theft in commercial establishments,42.564142,12.640547
+57,Sassari,545,"110,63",theft in commercial establishments,40.723264,8.561007
+58,Asti,238,"110,24",theft in commercial establishments,44.900576,8.206883
+59,Macerata,345,"109,07",theft in commercial establishments,41.066667,14.266667
+60,Ascoli Piceno,227,"108,94",theft in commercial establishments,42.88342,13.539593
+61,Cremona,387,"107,95",theft in commercial establishments,38.17832,15.54803
+62,Lecco,357,"105,19",theft in commercial establishments,45.900549,9.412025
+63,Chieti,403,"104,1",theft in commercial establishments,42.102718,14.415935
+64,Frosinone,504,"102,72",theft in commercial establishments,41.628259,13.576332
+65,Vicenza,858,"99,4",theft in commercial establishments,45.548755,11.549747
+66,Aosta,125,"99,05",theft in commercial establishments,45.737089,7.319665
+67,Verbano Cusio Ossola,157,"98,64",theft in commercial establishments,46.115576,8.383597
+68,Trento,529,"97,98",theft in commercial establishments,46.066423,11.12576
+69,Trapani,404,"93,43",theft in commercial establishments,38.016054,12.543748
+70,Napoli,2877,"92,78",theft in commercial establishments,40.844116,14.2423
+71,Foggia,577,"92,27",theft in commercial establishments,41.462373,15.543051
+72,Catania,1005,"90,55",theft in commercial establishments,37.502608,15.087111
+73,Salerno,997,"90,49",theft in commercial establishments,40.677978,14.765755
+74,Taranto,514,"88,57",theft in commercial establishments,40.471243,17.243228
+75,Pordenone,276,"88,44",theft in commercial establishments,46.101737,12.703903
+76,Sondrio,159,"87,65",theft in commercial establishments,46.323362,10.258414
+77,Cagliari,674,"85,57",theft in commercial establishments,39.216953,9.112851
+78,Treviso,752,"84,74",theft in commercial establishments,45.665851,12.245541
+79,Palermo,1067,"84,67",theft in commercial establishments,38.11127,13.353442
+80,La Spezia,245,"81,56",theft in commercial establishments,44.107033,9.828226
+81,Cuneo,473,"80,37",theft in commercial establishments,44.389562,7.54787
+82,Siracusa,312,"77,83",theft in commercial establishments,37.071438,15.283007
+83,Viterbo,238,"74,79",theft in commercial establishments,42.41666,12.103834
+84,Barletta-Andria-Trani,292,"74,64",theft in commercial establishments,41.170896,16.139466
+85,Campobasso,166,"74,35",theft in commercial establishments,41.559794,14.660273
+86,Lecce,563,"70,47",theft in commercial establishments,40.357037,18.171848
+87,Rieti,108,"68,99",theft in commercial establishments,42.416366,12.885067
+88,Belluno,140,"68,33",theft in commercial establishments,46.137519,12.218171
+89,Ragusa,216,"67,21",theft in commercial establishments,36.922009,14.721335
+90,Cosenza,470,"66,32",theft in commercial establishments,39.597269,16.334274
+91,Catanzaro,231,"64,02",theft in commercial establishments,38.907635,16.596047
+92,Brindisi,242,"61,27",theft in commercial establishments,40.641067,17.948711
+93,Messina,381,"60,35",theft in commercial establishments,38.193757,15.554208
+94,Isernia,51,"59,83",theft in commercial establishments,41.649468,14.208148
+95,Crotone,92,"52,55",theft in commercial establishments,39.080622,17.127196
+96,Avellino,216,"51,24",theft in commercial establishments,40.996545,15.140569
+97,Reggio Calabria,280,"50,8",theft in commercial establishments,38.103539,15.639756
+98,Benevento,139,"49,8",theft in commercial establishments,41.129559,14.782464
+99,Caltanissetta,129,"48,42",theft in commercial establishments,37.489829,14.063292
+100,Matera,95,"47,77",theft in commercial establishments,40.668523,16.601585
+101,Oristano,74,"46,48",theft in commercial establishments,39.90595,8.591611
+102,Agrigento,197,"44,95",theft in commercial establishments,37.312299,13.57465
+103,Enna,73,"43,91",theft in commercial establishments,37.565962,14.282404
+104,Nuoro,78,"37,05",theft in commercial establishments,40.32106,9.329734
+105,Potenza,111,"30,14",theft in commercial establishments,40.638405,15.802208
+106,Vibo Valentia,43,"26,73",theft in commercial establishments,38.679275,16.088142
+1,Barletta-Andria-Trani,2297,"587,13",car theft,41.170896,16.139466
+2,Bari,7123,"566,43",car theft,41.125784,16.862029
+3,Catania,6136,"552,85",car theft,37.502608,15.087111
+4,Foggia,2916,"466,33",car theft,41.462373,15.543051
+5,Napoli,13861,"446,98",car theft,40.844116,14.2423
+6,Roma,17047,"391,37",car theft,41.893344,12.483072
+7,Caserta,3228,"349,56",car theft,41.083215,14.334929
+8,Brindisi,1289,"326,35",car theft,40.641067,17.948711
+9,Palermo,3640,"288,84",car theft,38.11127,13.353442
+10,Taranto,1671,"287,95",car theft,40.471243,17.243228
+11,Milano,9271,"286,61",car theft,45.466797,9.190498
+12,Salerno,2432,"220,74",car theft,40.677978,14.765755
+13,Torino,4790,"211,1",car theft,45.07092,7.685972
+14,Pescara,667,"208,84",car theft,42.464378,14.213943
+15,Chieti,741,"191,41",car theft,42.102718,14.415935
+16,Lecce,1506,"188,51",car theft,40.357037,18.171848
+17,Cosenza,1263,"178,21",car theft,39.597269,16.334274
+18,Vibo Valentia,265,"164,71",car theft,38.679275,16.088142
+19,Siracusa,648,"161,64",car theft,37.071438,15.283007
+20,Campobasso,358,"160,35",car theft,41.559794,14.660273
+21,Reggio Calabria,868,"157,47",car theft,38.103539,15.639756
+22,Latina,820,"142,47",car theft,41.467259,12.903574
+23,Catanzaro,502,"139,13",car theft,38.907635,16.596047
+24,Monza Brianza,1208,"138,58",car theft,45.59802,9.2703
+25,Caltanissetta,356,"133,62",car theft,37.489829,14.063292
+26,Pavia,577,"105,71",car theft,45.186004,9.154638
+27,Matera,194,"97,55",car theft,40.668523,16.601585
+28,Teramo,300,"97,31",car theft,42.658118,13.699625
+29,Fermo,168,"96,36",car theft,43.092249,13.638768
+30,Trapani,415,"95,98",car theft,38.016054,12.543748
+31,Messina,589,"93,3",car theft,38.193757,15.554208
+32,Cagliari,715,"90,77",car theft,39.216953,9.112851
+33,Ascoli Piceno,188,"90,22",car theft,42.88342,13.539593
+34,Ragusa,271,"84,33",car theft,36.922009,14.721335
+35,Crotone,146,"83,4",car theft,39.080622,17.127196
+36,Bologna,840,"83,06",car theft,44.493671,11.343035
+37,Bergamo,899,"80,92",car theft,45.694512,9.669839
+38,Avellino,332,"78,76",car theft,40.996545,15.140569
+39,Brescia,979,"77,55",car theft,45.539835,10.219534
+40,Benevento,195,"69,86",car theft,41.129559,14.782464
+41,Rimini,231,"68,48",car theft,44.059145,12.563105
+42,Macerata,212,"67,02",car theft,41.066667,14.266667
+43,Lodi,153,"66,59",car theft,38.17943,15.54907
+44,Asti,142,"65,78",car theft,44.900576,8.206883
+45,Alessandria,276,"65,07",car theft,44.835262,8.744949
+46,Varese,578,"64,91",car theft,45.839713,8.754158
+47,Agrigento,283,"64,57",car theft,37.312299,13.57465
+48,Firenze,654,"64,54",car theft,43.769871,11.255576
+49,Prato,155,"60,53",car theft,44.265834,11.558058
+50,Enna,100,"60,15",car theft,37.565962,14.282404
+51,Parma,269,"59,74",car theft,44.801123,10.328508
+52,Como,357,"59,57",car theft,45.810681,9.086303
+53,Frosinone,292,"59,52",car theft,41.628259,13.576332
+54,Genova,494,"58,46",car theft,44.40726,8.933862
+55,Nuoro,120,57,car theft,40.32106,9.329734
+56,Lecco,191,"56,28",car theft,45.900549,9.412025
+57,Ravenna,212,"54,17",car theft,44.416141,12.201762
+58,Livorno,176,"52,35",car theft,43.542631,10.31603
+59,Potenza,189,"51,32",car theft,40.638405,15.802208
+60,Rieti,80,"51,1",car theft,42.416366,12.885067
+61,Modena,353,"50,29",car theft,44.645889,10.925571
+62,Sassari,246,"49,93",car theft,40.723264,8.561007
+63,Trieste,115,"49,01",car theft,45.650034,13.770656
+64,Pistoia,143,"48,99",car theft,43.973933,10.868352
+65,Reggio Emilia,258,"48,44",car theft,44.697845,10.630496
+66,Savona,134,"48,23",car theft,44.308025,8.481032
+67,Verona,437,"47,35",car theft,45.438496,10.992412
+68,Pisa,192,"45,63",car theft,43.715925,10.401898
+69,Mantova,184,"44,69",car theft,45.156668,10.791719
+70,Piacenza,126,"43,94",car theft,45.053475,9.694746
+71,Novara,161,"43,56",car theft,45.446404,8.619655
+72,Imperia,92,"42,93",car theft,43.958375,7.866743
+73,Ancona,201,"42,53",car theft,43.617014,13.517098
+74,Lucca,165,"42,38",car theft,43.84283,10.50287
+75,Cremona,149,"41,56",car theft,38.17832,15.54803
+76,Viterbo,132,"41,48",car theft,42.41666,12.103834
+77,Perugia,267,"40,59",car theft,43.111961,12.38901
+78,L’Aquila,88,"40,02",car theft,42.137961,13.612241
+79,La Spezia,118,"39,28",car theft,44.107033,9.828226
+80,Padova,355,"37,9",car theft,45.407717,11.873446
+81,Forlì Cesena,138,"35,01",car theft,44.03625,12.038441
+82,Grosseto,75,"33,76",car theft,42.76844,11.11376
+83,Massa Carrara,66,"33,7",car theft,44.221258,10.046272
+84,Terni,74,"32,62",car theft,42.564142,12.640547
+85,Vicenza,281,"32,55",car theft,45.548755,11.549747
+86,Ferrara,109,"31,41",car theft,44.836797,11.619811
+87,Gorizia,42,"30,12",car theft,45.862488,13.497925
+88,Cuneo,166,"28,2",car theft,44.389562,7.54787
+89,Venezia,240,"28,12",car theft,45.437191,12.33459
+90,Pesaro Urbino,101,"28,05",car theft,43.90901,12.89598
+91,Vercelli,48,"27,86",car theft,45.555383,8.346284
+92,Rovigo,65,"27,5",car theft,44.977199,12.27721
+93,Arezzo,93,"27,08",car theft,43.462896,11.878168
+94,Siena,66,"24,63",car theft,43.318554,11.331653
+95,Biella,43,"24,28",car theft,45.566456,8.054277
+96,Treviso,199,"22,42",car theft,45.665851,12.245541
+97,Isernia,18,"21,12",car theft,41.649468,14.208148
+98,Aosta,26,"20,6",car theft,45.737089,7.319665
+99,Udine,108,"20,4",car theft,46.064698,13.235749
+100,Oristano,31,"19,47",car theft,39.90595,8.591611
+101,Trento,86,"15,93",car theft,46.066423,11.12576
+102,Verbano Cusio Ossola,25,"15,71",car theft,46.115576,8.383597
+103,Sondrio,27,"14,88",car theft,46.323362,10.258414
+104,Pordenone,44,"14,1",car theft,46.101737,12.703903
+105,Bolzano,60,"11,37",car theft,46.498113,11.35478
+106,Belluno,18,"8,78",car theft,46.137519,12.218171
+1,Napoli,5626,"181,43",robberies,40.844116,14.2423
+2,Milano,3822,"118,16",robberies,45.466797,9.190498
+3,Rimini,357,"105,83",robberies,44.059145,12.563105
+4,Caserta,961,"104,07",robberies,41.083215,14.334929
+5,Torino,1986,"87,52",robberies,45.07092,7.685972
+6,Prato,185,"72,25",robberies,44.265834,11.558058
+7,Roma,3024,"69,43",robberies,41.893344,12.483072
+8,Foggia,415,"66,37",robberies,41.462373,15.543051
+9,Palermo,804,"63,8",robberies,38.11127,13.353442
+10,Bari,770,"61,23",robberies,41.125784,16.862029
+11,Bologna,595,"58,84",robberies,44.493671,11.343035
+12,Catania,647,"58,29",robberies,37.502608,15.087111
+13,Firenze,579,"57,14",robberies,43.769871,11.255576
+14,Parma,231,"51,3",robberies,44.801123,10.328508
+15,Genova,415,"49,11",robberies,44.40726,8.933862
+16,Barletta-Andria-Trani,187,"47,8",robberies,41.170896,16.139466
+17,Pisa,199,"47,3",robberies,43.715925,10.401898
+18,Pescara,138,"43,21",robberies,42.464378,14.213943
+19,Ravenna,161,"41,14",robberies,44.416141,12.201762
+20,Ferrara,142,"40,93",robberies,44.836797,11.619811
+21,Lucca,159,"40,84",robberies,43.84283,10.50287
+22,Asti,88,"40,76",robberies,44.900576,8.206883
+23,Fermo,70,"40,15",robberies,43.092249,13.638768
+24,Brindisi,157,"39,75",robberies,40.641067,17.948711
+25,Savona,109,"39,24",robberies,44.308025,8.481032
+26,Bergamo,426,"38,34",robberies,45.694512,9.669839
+27,Monza Brianza,332,"38,09",robberies,45.59802,9.2703
+28,Piacenza,108,"37,66",robberies,45.053475,9.694746
+29,Trieste,88,"37,5",robberies,45.650034,13.770656
+30,Imperia,79,"36,86",robberies,43.958375,7.866743
+31,Modena,257,"36,62",robberies,44.645889,10.925571
+32,Venezia,308,"36,08",robberies,45.437191,12.33459
+33,Latina,205,"35,62",robberies,41.467259,12.903574
+34,Salerno,391,"35,49",robberies,40.677978,14.765755
+35,Taranto,205,"35,33",robberies,40.471243,17.243228
+36,Livorno,118,"35,1",robberies,43.542631,10.31603
+37,Verona,319,"34,57",robberies,45.438496,10.992412
+38,Bolzano,180,"34,11",robberies,46.498113,11.35478
+39,Lodi,78,"33,95",robberies,38.17943,15.54907
+40,Trapani,145,"33,53",robberies,38.016054,12.543748
+41,Brescia,412,"32,64",robberies,45.539835,10.219534
+42,Alessandria,138,"32,53",robberies,44.835262,8.744949
+43,Reggio Emilia,170,"31,92",robberies,44.697845,10.630496
+44,L’Aquila,70,"31,83",robberies,42.137961,13.612241
+45,Pistoia,91,"31,18",robberies,43.973933,10.868352
+46,Padova,284,"30,32",robberies,45.407717,11.873446
+47,Varese,268,"30,09",robberies,45.839713,8.754158
+48,Pavia,163,"29,86",robberies,45.186004,9.154638
+49,Grosseto,64,"28,81",robberies,42.76844,11.11376
+50,Como,165,"27,53",robberies,45.810681,9.086303
+51,Novara,101,"27,33",robberies,45.446404,8.619655
+52,Siracusa,109,"27,19",robberies,37.071438,15.283007
+53,Lecce,214,"26,79",robberies,40.357037,18.171848
+54,Massa Carrara,51,"26,04",robberies,44.221258,10.046272
+55,Perugia,169,"25,69",robberies,43.111961,12.38901
+56,Reggio Calabria,135,"24,49",robberies,38.103539,15.639756
+57,Cagliari,185,"23,49",robberies,39.216953,9.112851
+58,Forlì Cesena,90,"22,83",robberies,44.03625,12.038441
+59,Cremona,81,"22,59",robberies,38.17832,15.54803
+60,Ascoli Piceno,47,"22,56",robberies,42.88342,13.539593
+61,Crotone,38,"21,71",robberies,39.080622,17.127196
+62,Teramo,66,"21,41",robberies,42.658118,13.699625
+63,Ancona,101,"21,37",robberies,43.617014,13.517098
+64,Mantova,87,"21,13",robberies,45.156668,10.791719
+65,Messina,126,"19,96",robberies,38.193757,15.554208
+66,Caltanissetta,53,"19,89",robberies,37.489829,14.063292
+67,Vibo Valentia,32,"19,89",robberies,38.679275,16.088142
+68,Vicenza,168,"19,46",robberies,45.548755,11.549747
+69,Ragusa,62,"19,29",robberies,36.922009,14.721335
+70,Lecco,64,"18,86",robberies,45.900549,9.412025
+71,Macerata,59,"18,65",robberies,41.066667,14.266667
+72,Vercelli,32,"18,57",robberies,45.555383,8.346284
+73,Cosenza,131,"18,48",robberies,39.597269,16.334274
+74,Sassari,87,"17,66",robberies,40.723264,8.561007
+75,Isernia,15,"17,6",robberies,41.649468,14.208148
+76,Nuoro,36,"17,1",robberies,40.32106,9.329734
+77,Benevento,47,"16,84",robberies,41.129559,14.782464
+78,Frosinone,81,"16,51",robberies,41.628259,13.576332
+79,Udine,87,"16,43",robberies,46.064698,13.235749
+80,Pesaro Urbino,58,"16,11",robberies,43.90901,12.89598
+81,Chieti,62,"16,02",robberies,42.102718,14.415935
+82,Agrigento,70,"15,97",robberies,37.312299,13.57465
+83,Biella,28,"15,81",robberies,45.566456,8.054277
+84,Arezzo,53,"15,43",robberies,43.462896,11.878168
+85,La Spezia,46,"15,31",robberies,44.107033,9.828226
+86,Terni,34,"14,99",robberies,42.564142,12.640547
+87,Trento,80,"14,82",robberies,46.066423,11.12576
+88,Rovigo,35,"14,81",robberies,44.977199,12.27721
+89,Cuneo,87,"14,78",robberies,44.389562,7.54787
+90,Campobasso,33,"14,78",robberies,41.559794,14.660273
+91,Viterbo,47,"14,77",robberies,42.41666,12.103834
+92,Treviso,126,"14,2",robberies,45.665851,12.245541
+93,Avellino,57,"13,52",robberies,40.996545,15.140569
+94,Siena,36,"13,43",robberies,43.318554,11.331653
+95,Gorizia,18,"12,91",robberies,45.862488,13.497925
+96,Catanzaro,46,"12,75",robberies,38.907635,16.596047
+97,Enna,21,"12,63",robberies,37.565962,14.282404
+98,Verbano Cusio Ossola,20,"12,57",robberies,46.115576,8.383597
+99,Potenza,41,"11,13",robberies,40.638405,15.802208
+100,Pordenone,32,"10,25",robberies,46.101737,12.703903
+101,Belluno,21,"10,25",robberies,46.137519,12.218171
+102,Matera,20,"10,06",robberies,40.668523,16.601585
+103,Rieti,13,"8,3",robberies,42.416366,12.885067
+104,Oristano,13,"8,16",robberies,39.90595,8.591611
+105,Aosta,7,"5,55",robberies,45.737089,7.319665
+106,Sondrio,10,"5,51",robberies,46.323362,10.258414
+1,Asti,62,"28,72",extortions,44.900576,8.206883
+2,Foggia,179,"28,63",extortions,41.462373,15.543051
+3,Isernia,24,"28,16",extortions,41.649468,14.208148
+4,Rimini,86,"25,49",extortions,44.059145,12.563105
+5,Caserta,211,"22,85",extortions,41.083215,14.334929
+6,Siracusa,90,"22,45",extortions,37.071438,15.283007
+7,Parma,101,"22,43",extortions,44.801123,10.328508
+8,Napoli,664,"21,41",extortions,40.844116,14.2423
+9,Verbano Cusio Ossola,34,"21,36",extortions,46.115576,8.383597
+10,Bologna,209,"20,67",extortions,44.493671,11.343035
+11,Barletta-Andria-Trani,80,"20,45",extortions,41.170896,16.139466
+12,Salerno,225,"20,42",extortions,40.677978,14.765755
+13,Avellino,86,"20,4",extortions,40.996545,15.140569
+14,Novara,74,"20,02",extortions,45.446404,8.619655
+15,Messina,124,"19,64",extortions,38.193757,15.554208
+16,Cosenza,137,"19,33",extortions,39.597269,16.334274
+17,Vibo Valentia,31,"19,27",extortions,38.679275,16.088142
+18,Trapani,82,"18,96",extortions,38.016054,12.543748
+19,Pescara,60,"18,79",extortions,42.464378,14.213943
+20,Vercelli,32,"18,57",extortions,45.555383,8.346284
+21,Brindisi,69,"17,47",extortions,40.641067,17.948711
+22,Milano,561,"17,34",extortions,45.466797,9.190498
+23,Catanzaro,61,"16,91",extortions,38.907635,16.596047
+24,Taranto,93,"16,03",extortions,40.471243,17.243228
+25,Reggio Calabria,86,"15,6",extortions,38.103539,15.639756
+26,Lecce,124,"15,52",extortions,40.357037,18.171848
+27,Savona,43,"15,48",extortions,44.308025,8.481032
+28,Bari,194,"15,43",extortions,41.125784,16.862029
+29,Imperia,33,"15,4",extortions,43.958375,7.866743
+30,Cremona,55,"15,34",extortions,38.17832,15.54803
+31,Latina,88,"15,29",extortions,41.467259,12.903574
+32,Frosinone,75,"15,29",extortions,41.628259,13.576332
+33,Piacenza,43,"14,99",extortions,45.053475,9.694746
+34,Perugia,97,"14,75",extortions,43.111961,12.38901
+35,Varese,131,"14,71",extortions,45.839713,8.754158
+36,La Spezia,44,"14,65",extortions,44.107033,9.828226
+37,Palermo,180,"14,28",extortions,38.11127,13.353442
+38,Forlì Cesena,55,"13,95",extortions,44.03625,12.038441
+39,Potenza,51,"13,85",extortions,40.638405,15.802208
+40,Nuoro,29,"13,77",extortions,40.32106,9.329734
+41,Pistoia,40,"13,7",extortions,43.973933,10.868352
+42,Prato,35,"13,67",extortions,44.265834,11.558058
+43,Teramo,42,"13,62",extortions,42.658118,13.699625
+44,Torino,304,"13,4",extortions,45.07092,7.685972
+45,Livorno,45,"13,38",extortions,43.542631,10.31603
+46,Genova,113,"13,37",extortions,44.40726,8.933862
+47,Lucca,52,"13,36",extortions,43.84283,10.50287
+48,Roma,579,"13,29",extortions,41.893344,12.483072
+49,Catania,147,"13,24",extortions,37.502608,15.087111
+50,Trieste,31,"13,21",extortions,45.650034,13.770656
+51,Crotone,23,"13,14",extortions,39.080622,17.127196
+52,Caltanissetta,35,"13,14",extortions,37.489829,14.063292
+53,Grosseto,29,"13,05",extortions,42.76844,11.11376
+54,Arezzo,44,"12,81",extortions,43.462896,11.878168
+55,Bergamo,139,"12,51",extortions,45.694512,9.669839
+56,Ragusa,40,"12,45",extortions,36.922009,14.721335
+57,Lecco,41,"12,08",extortions,45.900549,9.412025
+58,Aosta,15,"11,89",extortions,45.737089,7.319665
+59,Como,71,"11,85",extortions,45.810681,9.086303
+60,L’Aquila,26,"11,82",extortions,42.137961,13.612241
+61,Sondrio,21,"11,58",extortions,46.323362,10.258414
+62,Benevento,32,"11,46",extortions,41.129559,14.782464
+63,Terni,26,"11,46",extortions,42.564142,12.640547
+64,Enna,19,"11,43",extortions,37.565962,14.282404
+65,Biella,20,"11,3",extortions,45.566456,8.054277
+66,Viterbo,35,11,extortions,42.41666,12.103834
+67,Bolzano,57,"10,8",extortions,46.498113,11.35478
+68,Campobasso,24,"10,75",extortions,41.559794,14.660273
+69,Ancona,50,"10,58",extortions,43.617014,13.517098
+70,Ravenna,41,"10,48",extortions,44.416141,12.201762
+71,Firenze,106,"10,46",extortions,43.769871,11.255576
+72,Siena,28,"10,45",extortions,43.318554,11.331653
+73,Venezia,88,"10,31",extortions,45.437191,12.33459
+74,Agrigento,45,"10,27",extortions,37.312299,13.57465
+75,Brescia,129,"10,22",extortions,45.539835,10.219534
+76,Sassari,50,"10,15",extortions,40.723264,8.561007
+77,Macerata,32,"10,12",extortions,41.066667,14.266667
+78,Pesaro Urbino,36,10,extortions,43.90901,12.89598
+79,Pisa,42,"9,98",extortions,43.715925,10.401898
+80,Mantova,41,"9,96",extortions,45.156668,10.791719
+81,Chieti,38,"9,82",extortions,42.102718,14.415935
+82,Ferrara,34,"9,8",extortions,44.836797,11.619811
+83,Verona,90,"9,75",extortions,45.438496,10.992412
+84,Modena,68,"9,69",extortions,44.645889,10.925571
+85,Padova,87,"9,29",extortions,45.407717,11.873446
+86,Belluno,19,"9,27",extortions,46.137519,12.218171
+87,Vicenza,80,"9,27",extortions,45.548755,11.549747
+88,Reggio Emilia,49,"9,2",extortions,44.697845,10.630496
+89,Massa Carrara,18,"9,19",extortions,44.221258,10.046272
+90,Ascoli Piceno,19,"9,12",extortions,42.88342,13.539593
+91,Matera,18,"9,05",extortions,40.668523,16.601585
+92,Cagliari,71,"9,01",extortions,39.216953,9.112851
+93,Rieti,14,"8,94",extortions,42.416366,12.885067
+94,Trento,48,"8,89",extortions,46.066423,11.12576
+95,Oristano,14,"8,79",extortions,39.90595,8.591611
+96,Fermo,15,"8,6",extortions,43.092249,13.638768
+97,Alessandria,36,"8,49",extortions,44.835262,8.744949
+98,Lodi,19,"8,27",extortions,38.17943,15.54907
+99,Udine,36,"6,8",extortions,46.064698,13.235749
+100,Rovigo,16,"6,77",extortions,44.977199,12.27721
+101,Cuneo,38,"6,46",extortions,44.389562,7.54787
+102,Monza Brianza,56,"6,42",extortions,45.59802,9.2703
+103,Pavia,35,"6,41",extortions,45.186004,9.154638
+104,Treviso,55,"6,2",extortions,45.665851,12.245541
+105,Pordenone,19,"6,09",extortions,46.101737,12.703903
+106,Gorizia,8,"5,74",extortions,45.862488,13.497925
+1,Parma,15,"3,33",usury,44.801123,10.328508
+2,Isernia,2,"2,35",usury,41.649468,14.208148
+3,Reggio Emilia,7,"1,31",usury,44.697845,10.630496
+4,Teramo,4,"1,3",usury,42.658118,13.699625
+5,Pescara,4,"1,25",usury,42.464378,14.213943
+6,Napoli,37,"1,19",usury,40.844116,14.2423
+7,Crotone,2,"1,14",usury,39.080622,17.127196
+8,Potenza,4,"1,09",usury,40.638405,15.802208
+9,Brindisi,4,"1,01",usury,40.641067,17.948711
+10,Varese,9,"1,01",usury,45.839713,8.754158
+11,Treviso,8,"0,9",usury,45.665851,12.245541
+12,Campobasso,2,"0,9",usury,41.559794,14.660273
+13,Bologna,9,"0,89",usury,44.493671,11.343035
+14,Latina,5,"0,87",usury,41.467259,12.903574
+15,Cosenza,6,"0,85",usury,39.597269,16.334274
+16,Catanzaro,3,"0,83",usury,38.907635,16.596047
+17,Genova,7,"0,83",usury,44.40726,8.933862
+18,Frosinone,4,"0,82",usury,41.628259,13.576332
+19,Aosta,1,"0,79",usury,45.737089,7.319665
+20,Chieti,3,"0,77",usury,42.102718,14.415935
+21,Barletta-Andria-Trani,3,"0,77",usury,41.170896,16.139466
+22,Ravenna,3,"0,77",usury,44.416141,12.201762
+23,Salerno,8,"0,73",usury,40.677978,14.765755
+24,Caserta,6,"0,65",usury,41.083215,14.334929
+25,Foggia,4,"0,64",usury,41.462373,15.543051
+26,Macerata,2,"0,63",usury,41.066667,14.266667
+27,Viterbo,2,"0,63",usury,42.41666,12.103834
+28,Verbano Cusio Ossola,1,"0,63",usury,46.115576,8.383597
+29,Ragusa,2,"0,62",usury,36.922009,14.721335
+30,Perugia,4,"0,61",usury,43.111961,12.38901
+31,Livorno,2,"0,59",usury,43.542631,10.31603
+32,Rimini,2,"0,59",usury,44.059145,12.563105
+33,Venezia,5,"0,59",usury,45.437191,12.33459
+34,Vercelli,1,"0,58",usury,45.555383,8.346284
+35,Ferrara,2,"0,58",usury,44.836797,11.619811
+36,Fermo,1,"0,57",usury,43.092249,13.638768
+37,Torino,13,"0,57",usury,45.07092,7.685972
+38,Sondrio,1,"0,55",usury,46.323362,10.258414
+39,Bergamo,6,"0,54",usury,45.694512,9.669839
+40,Taranto,3,"0,52",usury,40.471243,17.243228
+41,Forlì Cesena,2,"0,51",usury,44.03625,12.038441
+42,Lecce,4,"0,5",usury,40.357037,18.171848
+43,Siracusa,2,"0,5",usury,37.071438,15.283007
+44,Mantova,2,"0,49",usury,45.156668,10.791719
+45,Roma,21,"0,48",usury,41.893344,12.483072
+46,Ascoli Piceno,1,"0,48",usury,42.88342,13.539593
+47,Bari,6,"0,48",usury,41.125784,16.862029
+48,Palermo,6,"0,48",usury,38.11127,13.353442
+49,Messina,3,"0,48",usury,38.193757,15.554208
+50,Nuoro,1,"0,47",usury,40.32106,9.329734
+51,Alessandria,2,"0,47",usury,44.835262,8.744949
+52,Milano,15,"0,46",usury,45.466797,9.190498
+53,Lodi,1,"0,44",usury,38.17943,15.54907
+54,Ancona,2,"0,42",usury,43.617014,13.517098
+55,Rovigo,1,"0,42",usury,44.977199,12.27721
+56,Prato,1,"0,39",usury,44.265834,11.558058
+57,Siena,1,"0,37",usury,43.318554,11.331653
+58,Reggio Calabria,2,"0,36",usury,38.103539,15.639756
+59,Catania,4,"0,36",usury,37.502608,15.087111
+60,Como,2,"0,33",usury,45.810681,9.086303
+61,La Spezia,1,"0,33",usury,44.107033,9.828226
+62,Arezzo,1,"0,29",usury,43.462896,11.878168
+63,Modena,2,"0,28",usury,44.645889,10.925571
+64,Pesaro Urbino,1,"0,28",usury,43.90901,12.89598
+65,Avellino,1,"0,24",usury,40.996545,15.140569
+66,Agrigento,1,"0,23",usury,37.312299,13.57465
+67,Sassari,1,"0,2",usury,40.723264,8.561007
+68,Bolzano,1,"0,19",usury,46.498113,11.35478
+69,Trento,1,"0,19",usury,46.066423,11.12576
+70,Brescia,2,"0,16",usury,45.539835,10.219534
+71,Cagliari,1,"0,13",usury,39.216953,9.112851
+72,Vicenza,1,"0,12",usury,45.548755,11.549747
+73,Monza Brianza,1,"0,11",usury,45.59802,9.2703
+74,Padova,1,"0,11",usury,45.407717,11.873446
+75,Asti,,0,usury,44.900576,8.206883
+76,Belluno,,0,usury,46.137519,12.218171
+77,Benevento,,0,usury,41.129559,14.782464
+78,Biella,,0,usury,45.566456,8.054277
+79,Caltanissetta,,0,usury,37.489829,14.063292
+80,Cremona,,0,usury,38.17832,15.54803
+81,Cuneo,,0,usury,44.389562,7.54787
+82,Enna,,0,usury,37.565962,14.282404
+83,Firenze,,0,usury,43.769871,11.255576
+84,Gorizia,,0,usury,45.862488,13.497925
+85,Grosseto,,0,usury,42.76844,11.11376
+86,Imperia,,0,usury,43.958375,7.866743
+87,L’Aquila,,0,usury,42.137961,13.612241
+88,Lecco,,0,usury,45.900549,9.412025
+89,Lucca,,0,usury,43.84283,10.50287
+90,Massa Carrara,,0,usury,44.221258,10.046272
+91,Matera,,0,usury,40.668523,16.601585
+92,Novara,,0,usury,45.446404,8.619655
+93,Oristano,,0,usury,39.90595,8.591611
+94,Pavia,,0,usury,45.186004,9.154638
+95,Piacenza,,0,usury,45.053475,9.694746
+96,Pisa,,0,usury,43.715925,10.401898
+97,Pistoia,,0,usury,43.973933,10.868352
+98,Pordenone,,0,usury,46.101737,12.703903
+99,Rieti,,0,usury,42.416366,12.885067
+100,Savona,,0,usury,44.308025,8.481032
+101,Terni,,0,usury,42.564142,12.640547
+102,Trapani,,0,usury,38.016054,12.543748
+103,Trieste,,0,usury,45.650034,13.770656
+104,Udine,,0,usury,46.064698,13.235749
+105,Verona,,0,usury,45.438496,10.992412
+106,Vibo Valentia,,0,usury,38.679275,16.088142
+1,Reggio Calabria,23,"4,17",criminal associations,38.103539,15.639756
+2,Pescara,10,"3,13",criminal associations,42.464378,14.213943
+3,Crotone,5,"2,86",criminal associations,39.080622,17.127196
+4,Ancona,13,"2,75",criminal associations,43.617014,13.517098
+5,Potenza,10,"2,72",criminal associations,40.638405,15.802208
+6,Rieti,4,"2,56",criminal associations,42.416366,12.885067
+7,Agrigento,10,"2,28",criminal associations,37.312299,13.57465
+8,Caltanissetta,6,"2,25",criminal associations,37.489829,14.063292
+9,Catanzaro,8,"2,22",criminal associations,38.907635,16.596047
+10,Benevento,6,"2,15",criminal associations,41.129559,14.782464
+11,Livorno,7,"2,08",criminal associations,43.542631,10.31603
+12,Cremona,7,"1,95",criminal associations,38.17832,15.54803
+13,Messina,12,"1,9",criminal associations,38.193757,15.554208
+14,Udine,10,"1,89",criminal associations,46.064698,13.235749
+15,Campobasso,4,"1,79",criminal associations,41.559794,14.660273
+16,Piacenza,5,"1,74",criminal associations,45.053475,9.694746
+17,Vercelli,3,"1,74",criminal associations,45.555383,8.346284
+18,Frosinone,8,"1,63",criminal associations,41.628259,13.576332
+19,Catania,18,"1,62",criminal associations,37.502608,15.087111
+20,Pordenone,5,"1,6",criminal associations,46.101737,12.703903
+21,Aosta,2,"1,58",criminal associations,45.737089,7.319665
+22,Macerata,5,"1,58",criminal associations,41.066667,14.266667
+23,Latina,9,"1,56",criminal associations,41.467259,12.903574
+24,Ragusa,5,"1,56",criminal associations,36.922009,14.721335
+25,Caserta,14,"1,52",criminal associations,41.083215,14.334929
+26,Napoli,46,"1,48",criminal associations,40.844116,14.2423
+27,Torino,33,"1,45",criminal associations,45.07092,7.685972
+28,Salerno,16,"1,45",criminal associations,40.677978,14.765755
+29,Palermo,18,"1,43",criminal associations,38.11127,13.353442
+30,Taranto,8,"1,38",criminal associations,40.471243,17.243228
+31,Bolzano,7,"1,33",criminal associations,46.498113,11.35478
+32,Lucca,5,"1,28",criminal associations,43.84283,10.50287
+33,Cosenza,9,"1,27",criminal associations,39.597269,16.334274
+34,Viterbo,4,"1,26",criminal associations,42.41666,12.103834
+35,Enna,2,"1,2",criminal associations,37.565962,14.282404
+36,Isernia,1,"1,17",criminal associations,41.649468,14.208148
+37,Trapani,5,"1,16",criminal associations,38.016054,12.543748
+38,Savona,3,"1,08",criminal associations,44.308025,8.481032
+39,Firenze,10,"0,99",criminal associations,43.769871,11.255576
+40,Grosseto,2,"0,9",criminal associations,42.76844,11.11376
+41,Lecco,3,"0,88",criminal associations,45.900549,9.412025
+42,Verona,8,"0,87",criminal associations,45.438496,10.992412
+43,Roma,33,"0,76",criminal associations,41.893344,12.483072
+44,Lecce,6,"0,75",criminal associations,40.357037,18.171848
+45,Siracusa,3,"0,75",criminal associations,37.071438,15.283007
+46,Gorizia,1,"0,72",criminal associations,45.862488,13.497925
+47,Modena,5,"0,71",criminal associations,44.645889,10.925571
+48,Avellino,3,"0,71",criminal associations,40.996545,15.140569
+49,Milano,23,"0,71",criminal associations,45.466797,9.190498
+50,Genova,6,"0,71",criminal associations,44.40726,8.933862
+51,Venezia,6,"0,7",criminal associations,45.437191,12.33459
+52,Varese,6,"0,67",criminal associations,45.839713,8.754158
+53,Bergamo,7,"0,63",criminal associations,45.694512,9.669839
+54,Vibo Valentia,1,"0,62",criminal associations,38.679275,16.088142
+55,Sassari,3,"0,61",criminal associations,40.723264,8.561007
+56,Perugia,4,"0,61",criminal associations,43.111961,12.38901
+57,Ferrara,2,"0,58",criminal associations,44.836797,11.619811
+58,Fermo,1,"0,57",criminal associations,43.092249,13.638768
+59,Bari,7,"0,56",criminal associations,41.125784,16.862029
+60,Pesaro Urbino,2,"0,56",criminal associations,43.90901,12.89598
+61,Brescia,7,"0,55",criminal associations,45.539835,10.219534
+62,Barletta-Andria-Trani,2,"0,51",criminal associations,41.170896,16.139466
+63,Massa Carrara,1,"0,51",criminal associations,44.221258,10.046272
+64,Forlì Cesena,2,"0,51",criminal associations,44.03625,12.038441
+65,Matera,1,"0,5",criminal associations,40.668523,16.601585
+66,Belluno,1,"0,49",criminal associations,46.137519,12.218171
+67,Foggia,3,"0,48",criminal associations,41.462373,15.543051
+68,Nuoro,1,"0,47",criminal associations,40.32106,9.329734
+69,Alessandria,2,"0,47",criminal associations,44.835262,8.744949
+70,Imperia,1,"0,47",criminal associations,43.958375,7.866743
+71,Asti,1,"0,46",criminal associations,44.900576,8.206883
+72,L’Aquila,1,"0,45",criminal associations,42.137961,13.612241
+73,Treviso,4,"0,45",criminal associations,45.665851,12.245541
+74,Parma,2,"0,44",criminal associations,44.801123,10.328508
+75,Padova,4,"0,43",criminal associations,45.407717,11.873446
+76,Rovigo,1,"0,42",criminal associations,44.977199,12.27721
+77,Prato,1,"0,39",criminal associations,44.265834,11.558058
+78,Siena,1,"0,37",criminal associations,43.318554,11.331653
+79,Pistoia,1,"0,34",criminal associations,43.973933,10.868352
+80,Como,2,"0,33",criminal associations,45.810681,9.086303
+81,Teramo,1,"0,32",criminal associations,42.658118,13.699625
+82,Bologna,3,"0,3",criminal associations,44.493671,11.343035
+83,Rimini,1,"0,3",criminal associations,44.059145,12.563105
+84,Arezzo,1,"0,29",criminal associations,43.462896,11.878168
+85,Ravenna,1,"0,26",criminal associations,44.416141,12.201762
+86,Cagliari,2,"0,25",criminal associations,39.216953,9.112851
+87,Brindisi,1,"0,25",criminal associations,40.641067,17.948711
+88,Pisa,1,"0,24",criminal associations,43.715925,10.401898
+89,Monza Brianza,2,"0,23",criminal associations,45.59802,9.2703
+90,Reggio Emilia,1,"0,19",criminal associations,44.697845,10.630496
+91,Trento,1,"0,19",criminal associations,46.066423,11.12576
+92,Pavia,1,"0,18",criminal associations,45.186004,9.154638
+93,Cuneo,1,"0,17",criminal associations,44.389562,7.54787
+94,Ascoli Piceno,,0,criminal associations,42.88342,13.539593
+95,Biella,,0,criminal associations,45.566456,8.054277
+96,Chieti,,0,criminal associations,42.102718,14.415935
+97,La Spezia,,0,criminal associations,44.107033,9.828226
+98,Lodi,,0,criminal associations,38.17943,15.54907
+99,Mantova,,0,criminal associations,45.156668,10.791719
+100,Novara,,0,criminal associations,45.446404,8.619655
+101,Oristano,,0,criminal associations,39.90595,8.591611
+102,Sondrio,,0,criminal associations,46.323362,10.258414
+103,Terni,,0,criminal associations,42.564142,12.640547
+104,Trieste,,0,criminal associations,45.650034,13.770656
+105,Verbano Cusio Ossola,,0,criminal associations,46.115576,8.383597
+106,Vicenza,,0,criminal associations,45.548755,11.549747
+1,Crotone,4,"2,28",mafia-type associations,39.080622,17.127196
+2,Reggio Calabria,11,2,mafia-type associations,38.103539,15.639756
+3,Caserta,9,"0,97",mafia-type associations,41.083215,14.334929
+4,Catanzaro,2,"0,55",mafia-type associations,38.907635,16.596047
+5,Napoli,16,"0,52",mafia-type associations,40.844116,14.2423
+6,Messina,3,"0,48",mafia-type associations,38.193757,15.554208
+7,Caltanissetta,1,"0,38",mafia-type associations,37.489829,14.063292
+8,Catania,4,"0,36",mafia-type associations,37.502608,15.087111
+9,Benevento,1,"0,36",mafia-type associations,41.129559,14.782464
+10,Ragusa,1,"0,31",mafia-type associations,36.922009,14.721335
+11,Potenza,1,"0,27",mafia-type associations,40.638405,15.802208
+12,Chieti,1,"0,26",mafia-type associations,42.102718,14.415935
+13,Brindisi,1,"0,25",mafia-type associations,40.641067,17.948711
+14,Siracusa,1,"0,25",mafia-type associations,37.071438,15.283007
+15,Palermo,3,"0,24",mafia-type associations,38.11127,13.353442
+16,Agrigento,1,"0,23",mafia-type associations,37.312299,13.57465
+17,Taranto,1,"0,17",mafia-type associations,40.471243,17.243228
+18,Cagliari,1,"0,13",mafia-type associations,39.216953,9.112851
+19,Lecce,1,"0,13",mafia-type associations,40.357037,18.171848
+20,Salerno,1,"0,09",mafia-type associations,40.677978,14.765755
+21,Bari,1,"0,08",mafia-type associations,41.125784,16.862029
+22,Roma,2,"0,05",mafia-type associations,41.893344,12.483072
+23,Torino,1,"0,04",mafia-type associations,45.07092,7.685972
+24,Milano,1,"0,03",mafia-type associations,45.466797,9.190498
+25,Alessandria,,0,mafia-type associations,44.835262,8.744949
+26,Ancona,,0,mafia-type associations,43.617014,13.517098
+27,Aosta,,0,mafia-type associations,45.737089,7.319665
+28,Arezzo,,0,mafia-type associations,43.462896,11.878168
+29,Ascoli Piceno,,0,mafia-type associations,42.88342,13.539593
+30,Asti,,0,mafia-type associations,44.900576,8.206883
+31,Avellino,,0,mafia-type associations,40.996545,15.140569
+32,Barletta-Andria-Trani,,0,mafia-type associations,41.170896,16.139466
+33,Belluno,,0,mafia-type associations,46.137519,12.218171
+34,Bergamo,,0,mafia-type associations,45.694512,9.669839
+35,Biella,,0,mafia-type associations,45.566456,8.054277
+36,Bologna,,0,mafia-type associations,44.493671,11.343035
+37,Bolzano,,0,mafia-type associations,46.498113,11.35478
+38,Brescia,,0,mafia-type associations,45.539835,10.219534
+39,Campobasso,,0,mafia-type associations,41.559794,14.660273
+40,Como,,0,mafia-type associations,45.810681,9.086303
+41,Cosenza,,0,mafia-type associations,39.597269,16.334274
+42,Cremona,,0,mafia-type associations,38.17832,15.54803
+43,Cuneo,,0,mafia-type associations,44.389562,7.54787
+44,Enna,,0,mafia-type associations,37.565962,14.282404
+45,Fermo,,0,mafia-type associations,43.092249,13.638768
+46,Ferrara,,0,mafia-type associations,44.836797,11.619811
+47,Firenze,,0,mafia-type associations,43.769871,11.255576
+48,Foggia,,0,mafia-type associations,41.462373,15.543051
+49,Forlì Cesena,,0,mafia-type associations,44.03625,12.038441
+50,Frosinone,,0,mafia-type associations,41.628259,13.576332
+51,Genova,,0,mafia-type associations,44.40726,8.933862
+52,Gorizia,,0,mafia-type associations,45.862488,13.497925
+53,Grosseto,,0,mafia-type associations,42.76844,11.11376
+54,Imperia,,0,mafia-type associations,43.958375,7.866743
+55,Isernia,,0,mafia-type associations,41.649468,14.208148
+56,L’Aquila,,0,mafia-type associations,42.137961,13.612241
+57,La Spezia,,0,mafia-type associations,44.107033,9.828226
+58,Latina,,0,mafia-type associations,41.467259,12.903574
+59,Lecco,,0,mafia-type associations,45.900549,9.412025
+60,Livorno,,0,mafia-type associations,43.542631,10.31603
+61,Lodi,,0,mafia-type associations,38.17943,15.54907
+62,Lucca,,0,mafia-type associations,43.84283,10.50287
+63,Macerata,,0,mafia-type associations,41.066667,14.266667
+64,Mantova,,0,mafia-type associations,45.156668,10.791719
+65,Massa Carrara,,0,mafia-type associations,44.221258,10.046272
+66,Matera,,0,mafia-type associations,40.668523,16.601585
+67,Modena,,0,mafia-type associations,44.645889,10.925571
+68,Monza Brianza,,0,mafia-type associations,45.59802,9.2703
+69,Novara,,0,mafia-type associations,45.446404,8.619655
+70,Nuoro,,0,mafia-type associations,40.32106,9.329734
+71,Oristano,,0,mafia-type associations,39.90595,8.591611
+72,Padova,,0,mafia-type associations,45.407717,11.873446
+73,Parma,,0,mafia-type associations,44.801123,10.328508
+74,Pavia,,0,mafia-type associations,45.186004,9.154638
+75,Perugia,,0,mafia-type associations,43.111961,12.38901
+76,Pesaro Urbino,,0,mafia-type associations,43.90901,12.89598
+77,Pescara,,0,mafia-type associations,42.464378,14.213943
+78,Piacenza,,0,mafia-type associations,45.053475,9.694746
+79,Pisa,,0,mafia-type associations,43.715925,10.401898
+80,Pistoia,,0,mafia-type associations,43.973933,10.868352
+81,Pordenone,,0,mafia-type associations,46.101737,12.703903
+82,Prato,,0,mafia-type associations,44.265834,11.558058
+83,Ravenna,,0,mafia-type associations,44.416141,12.201762
+84,Reggio Emilia,,0,mafia-type associations,44.697845,10.630496
+85,Rieti,,0,mafia-type associations,42.416366,12.885067
+86,Rimini,,0,mafia-type associations,44.059145,12.563105
+87,Rovigo,,0,mafia-type associations,44.977199,12.27721
+88,Sassari,,0,mafia-type associations,40.723264,8.561007
+89,Savona,,0,mafia-type associations,44.308025,8.481032
+90,Siena,,0,mafia-type associations,43.318554,11.331653
+91,Sondrio,,0,mafia-type associations,46.323362,10.258414
+92,Teramo,,0,mafia-type associations,42.658118,13.699625
+93,Terni,,0,mafia-type associations,42.564142,12.640547
+94,Trapani,,0,mafia-type associations,38.016054,12.543748
+95,Trento,,0,mafia-type associations,46.066423,11.12576
+96,Treviso,,0,mafia-type associations,45.665851,12.245541
+97,Trieste,,0,mafia-type associations,45.650034,13.770656
+98,Udine,,0,mafia-type associations,46.064698,13.235749
+99,Varese,,0,mafia-type associations,45.839713,8.754158
+100,Venezia,,0,mafia-type associations,45.437191,12.33459
+101,Verbano Cusio Ossola,,0,mafia-type associations,46.115576,8.383597
+102,Vercelli,,0,mafia-type associations,45.555383,8.346284
+103,Verona,,0,mafia-type associations,45.438496,10.992412
+104,Vibo Valentia,,0,mafia-type associations,38.679275,16.088142
+105,Vicenza,,0,mafia-type associations,45.548755,11.549747
+106,Viterbo,,0,mafia-type associations,42.41666,12.103834
+1,Prato,102,"39,83",money laundering,44.265834,11.558058
+2,Firenze,241,"23,78",money laundering,43.769871,11.255576
+3,Crotone,22,"12,57",money laundering,39.080622,17.127196
+4,Foggia,58,"9,28",money laundering,41.462373,15.543051
+5,Trento,50,"9,26",money laundering,46.066423,11.12576
+6,Genova,64,"7,57",money laundering,44.40726,8.933862
+7,Pesaro Urbino,27,"7,5",money laundering,43.90901,12.89598
+8,Alessandria,30,"7,07",money laundering,44.835262,8.744949
+9,Modena,46,"6,55",money laundering,44.645889,10.925571
+10,Reggio Calabria,27,"4,9",money laundering,38.103539,15.639756
+11,Brindisi,19,"4,81",money laundering,40.641067,17.948711
+12,Forlì Cesena,18,"4,57",money laundering,44.03625,12.038441
+13,Napoli,141,"4,55",money laundering,40.844116,14.2423
+14,Ravenna,16,"4,09",money laundering,44.416141,12.201762
+15,Trieste,9,"3,84",money laundering,45.650034,13.770656
+16,Siracusa,15,"3,74",money laundering,37.071438,15.283007
+17,Catania,40,"3,6",money laundering,37.502608,15.087111
+18,Avellino,15,"3,56",money laundering,40.996545,15.140569
+19,Arezzo,12,"3,49",money laundering,43.462896,11.878168
+20,Varese,30,"3,37",money laundering,45.839713,8.754158
+21,Pescara,10,"3,13",money laundering,42.464378,14.213943
+22,Barletta-Andria-Trani,12,"3,07",money laundering,41.170896,16.139466
+23,Padova,28,"2,99",money laundering,45.407717,11.873446
+24,Frosinone,14,"2,85",money laundering,41.628259,13.576332
+25,Caserta,26,"2,82",money laundering,41.083215,14.334929
+26,Imperia,6,"2,8",money laundering,43.958375,7.866743
+27,Pistoia,8,"2,74",money laundering,43.973933,10.868352
+28,Bari,34,"2,7",money laundering,41.125784,16.862029
+29,Livorno,9,"2,68",money laundering,43.542631,10.31603
+30,Roma,116,"2,66",money laundering,41.893344,12.483072
+31,Latina,15,"2,61",money laundering,41.467259,12.903574
+32,Pordenone,8,"2,56",money laundering,46.101737,12.703903
+33,Massa Carrara,5,"2,55",money laundering,44.221258,10.046272
+34,Matera,5,"2,51",money laundering,40.668523,16.601585
+35,Agrigento,11,"2,51",money laundering,37.312299,13.57465
+36,Piacenza,7,"2,44",money laundering,45.053475,9.694746
+37,Nuoro,5,"2,37",money laundering,40.32106,9.329734
+38,Milano,76,"2,35",money laundering,45.466797,9.190498
+39,Ancona,11,"2,33",money laundering,43.617014,13.517098
+40,Brescia,29,"2,3",money laundering,45.539835,10.219534
+41,Verona,21,"2,28",money laundering,45.438496,10.992412
+42,Taranto,13,"2,24",money laundering,40.471243,17.243228
+43,Campobasso,5,"2,24",money laundering,41.559794,14.660273
+44,Ragusa,7,"2,18",money laundering,36.922009,14.721335
+45,Potenza,8,"2,17",money laundering,40.638405,15.802208
+46,Savona,6,"2,16",money laundering,44.308025,8.481032
+47,Torino,49,"2,16",money laundering,45.07092,7.685972
+48,Parma,9,2,money laundering,44.801123,10.328508
+49,La Spezia,6,2,money laundering,44.107033,9.828226
+50,Ascoli Piceno,4,"1,92",money laundering,42.88342,13.539593
+51,Salerno,21,"1,91",money laundering,40.677978,14.765755
+52,Caltanissetta,5,"1,88",money laundering,37.489829,14.063292
+53,Siena,5,"1,87",money laundering,43.318554,11.331653
+54,Trapani,8,"1,85",money laundering,38.016054,12.543748
+55,Como,11,"1,84",money laundering,45.810681,9.086303
+56,Benevento,5,"1,79",money laundering,41.129559,14.782464
+57,Vercelli,3,"1,74",money laundering,45.555383,8.346284
+58,Lodi,4,"1,74",money laundering,38.17943,15.54907
+59,Vicenza,15,"1,74",money laundering,45.548755,11.549747
+60,Ferrara,6,"1,73",money laundering,44.836797,11.619811
+61,Cremona,6,"1,67",money laundering,38.17832,15.54803
+62,Sondrio,3,"1,65",money laundering,46.323362,10.258414
+63,Pavia,9,"1,65",money laundering,45.186004,9.154638
+64,Palermo,20,"1,59",money laundering,38.11127,13.353442
+65,Messina,10,"1,58",money laundering,38.193757,15.554208
+66,Belluno,3,"1,46",money laundering,46.137519,12.218171
+67,Mantova,6,"1,46",money laundering,45.156668,10.791719
+68,Sassari,7,"1,42",money laundering,40.723264,8.561007
+69,Cosenza,10,"1,41",money laundering,39.597269,16.334274
+70,Venezia,12,"1,41",money laundering,45.437191,12.33459
+71,Cuneo,8,"1,36",money laundering,44.389562,7.54787
+72,Bolzano,7,"1,33",money laundering,46.498113,11.35478
+73,Rovigo,3,"1,27",money laundering,44.977199,12.27721
+74,Monza Brianza,11,"1,26",money laundering,45.59802,9.2703
+75,Lecce,10,"1,25",money laundering,40.357037,18.171848
+76,Bologna,12,"1,19",money laundering,44.493671,11.343035
+77,Rimini,4,"1,19",money laundering,44.059145,12.563105
+78,Isernia,1,"1,17",money laundering,41.649468,14.208148
+79,Udine,6,"1,13",money laundering,46.064698,13.235749
+80,Treviso,10,"1,13",money laundering,45.665851,12.245541
+81,Bergamo,12,"1,08",money laundering,45.694512,9.669839
+82,Perugia,7,"1,06",money laundering,43.111961,12.38901
+83,Teramo,3,"0,97",money laundering,42.658118,13.699625
+84,Macerata,3,"0,95",money laundering,41.066667,14.266667
+85,L’Aquila,2,"0,91",money laundering,42.137961,13.612241
+86,Grosseto,2,"0,9",money laundering,42.76844,11.11376
+87,Lecco,3,"0,88",money laundering,45.900549,9.412025
+88,Novara,3,"0,81",money laundering,45.446404,8.619655
+89,Aosta,1,"0,79",money laundering,45.737089,7.319665
+90,Chieti,3,"0,77",money laundering,42.102718,14.415935
+91,Lucca,3,"0,77",money laundering,43.84283,10.50287
+92,Cagliari,6,"0,76",money laundering,39.216953,9.112851
+93,Gorizia,1,"0,72",money laundering,45.862488,13.497925
+94,Rieti,1,"0,64",money laundering,42.416366,12.885067
+95,Viterbo,2,"0,63",money laundering,42.41666,12.103834
+96,Oristano,1,"0,63",money laundering,39.90595,8.591611
+97,Vibo Valentia,1,"0,62",money laundering,38.679275,16.088142
+98,Enna,1,"0,6",money laundering,37.565962,14.282404
+99,Fermo,1,"0,57",money laundering,43.092249,13.638768
+100,Biella,1,"0,56",money laundering,45.566456,8.054277
+101,Catanzaro,2,"0,55",money laundering,38.907635,16.596047
+102,Asti,1,"0,46",money laundering,44.900576,8.206883
+103,Reggio Emilia,2,"0,38",money laundering,44.697845,10.630496
+104,Pisa,,0,money laundering,43.715925,10.401898
+105,Terni,,0,money laundering,42.564142,12.640547
+106,Verbano Cusio Ossola,,0,money laundering,46.115576,8.383597
+1,Trieste,1133,"482,87",scams and computer fraud,45.650034,13.770656
+2,Milano,14246,"440,42",scams and computer fraud,45.466797,9.190498
+3,Gorizia,589,"422,41",scams and computer fraud,45.862488,13.497925
+4,Imperia,832,"388,23",scams and computer fraud,43.958375,7.866743
+5,Siena,1039,"387,67",scams and computer fraud,43.318554,11.331653
+6,Savona,1038,"373,64",scams and computer fraud,44.308025,8.481032
+7,Belluno,754,"367,98",scams and computer fraud,46.137519,12.218171
+8,Bologna,3720,"367,85",scams and computer fraud,44.493671,11.343035
+9,Napoli,11112,"358,34",scams and computer fraud,40.844116,14.2423
+10,Verbano Cusio Ossola,570,"358,13",scams and computer fraud,46.115576,8.383597
+11,Torino,7964,"350,97",scams and computer fraud,45.07092,7.685972
+12,L’Aquila,754,"342,87",scams and computer fraud,42.137961,13.612241
+13,Genova,2822,"333,98",scams and computer fraud,44.40726,8.933862
+14,Novara,1207,"326,57",scams and computer fraud,45.446404,8.619655
+15,Pescara,1022,"319,99",scams and computer fraud,42.464378,14.213943
+16,Isernia,272,"319,11",scams and computer fraud,41.649468,14.208148
+17,Udine,1658,"313,2",scams and computer fraud,46.064698,13.235749
+18,Avellino,1298,"307,93",scams and computer fraud,40.996545,15.140569
+19,Rimini,1028,"304,75",scams and computer fraud,44.059145,12.563105
+20,Perugia,1986,"301,92",scams and computer fraud,43.111961,12.38901
+21,Nuoro,633,"300,67",scams and computer fraud,40.32106,9.329734
+22,Vibo Valentia,477,"296,48",scams and computer fraud,38.679275,16.088142
+23,Asti,640,"296,46",scams and computer fraud,44.900576,8.206883
+24,Biella,524,"295,93",scams and computer fraud,45.566456,8.054277
+25,Grosseto,649,"292,11",scams and computer fraud,42.76844,11.11376
+26,Mantova,1199,"291,19",scams and computer fraud,45.156668,10.791719
+27,Ascoli Piceno,603,"289,38",scams and computer fraud,42.88342,13.539593
+28,Campobasso,645,"288,91",scams and computer fraud,41.559794,14.660273
+29,Cremona,1034,"288,41",scams and computer fraud,38.17832,15.54803
+30,Roma,12548,"288,08",scams and computer fraud,41.893344,12.483072
+31,Sondrio,522,"287,76",scams and computer fraud,46.323362,10.258414
+32,Terni,651,"286,97",scams and computer fraud,42.564142,12.640547
+33,Lucca,1104,"283,59",scams and computer fraud,43.84283,10.50287
+34,Ravenna,1093,"279,29",scams and computer fraud,44.416141,12.201762
+35,Aosta,351,"278,13",scams and computer fraud,45.737089,7.319665
+36,Bergamo,3083,"277,49",scams and computer fraud,45.694512,9.669839
+37,Catanzaro,1001,"277,42",scams and computer fraud,38.907635,16.596047
+38,Brescia,3487,"276,22",scams and computer fraud,45.539835,10.219534
+39,Caserta,2530,"273,97",scams and computer fraud,41.083215,14.334929
+40,Salerno,2995,"271,84",scams and computer fraud,40.677978,14.765755
+41,Parma,1223,"271,62",scams and computer fraud,44.801123,10.328508
+42,Messina,1711,"271,03",scams and computer fraud,38.193757,15.554208
+43,Arezzo,912,"265,54",scams and computer fraud,43.462896,11.878168
+44,Rieti,414,"264,45",scams and computer fraud,42.416366,12.885067
+45,Reggio Calabria,1449,"262,88",scams and computer fraud,38.103539,15.639756
+46,Pordenone,819,"262,43",scams and computer fraud,46.101737,12.703903
+47,Livorno,878,"261,14",scams and computer fraud,43.542631,10.31603
+48,Pistoia,761,"260,71",scams and computer fraud,43.973933,10.868352
+49,Viterbo,829,"260,52",scams and computer fraud,42.41666,12.103834
+50,Crotone,455,"259,91",scams and computer fraud,39.080622,17.127196
+51,Macerata,822,"259,87",scams and computer fraud,41.066667,14.266667
+52,Pisa,1092,"259,54",scams and computer fraud,43.715925,10.401898
+53,Lecco,877,"258,41",scams and computer fraud,45.900549,9.412025
+54,Trento,1392,"257,83",scams and computer fraud,46.066423,11.12576
+55,Palermo,3206,"254,41",scams and computer fraud,38.11127,13.353442
+56,Frosinone,1248,"254,37",scams and computer fraud,41.628259,13.576332
+57,Venezia,2160,"253,06",scams and computer fraud,45.437191,12.33459
+58,Firenze,2559,"252,55",scams and computer fraud,43.769871,11.255576
+59,Padova,2342,"250,02",scams and computer fraud,45.407717,11.873446
+60,Alessandria,1060,"249,9",scams and computer fraud,44.835262,8.744949
+61,Teramo,764,"247,82",scams and computer fraud,42.658118,13.699625
+62,Siracusa,987,"246,21",scams and computer fraud,37.071438,15.283007
+63,Ancona,1134,"239,95",scams and computer fraud,43.617014,13.517098
+64,Latina,1377,"239,24",scams and computer fraud,41.467259,12.903574
+65,Vercelli,407,"236,21",scams and computer fraud,45.555383,8.346284
+66,Varese,2089,"234,58",scams and computer fraud,45.839713,8.754158
+67,Cagliari,1844,"234,11",scams and computer fraud,39.216953,9.112851
+68,Lecce,1867,"233,7",scams and computer fraud,40.357037,18.171848
+69,Chieti,903,"233,26",scams and computer fraud,42.102718,14.415935
+70,Piacenza,658,"229,44",scams and computer fraud,45.053475,9.694746
+71,La Spezia,688,"229,02",scams and computer fraud,44.107033,9.828226
+72,Potenza,835,"226,75",scams and computer fraud,40.638405,15.802208
+73,Vicenza,1956,"226,6",scams and computer fraud,45.548755,11.549747
+74,Enna,376,"226,15",scams and computer fraud,37.565962,14.282404
+75,Sassari,1110,"225,32",scams and computer fraud,40.723264,8.561007
+76,Foggia,1407,"225,01",scams and computer fraud,41.462373,15.543051
+77,Ferrara,780,"224,8",scams and computer fraud,44.836797,11.619811
+78,Modena,1565,"222,97",scams and computer fraud,44.645889,10.925571
+79,Reggio Emilia,1181,"221,75",scams and computer fraud,44.697845,10.630496
+80,Rovigo,523,"221,24",scams and computer fraud,44.977199,12.27721
+81,Forlì Cesena,868,"220,2",scams and computer fraud,44.03625,12.038441
+82,Caltanissetta,586,"219,95",scams and computer fraud,37.489829,14.063292
+83,Benevento,609,"218,18",scams and computer fraud,41.129559,14.782464
+84,Verona,2004,"217,16",scams and computer fraud,45.438496,10.992412
+85,Prato,555,"216,74",scams and computer fraud,44.265834,11.558058
+86,Brindisi,844,"213,68",scams and computer fraud,40.641067,17.948711
+87,Matera,411,"206,67",scams and computer fraud,40.668523,16.601585
+88,Cosenza,1463,"206,43",scams and computer fraud,39.597269,16.334274
+89,Bari,2573,"204,61",scams and computer fraud,41.125784,16.862029
+90,Bolzano,1075,"203,69",scams and computer fraud,46.498113,11.35478
+91,Lodi,467,"203,25",scams and computer fraud,38.17943,15.54907
+92,Pesaro Urbino,727,"201,87",scams and computer fraud,43.90901,12.89598
+93,Trapani,851,"196,81",scams and computer fraud,38.016054,12.543748
+94,Pavia,1070,"196,04",scams and computer fraud,45.186004,9.154638
+95,Taranto,1134,"195,41",scams and computer fraud,40.471243,17.243228
+96,Catania,2160,"194,61",scams and computer fraud,37.502608,15.087111
+97,Massa Carrara,376,"191,98",scams and computer fraud,44.221258,10.046272
+98,Agrigento,835,"190,52",scams and computer fraud,37.312299,13.57465
+99,Ragusa,610,"189,81",scams and computer fraud,36.922009,14.721335
+100,Cuneo,1084,"184,18",scams and computer fraud,44.389562,7.54787
+101,Como,1100,"183,55",scams and computer fraud,45.810681,9.086303
+102,Treviso,1522,"171,51",scams and computer fraud,45.665851,12.245541
+103,Oristano,236,"148,22",scams and computer fraud,39.90595,8.591611
+104,Fermo,168,"96,36",scams and computer fraud,43.092249,13.638768
+105,Barletta-Andria-Trani,355,"90,74",scams and computer fraud,41.170896,16.139466
+106,Monza Brianza,749,"85,92",scams and computer fraud,45.59802,9.2703
+1,Genova,969,"114,68",drugs,44.40726,8.933862
+2,Roma,4603,"105,68",drugs,41.893344,12.483072
+3,Ravenna,402,"102,72",drugs,44.416141,12.201762
+4,Pisa,393,"93,4",drugs,43.715925,10.401898
+5,Arezzo,317,"92,3",drugs,43.462896,11.878168
+6,Padova,854,"91,17",drugs,45.407717,11.873446
+7,Firenze,921,"90,89",drugs,43.769871,11.255576
+8,Isernia,77,"90,34",drugs,41.649468,14.208148
+9,Grosseto,199,"89,57",drugs,42.76844,11.11376
+10,Prato,229,"89,43",drugs,44.265834,11.558058
+11,Rimini,295,"87,45",drugs,44.059145,12.563105
+12,L’Aquila,191,"86,85",drugs,42.137961,13.612241
+13,Viterbo,276,"86,74",drugs,42.41666,12.103834
+14,Macerata,274,"86,62",drugs,41.066667,14.266667
+15,Brindisi,329,"83,3",drugs,40.641067,17.948711
+16,Milano,2689,"83,13",drugs,45.466797,9.190498
+17,Pescara,265,"82,97",drugs,42.464378,14.213943
+18,Bologna,838,"82,86",drugs,44.493671,11.343035
+19,Savona,230,"82,79",drugs,44.308025,8.481032
+20,Biella,143,"80,76",drugs,45.566456,8.054277
+21,Imperia,169,"78,86",drugs,43.958375,7.866743
+22,Venezia,672,"78,73",drugs,45.437191,12.33459
+23,Catanzaro,283,"78,43",drugs,38.907635,16.596047
+24,Messina,490,"77,62",drugs,38.193757,15.554208
+25,Ragusa,249,"77,48",drugs,36.922009,14.721335
+26,Ancona,364,"77,02",drugs,43.617014,13.517098
+27,Livorno,255,"75,84",drugs,43.542631,10.31603
+28,Brescia,948,"75,09",drugs,45.539835,10.219534
+29,Trieste,173,"73,73",drugs,45.650034,13.770656
+30,Barletta-Andria-Trani,286,"73,1",drugs,41.170896,16.139466
+31,Terni,164,"72,29",drugs,42.564142,12.640547
+32,Siracusa,288,"71,84",drugs,37.071438,15.283007
+33,Piacenza,206,"71,83",drugs,45.053475,9.694746
+34,Pesaro Urbino,256,"71,09",drugs,43.90901,12.89598
+35,Potenza,260,"70,6",drugs,40.638405,15.802208
+36,Catania,782,"70,46",drugs,37.502608,15.087111
+37,Foggia,431,"68,93",drugs,41.462373,15.543051
+38,Torino,1560,"68,75",drugs,45.07092,7.685972
+39,Palermo,855,"67,85",drugs,38.11127,13.353442
+40,Cagliari,529,"67,16",drugs,39.216953,9.112851
+41,Trento,361,"66,86",drugs,46.066423,11.12576
+42,Napoli,2070,"66,75",drugs,40.844116,14.2423
+43,Bolzano,352,"66,7",drugs,46.498113,11.35478
+44,Verbano Cusio Ossola,103,"64,72",drugs,46.115576,8.383597
+45,Varese,575,"64,57",drugs,45.839713,8.754158
+46,Rieti,101,"64,51",drugs,42.416366,12.885067
+47,La Spezia,187,"62,25",drugs,44.107033,9.828226
+48,Ferrara,213,"61,39",drugs,44.836797,11.619811
+49,Bari,767,"60,99",drugs,41.125784,16.862029
+50,Sassari,300,"60,9",drugs,40.723264,8.561007
+51,Pistoia,176,"60,3",drugs,43.973933,10.868352
+52,Salerno,660,"59,9",drugs,40.677978,14.765755
+53,Vercelli,103,"59,78",drugs,45.555383,8.346284
+54,Nuoro,124,"58,9",drugs,40.32106,9.329734
+55,Gorizia,82,"58,81",drugs,45.862488,13.497925
+56,Lecce,468,"58,58",drugs,40.357037,18.171848
+57,Sondrio,106,"58,43",drugs,46.323362,10.258414
+58,Enna,97,"58,34",drugs,37.565962,14.282404
+59,Massa Carrara,111,"56,68",drugs,44.221258,10.046272
+60,Crotone,99,"56,55",drugs,39.080622,17.127196
+61,Oristano,89,"55,9",drugs,39.90595,8.591611
+62,Perugia,363,"55,19",drugs,43.111961,12.38901
+63,Latina,316,"54,9",drugs,41.467259,12.903574
+64,Vibo Valentia,86,"53,45",drugs,38.679275,16.088142
+65,Forlì Cesena,209,"53,02",drugs,44.03625,12.038441
+66,Caltanissetta,141,"52,92",drugs,37.489829,14.063292
+67,Ascoli Piceno,109,"52,31",drugs,42.88342,13.539593
+68,Fermo,91,"52,2",drugs,43.092249,13.638768
+69,Parma,234,"51,97",drugs,44.801123,10.328508
+70,Frosinone,251,"51,16",drugs,41.628259,13.576332
+71,Teramo,157,"50,93",drugs,42.658118,13.699625
+72,Trapani,217,"50,19",drugs,38.016054,12.543748
+73,Cosenza,346,"48,82",drugs,39.597269,16.334274
+74,Alessandria,207,"48,8",drugs,44.835262,8.744949
+75,Reggio Calabria,268,"48,62",drugs,38.103539,15.639756
+76,Verona,443,48,drugs,45.438496,10.992412
+77,Campobasso,106,"47,48",drugs,41.559794,14.660273
+78,Benevento,131,"46,93",drugs,41.129559,14.782464
+79,Bergamo,514,"46,26",drugs,45.694512,9.669839
+80,Taranto,264,"45,49",drugs,40.471243,17.243228
+81,Modena,318,"45,31",drugs,44.645889,10.925571
+82,Cuneo,258,"43,84",drugs,44.389562,7.54787
+83,Lucca,168,"43,15",drugs,43.84283,10.50287
+84,Caserta,397,"42,99",drugs,41.083215,14.334929
+85,Agrigento,182,"41,53",drugs,37.312299,13.57465
+86,Siena,107,"39,92",drugs,43.318554,11.331653
+87,Udine,210,"39,67",drugs,46.064698,13.235749
+88,Aosta,50,"39,62",drugs,45.737089,7.319665
+89,Como,230,"38,38",drugs,45.810681,9.086303
+90,Pordenone,118,"37,81",drugs,46.101737,12.703903
+91,Novara,136,"36,8",drugs,45.446404,8.619655
+92,Matera,73,"36,71",drugs,40.668523,16.601585
+93,Cremona,131,"36,54",drugs,38.17832,15.54803
+94,Chieti,134,"34,61",drugs,42.102718,14.415935
+95,Reggio Emilia,184,"34,55",drugs,44.697845,10.630496
+96,Lodi,77,"33,51",drugs,38.17943,15.54907
+97,Avellino,140,"33,21",drugs,40.996545,15.140569
+98,Pavia,181,"33,16",drugs,45.186004,9.154638
+99,Monza Brianza,276,"31,66",drugs,45.59802,9.2703
+100,Asti,61,"28,26",drugs,44.900576,8.206883
+101,Rovigo,66,"27,92",drugs,44.977199,12.27721
+102,Vicenza,228,"26,41",drugs,45.548755,11.549747
+103,Mantova,104,"25,26",drugs,45.156668,10.791719
+104,Treviso,223,"25,13",drugs,45.665851,12.245541
+105,Belluno,49,"23,91",drugs,46.137519,12.218171
+106,Lecco,81,"23,87",drugs,45.900549,9.412025
+1,Cosenza,793,"111,89",arson,39.597269,16.334274
+2,Catanzaro,382,"105,87",arson,38.907635,16.596047
+3,Avellino,419,"99,4",arson,40.996545,15.140569
+4,Matera,191,"96,04",arson,40.668523,16.601585
+5,Crotone,167,"95,4",arson,39.080622,17.127196
+6,Isernia,64,"75,08",arson,41.649468,14.208148
+7,Rieti,107,"68,35",arson,42.416366,12.885067
+8,Potenza,243,"65,99",arson,40.638405,15.802208
+9,Foggia,326,"52,13",arson,41.462373,15.543051
+10,Salerno,566,"51,37",arson,40.677978,14.765755
+11,Benevento,135,"48,37",arson,41.129559,14.782464
+12,Latina,246,"42,74",arson,41.467259,12.903574
+13,Savona,112,"40,32",arson,44.308025,8.481032
+14,Imperia,86,"40,13",arson,43.958375,7.866743
+15,Massa Carrara,76,"38,81",arson,44.221258,10.046272
+16,Grosseto,86,"38,71",arson,42.76844,11.11376
+17,Enna,63,"37,89",arson,37.565962,14.282404
+18,L’Aquila,71,"32,29",arson,42.137961,13.612241
+19,Viterbo,97,"30,48",arson,42.41666,12.103834
+20,La Spezia,90,"29,96",arson,44.107033,9.828226
+21,Taranto,173,"29,81",arson,40.471243,17.243228
+22,Lucca,113,"29,03",arson,43.84283,10.50287
+23,Vibo Valentia,46,"28,59",arson,38.679275,16.088142
+24,Lecce,225,"28,16",arson,40.357037,18.171848
+25,Campobasso,60,"26,87",arson,41.559794,14.660273
+26,Frosinone,130,"26,5",arson,41.628259,13.576332
+27,Arezzo,89,"25,91",arson,43.462896,11.878168
+28,Barletta-Andria-Trani,100,"25,56",arson,41.170896,16.139466
+29,Bari,317,"25,21",arson,41.125784,16.862029
+30,Pisa,104,"24,72",arson,43.715925,10.401898
+31,Chieti,88,"22,73",arson,42.102718,14.415935
+32,Terni,51,"22,48",arson,42.564142,12.640547
+33,Caltanissetta,56,"21,02",arson,37.489829,14.063292
+34,Siena,56,"20,89",arson,43.318554,11.331653
+35,Perugia,131,"19,92",arson,43.111961,12.38901
+36,Trapani,86,"19,89",arson,38.016054,12.543748
+37,Reggio Calabria,109,"19,77",arson,38.103539,15.639756
+38,Biella,33,"18,64",arson,45.566456,8.054277
+39,Genova,155,"18,34",arson,44.40726,8.933862
+40,Piacenza,51,"17,78",arson,45.053475,9.694746
+41,Brindisi,67,"16,96",arson,40.641067,17.948711
+42,Caserta,155,"16,78",arson,41.083215,14.334929
+43,Firenze,160,"15,79",arson,43.769871,11.255576
+44,Agrigento,63,"14,37",arson,37.312299,13.57465
+45,Siracusa,57,"14,22",arson,37.071438,15.283007
+46,Fermo,24,"13,77",arson,43.092249,13.638768
+47,Teramo,42,"13,62",arson,42.658118,13.699625
+48,Verbano Cusio Ossola,21,"13,19",arson,46.115576,8.383597
+49,Cuneo,77,"13,08",arson,44.389562,7.54787
+50,Alessandria,53,"12,49",arson,44.835262,8.744949
+51,Messina,76,"12,04",arson,38.193757,15.554208
+52,Pistoia,35,"11,99",arson,43.973933,10.868352
+53,Macerata,37,"11,7",arson,41.066667,14.266667
+54,Como,69,"11,51",arson,45.810681,9.086303
+55,Nuoro,24,"11,4",arson,40.32106,9.329734
+56,Sondrio,20,"11,03",arson,46.323362,10.258414
+57,Napoli,328,"10,58",arson,40.844116,14.2423
+58,Pescara,33,"10,33",arson,42.464378,14.213943
+59,Livorno,34,"10,11",arson,43.542631,10.31603
+60,Pavia,55,"10,08",arson,45.186004,9.154638
+61,Asti,21,"9,73",arson,44.900576,8.206883
+62,Forlì Cesena,38,"9,64",arson,44.03625,12.038441
+63,Roma,412,"9,46",arson,41.893344,12.483072
+64,Modena,66,"9,4",arson,44.645889,10.925571
+65,Torino,212,"9,34",arson,45.07092,7.685972
+66,Brescia,117,"9,27",arson,45.539835,10.219534
+67,Ascoli Piceno,19,"9,12",arson,42.88342,13.539593
+68,Cagliari,70,"8,89",arson,39.216953,9.112851
+69,Verona,82,"8,89",arson,45.438496,10.992412
+70,Sassari,43,"8,73",arson,40.723264,8.561007
+71,Palermo,105,"8,33",arson,38.11127,13.353442
+72,Rimini,28,"8,3",arson,44.059145,12.563105
+73,Belluno,17,"8,3",arson,46.137519,12.218171
+74,Prato,21,"8,2",arson,44.265834,11.558058
+75,Catania,91,"8,2",arson,37.502608,15.087111
+76,Trieste,19,"8,1",arson,45.650034,13.770656
+77,Parma,36,8,arson,44.801123,10.328508
+78,Milano,251,"7,76",arson,45.466797,9.190498
+79,Vercelli,13,"7,54",arson,45.555383,8.346284
+80,Bologna,74,"7,32",arson,44.493671,11.343035
+81,Novara,27,"7,31",arson,45.446404,8.619655
+82,Ferrara,25,"7,21",arson,44.836797,11.619811
+83,Bergamo,78,"7,02",arson,45.694512,9.669839
+84,Trento,37,"6,85",arson,46.066423,11.12576
+85,Rovigo,16,"6,77",arson,44.977199,12.27721
+86,Lecco,22,"6,48",arson,45.900549,9.412025
+87,Ravenna,23,"5,88",arson,44.416141,12.201762
+88,Monza Brianza,51,"5,85",arson,45.59802,9.2703
+89,Gorizia,8,"5,74",arson,45.862488,13.497925
+90,Reggio Emilia,30,"5,63",arson,44.697845,10.630496
+91,Varese,49,"5,5",arson,45.839713,8.754158
+92,Pordenone,17,"5,45",arson,46.101737,12.703903
+93,Bolzano,28,"5,31",arson,46.498113,11.35478
+94,Vicenza,44,"5,1",arson,45.548755,11.549747
+95,Pesaro Urbino,18,5,arson,43.90901,12.89598
+96,Ancona,23,"4,87",arson,43.617014,13.517098
+97,Mantova,20,"4,86",arson,45.156668,10.791719
+98,Ragusa,15,"4,67",arson,36.922009,14.721335
+99,Padova,33,"3,52",arson,45.407717,11.873446
+100,Oristano,5,"3,14",arson,39.90595,8.591611
+101,Udine,15,"2,83",arson,46.064698,13.235749
+102,Cremona,10,"2,79",arson,38.17832,15.54803
+103,Treviso,24,"2,7",arson,45.665851,12.245541
+104,Venezia,23,"2,69",arson,45.437191,12.33459
+105,Lodi,6,"2,61",arson,38.17943,15.54907
+106,Aosta,2,"1,58",arson,45.737089,7.319665
+1,Trieste,55,"23,44",rape,45.650034,13.770656
+2,Bolzano,79,"14,97",rape,46.498113,11.35478
+3,Milano,472,"14,59",rape,45.466797,9.190498
+4,Rimini,46,"13,64",rape,44.059145,12.563105
+5,Gorizia,19,"13,63",rape,45.862488,13.497925
+6,Parma,53,"11,77",rape,44.801123,10.328508
+7,Imperia,25,"11,67",rape,43.958375,7.866743
+8,Ravenna,44,"11,24",rape,44.416141,12.201762
+9,Bologna,111,"10,98",rape,44.493671,11.343035
+10,L’Aquila,24,"10,91",rape,42.137961,13.612241
+11,Firenze,110,"10,86",rape,43.769871,11.255576
+12,Savona,30,"10,8",rape,44.308025,8.481032
+13,Isernia,9,"10,56",rape,41.649468,14.208148
+14,Perugia,66,"10,03",rape,43.111961,12.38901
+15,Pescara,32,"10,02",rape,42.464378,14.213943
+16,Alessandria,41,"9,67",rape,44.835262,8.744949
+17,Enna,16,"9,62",rape,37.565962,14.282404
+18,Roma,413,"9,48",rape,41.893344,12.483072
+19,Genova,80,"9,47",rape,44.40726,8.933862
+20,Trento,51,"9,45",rape,46.066423,11.12576
+21,Campobasso,21,"9,41",rape,41.559794,14.660273
+22,Pistoia,27,"9,25",rape,43.973933,10.868352
+23,Messina,58,"9,19",rape,38.193757,15.554208
+24,Varese,81,"9,1",rape,45.839713,8.754158
+25,Mantova,37,"8,99",rape,45.156668,10.791719
+26,Sondrio,16,"8,82",rape,46.323362,10.258414
+27,Torino,198,"8,73",rape,45.07092,7.685972
+28,Ragusa,28,"8,71",rape,36.922009,14.721335
+29,Venezia,74,"8,67",rape,45.437191,12.33459
+30,Cagliari,67,"8,51",rape,39.216953,9.112851
+31,Belluno,17,"8,3",rape,46.137519,12.218171
+32,Lucca,32,"8,22",rape,43.84283,10.50287
+33,Forlì Cesena,32,"8,12",rape,44.03625,12.038441
+34,Pisa,33,"7,84",rape,43.715925,10.401898
+35,Lodi,18,"7,83",rape,38.17943,15.54907
+36,Vercelli,13,"7,54",rape,45.555383,8.346284
+37,Como,45,"7,51",rape,45.810681,9.086303
+38,Lecco,25,"7,37",rape,45.900549,9.412025
+39,Frosinone,36,"7,34",rape,41.628259,13.576332
+40,Pesaro Urbino,26,"7,22",rape,43.90901,12.89598
+41,Ferrara,25,"7,21",rape,44.836797,11.619811
+42,Grosseto,16,"7,2",rape,42.76844,11.11376
+43,Udine,38,"7,18",rape,46.064698,13.235749
+44,Lecce,57,"7,13",rape,40.357037,18.171848
+45,Aosta,9,"7,13",rape,45.737089,7.319665
+46,Rieti,11,"7,03",rape,42.416366,12.885067
+47,Viterbo,22,"6,91",rape,42.41666,12.103834
+48,Crotone,12,"6,85",rape,39.080622,17.127196
+49,Catania,76,"6,85",rape,37.502608,15.087111
+50,Biella,12,"6,78",rape,45.566456,8.054277
+51,Monza Brianza,59,"6,77",rape,45.59802,9.2703
+52,Reggio Calabria,37,"6,71",rape,38.103539,15.639756
+53,Cremona,24,"6,69",rape,38.17832,15.54803
+54,Palermo,84,"6,67",rape,38.11127,13.353442
+55,Macerata,21,"6,64",rape,41.066667,14.266667
+56,Reggio Emilia,35,"6,57",rape,44.697845,10.630496
+57,Siracusa,26,"6,49",rape,37.071438,15.283007
+58,Bergamo,72,"6,48",rape,45.694512,9.669839
+59,Pavia,35,"6,41",rape,45.186004,9.154638
+60,Pordenone,20,"6,41",rape,46.101737,12.703903
+61,Arezzo,22,"6,41",rape,43.462896,11.878168
+62,Avellino,27,"6,41",rape,40.996545,15.140569
+63,Catanzaro,23,"6,37",rape,38.907635,16.596047
+64,Rovigo,15,"6,35",rape,44.977199,12.27721
+65,Verona,58,"6,29",rape,45.438496,10.992412
+66,Bari,79,"6,28",rape,41.125784,16.862029
+67,Terni,14,"6,17",rape,42.564142,12.640547
+68,Massa Carrara,12,"6,13",rape,44.221258,10.046272
+69,Siena,16,"5,97",rape,43.318554,11.331653
+70,Novara,22,"5,95",rape,45.446404,8.619655
+71,Prato,15,"5,86",rape,44.265834,11.558058
+72,Trapani,25,"5,78",rape,38.016054,12.543748
+73,Fermo,10,"5,74",rape,43.092249,13.638768
+74,Ancona,27,"5,71",rape,43.617014,13.517098
+75,Agrigento,25,"5,7",rape,37.312299,13.57465
+76,Potenza,21,"5,7",rape,40.638405,15.802208
+77,Padova,53,"5,66",rape,45.407717,11.873446
+78,Latina,32,"5,56",rape,41.467259,12.903574
+79,Asti,12,"5,56",rape,44.900576,8.206883
+80,Brescia,68,"5,39",rape,45.539835,10.219534
+81,Cosenza,38,"5,36",rape,39.597269,16.334274
+82,Brindisi,21,"5,32",rape,40.641067,17.948711
+83,Napoli,162,"5,22",rape,40.844116,14.2423
+84,Treviso,46,"5,18",rape,45.665851,12.245541
+85,Modena,36,"5,13",rape,44.645889,10.925571
+86,Salerno,56,"5,08",rape,40.677978,14.765755
+87,Oristano,8,"5,02",rape,39.90595,8.591611
+88,La Spezia,15,"4,99",rape,44.107033,9.828226
+89,Vibo Valentia,8,"4,97",rape,38.679275,16.088142
+90,Sassari,24,"4,87",rape,40.723264,8.561007
+91,Vicenza,42,"4,87",rape,45.548755,11.549747
+92,Barletta-Andria-Trani,19,"4,86",rape,41.170896,16.139466
+93,Livorno,16,"4,76",rape,43.542631,10.31603
+94,Benevento,13,"4,66",rape,41.129559,14.782464
+95,Caserta,43,"4,66",rape,41.083215,14.334929
+96,Piacenza,13,"4,53",rape,45.053475,9.694746
+97,Caltanissetta,12,"4,5",rape,37.489829,14.063292
+98,Chieti,17,"4,39",rape,42.102718,14.415935
+99,Foggia,27,"4,32",rape,41.462373,15.543051
+100,Taranto,24,"4,14",rape,40.471243,17.243228
+101,Cuneo,23,"3,91",rape,44.389562,7.54787
+102,Nuoro,8,"3,8",rape,40.32106,9.329734
+103,Verbano Cusio Ossola,6,"3,77",rape,46.115576,8.383597
+104,Teramo,11,"3,57",rape,42.658118,13.699625
+105,Ascoli Piceno,7,"3,36",rape,42.88342,13.539593
+106,Matera,6,"3,02",rape,40.668523,16.601585

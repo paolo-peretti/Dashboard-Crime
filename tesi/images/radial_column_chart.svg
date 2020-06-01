@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="350px"
+	 height="317px" viewBox="0 0 350 317" enable-background="new 0 0 350 317" xml:space="preserve">
+<g id="Layer_2">
+	<g>
+		<g>
+			<path fill="none" stroke="#CCCCCC" d="M232.906,78.663c55.665,31.758,75.013,102.501,43.255,158.166
+				c-31.758,55.666-102.502,75.013-158.167,43.253c-55.666-31.757-75.012-102.5-43.254-158.166
+				C106.498,66.25,177.24,46.905,232.906,78.663z"/>
+			<path fill="none" stroke="#CCCCCC" d="M99.917,136.28c-23.791,41.7-9.309,94.807,32.44,118.626
+				c41.749,23.817,94.834,9.259,118.626-32.441c23.788-41.7,9.309-94.805-32.441-118.624S123.708,94.58,99.917,136.28z"/>
+			<path fill="none" stroke="#CCCCCC" d="M204.177,129.018c27.834,15.879,37.507,51.251,21.627,79.084
+				c-15.878,27.833-51.249,37.505-79.082,21.626s-37.506-51.25-21.627-79.083C140.974,122.812,176.345,113.139,204.177,129.018z"/>
+			<path fill="none" stroke="#CCCCCC" d="M150.272,165.009c-7.968,13.966-3.103,31.602,10.813,39.542
+				c13.917,7.938,31.573,3.151,39.54-10.814c7.968-13.965,3.104-31.602-10.812-39.541
+				C175.897,146.255,158.24,151.043,150.272,165.009z"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#CCCCCC" x1="175.45" y1="179.373" x2="232.906" y2="78.663"/>
+			<line fill="none" stroke="#CCCCCC" x1="175.45" y1="179.373" x2="59.485" y2="179.958"/>
+			<line fill="none" stroke="#CCCCCC" x1="175.45" y1="179.373" x2="233.957" y2="279.497"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 233.959 73.499)" fill="#666666" font-family="'MyriadPro-Semibold'" font-size="15.7216">X</text>
+	<text transform="matrix(1 0 0 1 235.9229 295.3604)" fill="#666666" font-family="'MyriadPro-Semibold'" font-size="15.7216">Y</text>
+	<text transform="matrix(1 0 0 1 44.8706 185.5156)" fill="#666666" font-family="'MyriadPro-Semibold'" font-size="15.7216">Z</text>
+</g>
+<g id="Layer_1">
+	<rect x="201.594" y="156.529" fill="#FFFFFF" width="97.031" height="16.215"/>
+	<text transform="matrix(1 0 0 1 200.4482 169.1387)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="13.7564">1</text>
+	<text transform="matrix(1 0 0 1 229.9268 169.1387)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="13.7564">2</text>
+	<text transform="matrix(1 0 0 1 259.0781 169.1387)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="13.7564">3</text>
+	<text transform="matrix(1 0 0 1 287.2451 169.1387)" fill="#666666" font-family="'MyriadPro-Regular'" font-size="13.7564">4</text>
+	<line fill="none" stroke="#4D4D4D" x1="175.45" y1="179.373" x2="291.911" y2="179.373"/>
+	<line fill="none" stroke="#4D4D4D" x1="204.177" y1="179.373" x2="204.177" y2="172.744"/>
+	<line fill="none" stroke="#4D4D4D" x1="233.443" y1="179.373" x2="233.443" y2="172.744"/>
+	<line fill="none" stroke="#4D4D4D" x1="262.43" y1="179.373" x2="262.43" y2="172.744"/>
+	<line fill="none" stroke="#4D4D4D" x1="291.438" y1="179.373" x2="291.438" y2="172.744"/>
+</g>
+<g id="Layer_3">
+	<line fill="none" stroke="#3F85B8" stroke-width="15" x1="175.45" y1="179.373" x2="221.3" y2="99.008"/>
+	<line fill="none" stroke="#3F85B8" stroke-width="15" x1="175.45" y1="179.373" x2="206.612" y2="232.702"/>
+	<line fill="none" stroke="#3F85B8" stroke-width="15" x1="175.45" y1="179.373" x2="74.347" y2="179.373"/>
+</g>
+<g id="Layer_4">
+	<text transform="matrix(1 0 0 1 279.5508 29)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="16">Category</tspan><tspan x="0" y="17" font-family="'MyriadPro-Regular'" font-size="16">label</tspan></text>
+	<text transform="matrix(1 0 0 1 299.9785 227.7031)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="16">Value</tspan><tspan x="2.12" y="17" font-family="'MyriadPro-Regular'" font-size="16">scale</tspan></text>
+	<text transform="matrix(1 0 0 1 15.0059 28)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="16">Circular axis </tspan><tspan x="0" y="19.2" font-family="'MyriadPro-Regular'" font-size="16">&amp; grid lines</tspan></text>
+	<text transform="matrix(1 0 0 1 15.0059 263.3535)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="16">Radial</tspan><tspan x="0" y="17" font-family="'MyriadPro-Regular'" font-size="16">Divider</tspan></text>
+	<text transform="matrix(1 0 0 1 15.0059 227.7031)" font-family="'MyriadPro-Regular'" font-size="16">Bar</text>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="1.5" points="97.5,34.27 163.5,34.27 163.5,63.725 			"/>
+			<g>
+				<circle cx="163.5" cy="63.5" r="4.512"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="1.5" x1="136.82" y1="35.27" x2="136.82" y2="101.722"/>
+			<g>
+				<circle cx="136.82" cy="101.496" r="4.512"/>
+			</g>
+		</g>
+	</g>
+	<polyline fill="none" stroke="#000000" stroke-width="1.5" points="274.5,32 239.5,32 239.5,55.472 	"/>
+	<polygon points="232.31,50.294 233.598,49.095 239.498,55.445 245.4,49.095 246.688,50.294 239.498,58.026 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="1.5" points="295.911,232.367 247.5,232.367 247.5,182.685 	"/>
+	<polygon points="254.674,188.854 253.389,190.051 247.502,183.716 241.613,190.051 240.328,188.854 247.502,181.141 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="1.5" points="41.871,224 126.898,224 126.898,190.669 	"/>
+	<g>
+		<polygon points="134.072,196.006 132.787,197.202 126.9,190.867 121.012,197.202 119.727,196.006 126.9,188.292 		"/>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="1.5" x1="65" y1="266.5" x2="226.641" y2="266.5"/>
+			<g>
+				<circle cx="226.415" cy="266.5" r="4.512"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

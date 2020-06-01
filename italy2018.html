@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Crimes Info</title>
+    
+    <script type="text/javascript" src="./d3.js"></script>
+    <script src="./source/js/d3-scale-radial.js"></script>
+<!--     <script src="https://unpkg.com/topojson-client@3"></script>-->
+<!--    <script type="text/javascript" src="http://code.jquery.com/jquery-3.4.1.min.js"></script>-->
+    <script src="d3-tip.js"></script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <!--     Fonts and icons     -->
+    
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./source/css/style.css">
+  <!-- Material Kit CSS -->
+  <link href="assets/css/material-dashboard.css?v=2.1.2" rel="stylesheet" />
+    
+   
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		
+    
+ <script type='text/javascript' src='./source/js/jquery.js'></script>
+<script type='text/javascript' src='./source/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='./source/js/osx.js'></script>
+    
+<script type='text/javascript' src='./source/js/dashboardItaly.js'></script>
+    
+  <script src="./source/jquery-labelauty.js"></script>
+		<link rel="stylesheet" type="text/css" href="./source/jquery-labelauty.css">
+        <link rel="stylesheet" type="text/css" href="./source/css/buttons.css">
+    <link rel="stylesheet" type="text/css" href="./source/css/bminold.css">
+<!-- OSX Style CSS files -->
+<link type='text/css' href='./source/css/osx.css' rel='stylesheet' media='screen' />
+
+</head>
+
+<body>
+  <div class="wrapper ">
+    <div class="sidebar" data-color="purple" data-background-color="white">
+      <!--
+      Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
+
+      Tip 2: you can also add an image using data-image tag
+  -->
+      <div class="logo">
+        <a href="#" class="simple-text logo-mini">
+          
+        </a>
+        <a href="#" class="simple-text logo-normal">
+          Crimes
+        </a>
+      </div>
+      <div class="sidebar-wrapper">
+        <ul class="nav">
+          <li class="nav-item active  ">
+            <a class="nav-link" href="./index.html" >
+              <i class="material-icons">dashboard</i>
+              <p>Dashboard Country</p>
+            </a>
+          </li>
+            <div id="DashboardCC" style="border-style: groove;margin:7%;padding: 2%;    font-size: 1vw;">
+                Data visualization of different crime indicies of many countries and cities of the world based on data from this site : <a href="https://www.numbeo.com/crime/" style="color: blue;">World's crimes</a> .
+
+            </div>
+             <li class="nav-item active  ">
+            <a class="nav-link" href="./timeline.html" >
+              <i class="material-icons">dashboard</i>
+              <p>Dashboard Europe</p>
+            </a>
+          </li>
+            <div id="DashboardET" style="border-style: groove;margin:7%;padding: 2%;    font-size: 1vw;">
+                Data visualization of crime index represented through a timeline of many European cities based on data from this site : <a href="https://www.numbeo.com/crime/region_rankings.jsp?title=2020&displayColumn=0&region=150" style="color: blue;">European crimes</a> .
+
+            </div>
+             <li class="nav-item active  ">
+            <a class="nav-link" href="./italy2018.html">
+              <i class="material-icons">dashboard</i>
+              <p>Dashboard Italy</p>
+            </a>
+          </li>
+            <div id="Dashboardita" style="border-style: groove;margin:7%;padding: 2%;    font-size: 1vw;">
+                Data visualization of different crime indicies of many Italian cities based on data from this site : <a href="https://lab24.ilsole24ore.com/reati2018/IStabelle.html" style="color: blue;">Italian crimes</a> .
+
+            </div>
+          <!-- your sidebar here -->
+        </ul>
+      </div>
+  
+    </div>
+      
+      <div class="sidebar" data-color="purple" data-background-color="white" id="filter" style="right: 0;">
+      <!--
+      Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
+
+      Tip 2: you can also add an image using data-image tag
+  -->
+      <div class="logo">
+       
+        <a href="#" class="simple-text logo-normal">
+          Filter
+        </a>
+      </div>
+      <div class="sidebar-wrapper">
+       
+
+          
+          
+               <div id="choice" style="
+                  border: 1px solid #898989;padding: 3%;
+    /* padding-bottom: 0px; */
+    margin-top: 10%;">
+                        <br>
+                            <p id="par2">Would you compare 2 cities?</p>
+                   
+                            <input checked type="checkbox" id="checkbox" aria-label="Should this doublechek countries or cities?" data-labelauty="Compare 2 cities|Only one" id="checkTwo" />
+                   <br>
+                            <p style="font-size: 1vw;"> Search a city name </p>
+                   
+                            <ul id="list_of_items" class="hidden">
+                                <li ><a id="first" title="click to delete"></a></li>
+                                <li ><a id="second" title="click to delete"></a></li>
+                            </ul>
+                            
+                   
+                            <ul id="tmpfs" class="hidden">
+                                <li ><a id="tmpf"></a></li>
+                                <li ><a id="tmps"></a></li>
+                            </ul>
+                            <div id="errorSelCC" class="hidden">
+                                 invalid input
+                            </div>
+                            <input type="search" id="cc"  name="ccsearch" onkeyup="searchFunction()">
+                         
+                <!--              <input type="search" id="cc" name="ccsearch" >-->
+<!--                             <input type="submit" value="⇨" id="btn-cc" class="btn btn-info btn-xs">-->
+                   <button id="btn-cc" class="btn btn-info btn-xs" >⇨
+<!--                       <img href="./source/images/search.png" width="30px" height="30px">-->
+                   </button>
+                   
+                    
+                             <ul id="tips" class="hidden">
+                                
+                             </ul>
+                   
+                            
+
+                <!--            <button >search</button>    -->
+                       
+                </div>
+              
+                
+         
+          <!-- your sidebar here -->
+      
+      </div>
+  
+    </div>
+    <div class="main-panel">
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top " >
+        <div class="container-fluid">
+          <div class="navbar-wrapper">
+            <a class="navbar-brand" href="javascript:;" style="font-weight: bold;">Dashboard</a>
+          </div>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="navbar-toggler-icon icon-bar"></span>
+            <span class="navbar-toggler-icon icon-bar"></span>
+            <span class="navbar-toggler-icon icon-bar"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="javascript:;" style="font-weight: bold;">
+                    <script>
+              document.write(new Date().getFullYear())
+            </script>, made by Paolo Peretti
+<!--                  <i class="material-icons">notifications</i> Notifications-->
+                </a>
+              </li>
+              <!-- your navbar here -->
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!-- End Navbar -->
+      <div class="content">
+          
+          
+        <div class="container-fluid" >
+<!--                <div id="clicked" class="hidden" value=""></div>-->
+              
+           
+            
+        	  <div id="info" class="hidden">
+            <p id="cname" ></p>
+                  
+            <div id="type" ></div>
+            <div id="pos" ></div>
+                  <div class="osx" ><img id="posimg" src="./source/images/info.png" style="width: 40%;margin-top:1%;margin-top: 16%;float: left;"></div>
+            
+                  
+                  
+            <div id="denunce" ></div>
+            
+            <div id="denunce100mila" ></div>
+           
+          
+            
+            </div>
+            
+            <div id="info1" class="hidden" style="border-color: #b643c8;">
+            <p id="cname1" ></p>
+                  
+            <div id="type1" ></div>
+            <div id="pos1" ></div>
+            <div class="osx"  ><img id="pos1img" src="./source/images/info.png" style="width: 40%;margin-top: 10%;float: left;" ></div>
+            
+                
+            <div id="denunce1" ></div>
+            
+            <div id="denunce100mila1" ></div>
+           
+            
+            
+            </div>
+            
+            <div id="info2" class="hidden" style="border-color: #8e8e06;">
+             <p id="cname2" ></p>
+                  
+            <div id="type2" ></div>
+            <div id="pos2" ></div>
+              <div class="osx" ><img id="pos2img" src="./source/images/info.png" style="width: 40%;margin-top: 10%;float: left;" ></div>
+            
+                
+                
+            <div id="denunce2" ></div>
+            
+            <div id="denunce100mila2" ></div>
+            
+            
+            </div>
+<!--
+            <div id="doublebar" class="hidden">
+                </div>
+-->
+            <div id="containerItaly" class="hidden">
+                  <h4 style="text-align: center;font-size:1.8vw;">ITALIAN RANKING OF CRIMES IN 2018</h4>
+                <div id="circularbar" ></div>
+                <div id="mapItaly"></div>
+           
+            </div>
+            
+            
+            <div id="resultBars" class="hidden"></div>
+            
+            
+            
+            <div id="barcharts" class="hidden" >
+                 <h4 style="text-align: center;font-size:1.8vw;margin-bottom:3%;"> Number of crimes </h4>
+                
+                    <button id="omicidi1" class="btn btn-danger" >murders</button>
+                    <button id="furto1" class="btn btn-warning">theft</button>
+                    <button id="altri1" class="btn btn-primary">other crimes</button>
+            </div>
+            
+           
+            
+        
+            <div id="doublepie" class="hidden" >
+                               
+               <div>
+                   
+                <div id="pie1">   
+                     <div id="title1pie"></div>
+                </div>
+                
+                
+                <div id="pie2">  
+                    <div id="title2pie"></div>
+                </div>
+                   
+                </div>
+                
+                <div id="legendapie"></div>
+            </div>
+           
+           <div id="podioresult" class="hidden"></div>
+            
+            <div id="podiumContainer"  class="hidden" style="margin-top: 3%;">
+                
+                      <div id="titlepodium" style="margin-top:2%">
+                <h2 id="titlepodiump"  style= "margin-bottom: 4%;  font-size: 1.7vw;
+    text-align: center; "></h2>
+                </div>
+                
+                
+                <div id="optiontext">Click to change the podium : </div>
+                
+                    <select id="typeoptions">
+                        <option value="ranking of crimes 2018">ranking of crimes 2018</option>
+                        <option value="homicides">homicides</option>
+                        <option value="theft">theft</option>
+                        <option value="other crimes">other crimes</option>
+                        
+<!--                        <option value="infanticide">infanticide</option>-->
+                        <option value="attempted murders">attempted murders</option>
+                        <option value="voluntary manslaughter">voluntary manslaughter</option>
+                        
+                        
+                        <option value="theft with tearing">theft with tearing</option>
+                        <option value="pickpocketing">pickpocketing</option>
+                        <option value="theft in homes">theft in homes</option>
+                        <option value="theft in commercial establishments">theft in commercial establishments</option>
+                        <option value="car theft">car theft</option>
+                        <option value="robberies">robberies</option>
+                        
+                        <option value="extortions">extortions</option>
+                        <option value="usury">usury</option>
+                        <option value="criminal associations">criminal associations</option>
+                        <option value="mafia-type associations">mafia-type associations</option>
+                        <option value="money laundering">money laundering</option>
+                        <option value="scams and computer fraud">scams and computer fraud</option>
+                        <option value="drugs">drugs</option>
+                        <option value="arson">arson</option>
+                        <option value="rape">rape</option>
+                    </select>
+                
+                
+         
+              <div id="podium" ></div>
+            </div>
+            
+            <div id="multiplebars" class="hidden">
+                    <h4 style="text-align: center;font-size:1.8vw;margin-bottom:3%;"> Number of crimes per 100 thousand inhabitants </h4>
+                <div id="title1group"></div><div id="title2group"></div>
+                
+                
+                
+                    <button id="omicidi2" class="btn btn-danger" >murders</button>
+                    <button id="furto2" class="btn btn-warning">theft</button>
+                    <button id="altri2" class="btn btn-primary">other crimes</button>
+            </div>
+            
+            
+            
+        <div id="tooltip" class="hidden">
+			
+			<p id="label">
+                
+                <span id="value"></span>
+                </p>
+		</div>
+        
+            
+<!--
+        <div id="osx-modal-content" style="top: 35%;">
+			<div id="osx-modal-title">Info Dialog</div>
+			<div class="close"><a href="#" class="simplemodal-close">x</a></div>
+			<div id="osx-modal-data">
+				<h2>Ranking</h2>
+				<p>The rank of a city is .</p>
+             
+				<p>I fetched these crime indices values from this site : <a href="https://lab24.ilsole24ore.com/reati2018/IStabelle.html" style="color: blue;">https://lab24.ilsole24ore.com/reati2018</a> .</p>
+			
+				<p><button class="simplemodal-close">Close</button> <span>(or press ESC or click the overlay)</span></p>
+			</div>
+		</div>
+-->
+            
+        
+  
+   
+          <!-- your content here -->
+        </div>
+      </div>
+        
+        
+<!--
+      <footer class="footer">
+        <div class="container-fluid">
+          <nav class="floatleft" style="position: absolute; bottom: 5px;margin-left: 20%;float: left;">
+            &copy;
+            <script>
+              document.write(new Date().getFullYear())
+            </script>, made by Paolo Peretti
+          </nav>
+          
+          
+        </div>
+      </footer>
+-->
+        
+        
+    </div>
+  </div>
+</body>
+
+    
+    
+     <script type="text/javascript">
+         
+          $(document).ready(function(){
+				$(":checkbox").labelauty();
+			});
+         
+  
+         
+        $(document).ready(function(){
+				crimesItaly();
+			});
+         
+
+         
+
+       
+
+       
+     </script>
+</html>

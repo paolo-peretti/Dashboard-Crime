@@ -1,0 +1,24 @@
+		    var sum=0;
+                    var tmpstr="cindex,sindex\n";
+                    var n, num;
+                    for (var i=0;i<dataset.length;i++){
+                        for(j=0;j<types.length;j++){
+                            if(types[j].includes("Safety")){
+                                sum += 100-dataset[i][types[j]];
+                            }else{
+                                if(types[j]=="LevelOfCrime"){
+                                    sum += 3*(dataset[i][types[j]]);
+                                }else{
+                                    sum += dataset[i][types[j]];
+                                }
+                            }
+                        }
+                        numc = (sum/17);
+                        nums = 100 - (sum/17);
+                         nc = numc.toFixed(3);
+                         ns = nums.toFixed(3);
+                        tmpstr+= nc+","+ns+"\n";
+                       sum=0;
+
+                    }
+                    console.log(tmpstr);
