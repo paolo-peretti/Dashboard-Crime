@@ -16,7 +16,7 @@ This project is an interactive-dashboard that represents a lot of criminal data 
 
 -Positive Negative Double Bar Chart
 
-![alt text](https://github.com/paolo-peretti/Dashboard-Crime/blob/master/source/images/readme-img/dbchart(1).png)
+![alt text](https://github.com/paolo-peretti/Dashboard-Crime/blob/master/source/images/readme-img/dbchart (1).png)
 
 
 -Bar Chart 
