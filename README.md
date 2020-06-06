@@ -9,7 +9,7 @@ This project is an interactive-dashboard that represents a lot of criminal data 
 ![alt text](https://github.com/paolo-peretti/Dashboard-Crime/blob/master/source/images/readme-img/map.png)
 
 
--Bubble Map + Radial Column Chart
+-Bubble Map + Circular Barplot
 
 ![alt text](https://github.com/paolo-peretti/Dashboard-Crime/blob/master/source/images/readme-img/italy.png)
 
