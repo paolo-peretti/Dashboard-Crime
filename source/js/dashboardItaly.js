@@ -498,7 +498,7 @@ d3.csv("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/d
                 var widthmap = $('#mapItaly').width();
        
                 var heightmap = widthmap;
-        console.log(heightmap)
+        //console.log(heightmap)
     
     
     
