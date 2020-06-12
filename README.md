@@ -4,7 +4,7 @@ This project is an interactive-dashboard that represents a lot of criminal data 
 
 
 
--Bubble Map
+-Bubble Map + Choropleth Map
 
 ![alt text](https://github.com/paolo-peretti/Dashboard-Crime/blob/master/source/images/readme-img/map.png)
 
