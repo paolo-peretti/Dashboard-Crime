@@ -117,12 +117,17 @@ function CrimeWorldCC(){
                 d3.select("#resetbars").classed("hidden", bool);
                 document.getElementById("legenda").style.border = "0px solid #4CAF50";
                 d3.select("#legenda").style("margin-top", "0px");
+                d3.select("#legenda").style("margin-bottom", "0px");
+                 document.getElementById("titlelegenda").innerHTML="";
+                
                 d3.select("#legendabar").classed("hidden", bool);
                  d3.select("#legendabar").style("float", "left");
                  d3.select("#dbpn").classed("hidden", bool);
                 d3.select("#iperformance").classed("hidden", bool);
                 
                  if(bool == false){
+                     
+                 
                      
                      d3.select("#info").style("display", "flow-root");
 //                     document.getElementById("titledb").innerHTML="Positive Negative Barchart"; 
@@ -132,6 +137,9 @@ function CrimeWorldCC(){
 //                     document.getElementById("legenda").style.border = "10px solid #4CAF50";
                      document.getElementById("legendabar").style.border = "10px solid #4CAF50";
                  }else{
+                     
+                    
+                     
                      d3.select("#info").style("display", "none");
 //                     document.getElementById("titledb").innerHTML="";
                       d3.select("#resetbars").classed("btn btn-warning", false);
@@ -143,9 +151,11 @@ function CrimeWorldCC(){
             }
          
             function hiddenElemCompare1(bool){
+                document.getElementById("titlelegendabar").innerHTML = '';
               
                 d3.select("#legendabar").style("float", "none");
                  d3.select("#legenda").style("margin-top", "3%");
+                d3.select("#legenda").style("margin-bottom", "3%");
 //                d3.select("#legenda").classed("hidden", false);
                  d3.select("#info1").classed("hidden", bool);
                  d3.select("#podiumContainer").classed("hidden", true);
@@ -153,9 +163,11 @@ function CrimeWorldCC(){
    
             }
             function hiddenElemCompare2(bool){
+                document.getElementById("titlelegendabar").innerHTML = '';
                 
                  d3.select("#legendabar").style("float", "none");
               d3.select("#legenda").style("margin-top", "3%");
+                d3.select("#legenda").style("margin-bottom", "3%");
 //                d3.select("#legenda").classed("hidden", false);
                  d3.select("#info2").classed("hidden", bool);
                  d3.select("#podiumContainer").classed("hidden", true);
@@ -1601,8 +1613,6 @@ var path = d3.geoPath().projection(projection).pointRadius(1/5);
            
 			var zoom = d3.zoom()         
                         .scaleExtent([ 0.1, 1.0 ])
-                        //.translateExtent([[ 975.973, 770,067 ], [ -16.026, -188.932 ]])//limit panning
-            
 						 .on("zoom", zooming);
 
     
@@ -1770,7 +1780,12 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
             .selectAll("boundary")
             .data(world.features)
             .enter().append("path")
-            .attr("d", path);
+            .attr("d", path)
+            .attr('fill',function(d){
+                             return colormap(countryName(d.properties.name));
+//                                return "#DEB887";
+                           
+                         });
         
     
                 liFaction.addEventListener('click', () => {
@@ -1811,18 +1826,55 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                  });
     
     
+       
+
+           function colormap(country){
+               
+               
+               var check = false;
+               
+                for(var i=0;i<dataset.length && !check;i++){ 
+                    
+                        if( dataset[i]["Country"] == country && dataset[i]["City"] == ""){
+                            check = true;
+                            var cindexTmp = dataset[i]["cindex"];
+                        }
+                }
+               
+               if( cindexTmp <= 20 ){
+                   return "#FDEBD0";
+               }else if( cindexTmp > 20 && cindexTmp <= 40 ){
+                    return "#F8C471";
+               }else if( cindexTmp > 40 && cindexTmp <= 60 ){
+                    return "#EB984E";
+               }else if( cindexTmp > 60 && cindexTmp <= 80 ){
+                    return "#E67E22";
+               }else if( cindexTmp > 80 && cindexTmp <= 100 ){
+                    return "#CA6F1E";
+               }
+               
+//              console.log(cindexTmp) 
+               
+                
+               
+               
+           }        
+    
+    
+    
     
             Wmap.on("mouseover",function(d){
                          tipM.show(d);
                         
                         d3.select(this)
                             .attr('fill','lightgreen')
-              ;
+                        ;
                     })
                 .on("mouseout",function(d){
                          tipM.hide(d);
                          d3.select(this).attr('fill',function(d){
-                                return "#DEB887";
+                             return colormap(countryName(d.properties.name));
+//                                return "#DEB887";
                            
                          });
             })
@@ -1847,7 +1899,10 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                 for(var i=0;i<dataset.length && !bool ;i++)  {
                         if(dataset[i]["selected"] == 1 && !boolB && !CountriesSmall.includes(dataset[i]["selected"])){
                                   Wmap
-                                    .attr('fill', "#DEB887")
+                                    .attr('fill', function(d){
+//                                      "#DEB887"
+                                      return colormap(countryName(d.properties.name));
+                                  })
                                     .style('fill', function(d){
                                
                                         if(countryName(d.properties.name) == dataset[i]["Country"] ){
@@ -1872,7 +1927,10 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 //                            console.log(i+" : "+dataset[i]["Country"])
                             
                                     Wmap
-                                        .attr('fill', "#DEB887")
+                                        .attr('fill', function(d){
+//                                      "#DEB887"
+                                      return colormap(countryName(d.properties.name));
+                                  })
                                     .style('fill', function(d){
                                
                                         if(countryName(d.properties.name) == dataset[i]["Country"] ){
@@ -1921,7 +1979,10 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                 city = true;
             }
              Wmap
-                 .attr('fill', "#DEB887")
+                 .attr('fill', function(d){
+//                                      "#DEB887"
+                                      return colormap(countryName(d.properties.name));
+                                  })
                  .style('fill', function(d){
                      if(city && s==z){
                         
@@ -1931,7 +1992,8 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 
                      }else{
                          if(countryName(d.properties.name) == s){
-                                return "#DEB887";
+                             return colormap(countryName(d.properties.name));
+//                                return "#DEB887";
                          }
                          if(countryName(d.properties.name) == z){
                                 return "#00FF00";
@@ -4045,11 +4107,14 @@ var barsvg = d3.select("#barchart").append("svg")
                     }    
 //                             console.log(relatedCities) 
                         if(relatedCities.length >= 3){ 
-                             document.getElementById('legendabar').title = 'click a text/rect to change the podium';
-
+                            
+                            document.getElementById("titlelegendabar").innerHTML='click a text/rect to change the podium';
+                          $("#legendabar").css("margin-bottom", '0px');
+                             
                             d3.select("#podiumContainer").classed("hidden", false);   
                      }else{
-                          document.getElementById('legendabar').title = '';
+                         $("#legendabar").css("margin-bottom", '3%');
+                          document.getElementById("titlelegendabar").innerHTML = '';
                          document.getElementById("titlepodiump").innerHTML="";
                      }
                             var podium = new Array();  
@@ -4324,12 +4389,16 @@ if(podium.length!=0){
                     
                     hiddenElem(true);
                     if((cc==undefined || cc=="")&&(ccc==undefined || ccc=="")){
+                        
                         d3.select("#linechart").classed("hidden", true);
                         d3.select("#containerPie").classed("hidden", true);
                         document.getElementById("legenda").style.border = "0px solid #4CAF50";
                          d3.select("#legenda").classed("hidden", true);
+                          document.getElementById("titlelegenda").innerHTML="";
+                        
                     }else{
                       d3.select("#legenda").classed("hidden", false);    
+                      document.getElementById("titlelegenda").innerHTML="Click a text/rect to change the Donut Chart";
                      d3.select("#containerPie").classed("hidden", false);
                      document.getElementById("legenda").style.border = "10px solid #4CAF50"; 
                  
@@ -4339,6 +4408,7 @@ if(podium.length!=0){
                         d3.select("#containerPie").classed("hidden", true);
                         document.getElementById("legenda").style.border = "0px solid #4CAF50";
                          d3.select("#legenda").classed("hidden", true);
+                         document.getElementById("titlelegenda").innerHTML="";
                     }
                     
                     if(ccc!=undefined && ccc!="")

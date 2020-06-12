@@ -234,8 +234,7 @@ function CrimeEurope(){
     }
       
     
-//var wmap=1200;
-//var hmap=500;
+
     
 
  
@@ -1369,7 +1368,12 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
             .selectAll("boundary")
             .data(world.features)
             .enter().append("path")
-            .attr("d", path);
+            .attr("d", path)
+            .attr('fill',function(d){
+                             return colormap(countryName(d.properties.name));
+//                                return "#DEB887";
+                           
+                         });
         
     
                 liFaction.addEventListener('click', () => {
@@ -1416,6 +1420,66 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                  });
     
     
+              function averageCindex(index){
+               
+                        var sum=0;
+                        var count=0;
+
+
+                            for(var j=0;j<yearsCompact.length;j++){
+                                
+                                if(dataset[index][yearsCompact[j]]!=0){
+                    
+                                    sum += dataset[index][yearsCompact[j]];
+                                    count++;
+                                }
+                                        
+                            }
+
+                        return (sum/count);
+
+                   }
+            
+                  
+    
+            function colormap(tmpCountry){
+               
+               
+               var check = false;
+                var sum=0;
+                var count=0;
+               
+                for(var i=0;i<dataset.length;i++){ 
+                    
+                        if( dataset[i]["country"] == tmpCountry ){
+                            count++;
+                            sum += averageCindex(i);
+
+                        }
+                }
+                
+                var cindexTmp = roundTo((sum/count),2);
+               
+               
+               if( cindexTmp <= 20 ){
+                   return "#FDEBD0";
+               }else if( cindexTmp > 20 && cindexTmp <= 40 ){
+                    return "#F8C471";
+               }else if( cindexTmp > 40 && cindexTmp <= 60 ){
+                    return "#EB984E";
+               }else if( cindexTmp > 60 && cindexTmp <= 80 ){
+                    return "#E67E22";
+               }else if( cindexTmp > 80 && cindexTmp <= 100 ){
+                    return "#CA6F1E";
+               }
+               
+//              console.log(cindexTmp) 
+               
+                
+               
+               
+           }        
+    
     
             Wmap.on("mouseover",function(d){
                          tipM.show(d);
@@ -1427,7 +1491,8 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                 .on("mouseout",function(d){
                          tipM.hide(d);
                          d3.select(this).attr('fill',function(d){
-                                return "#DEB887";
+                               return colormap(countryName(d.properties.name));
+//                                return "#DEB887";
                            
                          });
             })
@@ -1465,7 +1530,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 
                                 if(!boolB){
                                           Wmap
-                                            .attr('fill', "#DEB887")
+                                            .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1491,7 +1558,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
         //                            console.log(i+" : "+dataset[i]["Country"])
 
                                             Wmap
-                                                .attr('fill', "#DEB887")
+                                                 .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1526,7 +1595,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                                         tmpc = dataset[i]["country"];
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1550,7 +1621,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                         else if(tmpc!="" && dataset[i]["country"]!=tmpc && dataset[i]["selected"] == 1 ){
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1594,7 +1667,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 
                                 if(!boolB){
                                           Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1620,7 +1695,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
         //                            console.log(i+" : "+dataset[i]["Country"])
 
                                             Wmap
-                                                .attr('fill', "#DEB887")
+                                                 .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1658,7 +1735,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                                         tmpc = dataset[i]["country"];
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1682,7 +1761,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                             else if(tmpc!="" && dataset[i]["country"]!=tmpc && dataset[i]["selected"] == 1 ){
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1720,7 +1801,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                                      
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1750,7 +1833,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                                         boolS=true;
                                             
                                             Wmap
-                                                .attr('fill', "#DEB887")
+                                                 .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[j]["country"] ){
@@ -1816,7 +1901,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                              else if( !boolA && dataset[i]["selectedCountry"] == 1 ){
 
                                             Wmap
-                                            .attr('fill', "#DEB887")
+                                             .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[i]["country"] ){
@@ -1846,7 +1933,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                                         boolR=true;
                                             
                                             Wmap
-                                                .attr('fill', "#DEB887")
+                                                 .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                                             .style('fill', function(d){
 
                                                 if(countryName(d.properties.name) == dataset[j]["country"] ){
@@ -1994,7 +2083,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                 
             }
              Wmap
-                 .attr('fill', "#DEB887")
+                  .attr('fill', function(d){
+                                              return colormap(countryName(d.properties.name));
+                                            })
                  .style('fill', function(d){
                      if(s==z){
                         
@@ -2004,7 +2095,9 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 
                      }else{
                          if(countryName(d.properties.name) == s){
-                                return "#DEB887";
+                                
+                                return colormap(countryName(d.properties.name));
+                                     
                          }
                          if(countryName(d.properties.name) == z){
                                 return "#00FF00";
@@ -2534,12 +2627,7 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
                            }
                            
                        }
-//                            for(var i=0;i<country.length;i++){
-//                                
-//                                sum += averageCity(country[i]["years"]);
-//                                
-//                                counttmp++;
-//                            }
+
                        
                             return sum/counttmp;
 
@@ -2963,12 +3051,10 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 					area = d3.area()
 
 								.x(function(d, i) { 
-//                        console.log(xScale(d.data.years[i].year))
-//                             32
-                                return xScale(i)+(0.032*w);
+                        
+                                    return xScale(i)+(0.032*w);
                                 })
 								.y0(function(d) { 
-//                                CountryCities[j][z][0]
                                   
                                 return yScale(d[0]); })
                     
@@ -5110,10 +5196,8 @@ d3.json("https://raw.githubusercontent.com/paolo-peretti/Dashboard-Crime/master/
 					var stackarea = d3.select("#stackarea")
 								.append("svg")
                                 .attr("viewBox","0 0 "+w+" " +(h+(h*0.104433078)));
-//								.attr("width", w)
-//								.attr("height", h+(h*0.104433078));
-                    
-                    
+
+                        
                     stackarea.append("g")
 						.attr("id", "cities");
                     

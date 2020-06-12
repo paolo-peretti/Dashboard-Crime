@@ -830,7 +830,22 @@ text-align: center;
 /*    width: 100px;*/
     height: 100%;
     float: left;
-    background-color: #DEB887;
+/*    background-color: #DEB887;*/
+}
+#to20{
+    background-color: #FDEBD0;
+}
+#to40{
+    background-color: #F8C471;
+}
+#to60{
+    background-color: #EB984E;
+}
+#to80{
+   background-color: #E67E22;
+}
+#to100{
+    background-color: #CA6F1E;
 }
 .grid line {stroke: lightgrey;stroke-opacity: 0.7;shape-rendering: crispEdges;}
 .grid path {stroke-width: 0;}
